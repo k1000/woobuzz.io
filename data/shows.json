@@ -1,6 +1,14 @@
 {
   "shows": [
     {
+      "id": "the_genius_of_bach_20260101_210120",
+      "title": "The Genius of Bach",
+      "cover": "shows/the_genius_of_bach_20260101_210120/cover.jpg",
+      "mixcloud_url": "https://www.mixcloud.com/wobuzz/the-genius-of-bach/",
+      "tags": [],
+      "published_at": "2026-01-01T20:01:20.256581Z"
+    },
+    {
       "id": "the_genius_of_bach_20260101_203817",
       "title": "The Genius of Bach",
       "cover": "shows/the_genius_of_bach_20260101_203817/cover.jpg",
@@ -17,5 +25,5 @@
       "published_at": "2026-01-01T18:24:00.925140Z"
     }
   ],
-  "updated_at": "2026-01-01T19:38:17.527142Z"
+  "updated_at": "2026-01-01T20:01:20.256588Z"
 }
