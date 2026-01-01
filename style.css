@@ -57,6 +57,7 @@ header {
     background: #00A8B7;
     position: relative;
     display: flex;
+    min-height: 500px;
 }
 
 .hero-content {
@@ -68,15 +69,17 @@ header {
 .hero-cover {
     flex: 0 0 auto;
     display: flex;
+    height: 100%;
 }
 
 .hero-cover a {
-    display: block;
+    display: flex;
+    height: 100%;
 }
 
 .hero-cover img {
     width: auto;
-    height: 400px;
+    height: 500px;
     aspect-ratio: 1;
     object-fit: cover;
     background: #fff;
@@ -89,6 +92,7 @@ header {
     display: flex;
     flex-direction: column;
     justify-content: center;
+    min-width: 0;
 }
 
 .hero-series {
