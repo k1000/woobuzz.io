@@ -1,11 +1,18 @@
 async function loadShows() {
     const grid = document.getElementById('shows-grid');
+    const hero = document.getElementById('hero');
+    const latestCover = document.getElementById('latest-cover');
+    const latestTitle = document.getElementById('latest-title');
+    const latestTags = document.getElementById('latest-tags');
+    const mixcloudWidget = document.getElementById('mixcloud-widget');
+    const playBtn = document.getElementById('play-btn');
 
     try {
         const response = await fetch('data/shows.json');
         const data = await response.json();
 
         if (!data.shows || data.shows.length === 0) {
+            latestTitle.textContent = 'No shows yet';
             grid.innerHTML = '<div class="empty-state"><p>No shows yet. Check back soon!</p></div>';
             return;
         }
@@ -13,7 +20,49 @@ async function loadShows() {
         // Sort by date, newest first
         data.shows.sort((a, b) => new Date(b.published_at) - new Date(a.published_at));
 
-        data.shows.forEach(show => {
+        // Latest show in hero
+        const latest = data.shows[0];
+        latestCover.src = latest.cover;
+        latestCover.alt = latest.title;
+        latestTitle.textContent = latest.title;
+
+        // Tags for latest show
+        if (latest.tags && latest.tags.length > 0) {
+            latestTags.innerHTML = latest.tags.slice(0, 2).map(tag =>
+                `<span class="tag">#${tag}</span>`
+            ).join(' ');
+        }
+
+        // Set hero background color if provided
+        if (latest.background_color) {
+            hero.style.background = latest.background_color;
+        }
+
+        // Mixcloud embed widget
+        if (latest.mixcloud_url) {
+            const mixcloudKey = latest.mixcloud_url.replace('https://www.mixcloud.com', '');
+            mixcloudWidget.innerHTML = `
+                <iframe
+                    src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&mini=1&feed=${encodeURIComponent(mixcloudKey)}"
+                    allow="autoplay">
+                </iframe>
+            `;
+
+            // Play button opens Mixcloud or triggers widget
+            playBtn.onclick = () => {
+                window.open(latest.mixcloud_url, '_blank');
+            };
+        }
+
+        // Archive grid (skip first since it's in hero)
+        const archiveShows = data.shows.slice(1);
+
+        if (archiveShows.length === 0) {
+            grid.innerHTML = '<div class="empty-state"><p>More shows coming soon!</p></div>';
+            return;
+        }
+
+        archiveShows.forEach(show => {
             const card = document.createElement('article');
             card.className = 'show-card';
 
@@ -23,10 +72,9 @@ async function loadShows() {
                 day: 'numeric'
             });
 
-            // Build tags HTML if available
             let tagsHtml = '';
             if (show.tags && show.tags.length > 0) {
-                tagsHtml = show.tags.slice(0, 3).map(tag =>
+                tagsHtml = show.tags.slice(0, 2).map(tag =>
                     `<span class="tag">#${tag}</span>`
                 ).join('');
             }
@@ -45,6 +93,7 @@ async function loadShows() {
         });
     } catch (error) {
         console.error('Failed to load shows:', error);
+        latestTitle.textContent = 'Coming soon';
         grid.innerHTML = '<div class="empty-state"><p>No shows yet. Check back soon!</p></div>';
     }
 }

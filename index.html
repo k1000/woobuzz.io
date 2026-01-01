@@ -4,26 +4,48 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>WoBuzz - Digital Radio</title>
-    <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@500;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Oswald:ital,wght@0,500;0,700;1,500;1,700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-    <header>
+    <header class="top-bar">
         <div class="logo">
             <span class="logo-main">woBuzz!</span>
             <span class="logo-sub">radio</span>
         </div>
         <nav>
-            <a href="#shows">Archive</a>
+            <a href="#archive">Archive</a>
         </nav>
     </header>
-    <main id="shows">
-        <h2>Shows</h2>
+
+    <section id="hero" class="hero">
+        <div class="hero-content">
+            <div class="hero-cover">
+                <img id="latest-cover" src="" alt="Latest show cover">
+                <button class="play-btn" id="play-btn" aria-label="Play">
+                    <svg viewBox="0 0 24 24" fill="currentColor">
+                        <path d="M8 5v14l11-7z"/>
+                    </svg>
+                </button>
+            </div>
+            <div class="hero-info">
+                <span class="hero-label">latest show:</span>
+                <h1 id="latest-title">Loading...</h1>
+                <div id="latest-tags" class="hero-tags"></div>
+            </div>
+        </div>
+        <div class="mixcloud-widget" id="mixcloud-widget"></div>
+    </section>
+
+    <section id="archive" class="archive">
+        <h2>Archive</h2>
         <div id="shows-grid" class="shows-grid"></div>
-    </main>
+    </section>
+
     <footer>
         <p>Powered by RDIO</p>
     </footer>
+
     <script src="js/app.js"></script>
 </body>
 </html>
