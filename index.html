@@ -3,45 +3,147 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>WoBuzz - Digital Radio</title>
-    <link href="https://fonts.googleapis.com/css2?family=Oswald:ital,wght@0,500;0,700;1,500;1,700&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="css/style.css">
+    <title>Wobuzz Radio - All Shows</title>
+    <link rel="stylesheet" href="/style.css">
+    
 </head>
 <body>
-    <header class="top-bar">
-        <div class="logo">
-            <span class="logo-main">woBuzz!</span>
-            <span class="logo-sub">radio</span>
-        </div>
-        <nav>
-            <a href="#archive">Archive</a>
-        </nav>
+    <header>
+        <a href="/" class="logo">Wobuzz</a>
     </header>
 
-    <section id="hero" class="hero">
-        <div class="hero-content">
-            <div class="hero-cover">
-                <a id="cover-link" href="#" target="_blank" rel="noopener">
-                    <img id="latest-cover" src="" alt="Latest show cover">
-                </a>
+    <main>
+        
+<h1>Radio Shows</h1>
+
+<div class="shows-grid">
+    
+    <article class="show-card" style="background-color: #3D1A00">
+        <a href="/shows/black_president__the_revolutio_20260102_001631/">
+            <img src="/shows/black_president__the_revolutio_20260102_001631/cover.jpg" alt="Black President: The Revolutionary Sound of Fela Kuti" loading="lazy">
+            <div class="show-info">
+                <h2>Black President: The Revolutionary Sound of Fela Kuti</h2>
+                
+                <div class="tags">
+                    
+                    <span class="tag">afrobeat</span>
+                    
+                    <span class="tag">fela kuti</span>
+                    
+                    <span class="tag">african music</span>
+                    
+                </div>
+                
             </div>
-            <div class="hero-info">
-                <h1 id="latest-title">Loading...</h1>
-                <p id="latest-description" class="hero-description"></p>
-                <span id="latest-series" class="hero-series"></span>
-                <div id="latest-tags" class="hero-tags"></div>
-                <div class="mixcloud-widget" id="mixcloud-widget"></div>
+        </a>
+    </article>
+    
+    <article class="show-card" style="background-color: #1A1A1A">
+        <a href="/shows/brazilian_heat_20260101_224021/">
+            <img src="/shows/brazilian_heat_20260101_224021/cover.jpg" alt="Brazilian Heat" loading="lazy">
+            <div class="show-info">
+                <h2>Brazilian Heat</h2>
+                
             </div>
-        </div>
-    </section>
+        </a>
+    </article>
+    
+    <article class="show-card" style="background-color: #C41E3A">
+        <a href="/shows/free_spirit_jazz_20260101_221023/">
+            <img src="/shows/free_spirit_jazz_20260101_221023/cover.jpg" alt="Free Spirit Jazz" loading="lazy">
+            <div class="show-info">
+                <h2>Free Spirit Jazz</h2>
+                
+            </div>
+        </a>
+    </article>
+    
+    <article class="show-card" style="background-color: #C41E3A">
+        <a href="/shows/latin_jazz_corner_20260101_214943/">
+            <img src="/shows/latin_jazz_corner_20260101_214943/cover.jpg" alt="Latin Jazz Corner" loading="lazy">
+            <div class="show-info">
+                <h2>Latin Jazz Corner</h2>
+                
+                <div class="tags">
+                    
+                    <span class="tag">latin</span>
+                    
+                    <span class="tag">jazz</span>
+                    
+                    <span class="tag">afro-cuban</span>
+                    
+                </div>
+                
+            </div>
+        </a>
+    </article>
+    
+    <article class="show-card" style="background-color: #C41E3A">
+        <a href="/shows/modal_masters_20260101_213809/">
+            <img src="/shows/modal_masters_20260101_213809/cover.jpg" alt="Modal Masters" loading="lazy">
+            <div class="show-info">
+                <h2>Modal Masters</h2>
+                
+                <div class="tags">
+                    
+                    <span class="tag">jazz</span>
+                    
+                    <span class="tag">bebop</span>
+                    
+                    <span class="tag">modal</span>
+                    
+                </div>
+                
+            </div>
+        </a>
+    </article>
+    
+    <article class="show-card" style="background-color: #036AE0">
+        <a href="/shows/the_genius_of_bach_20260101_210120/">
+            <img src="/shows/the_genius_of_bach_20260101_210120/cover.jpg" alt="The Genius of Bach" loading="lazy">
+            <div class="show-info">
+                <h2>The Genius of Bach</h2>
+                
+                <div class="tags">
+                    
+                    <span class="tag">classical</span>
+                    
+                    <span class="tag">baroque</span>
+                    
+                    <span class="tag">piano</span>
+                    
+                </div>
+                
+            </div>
+        </a>
+    </article>
+    
+    <article class="show-card" style="background-color: #C59A0E">
+        <a href="/shows/indie_in_2000__cartesia_editio_20260101_192400/">
+            <img src="/shows/indie_in_2000__cartesia_editio_20260101_192400/cover.jpg" alt="Indie in 2000 (Cartesia Edition)" loading="lazy">
+            <div class="show-info">
+                <h2>Indie in 2000 (Cartesia Edition)</h2>
+                
+                <div class="tags">
+                    
+                    <span class="tag">indie</span>
+                    
+                    <span class="tag">alternative</span>
+                    
+                    <span class="tag">2000s</span>
+                    
+                </div>
+                
+            </div>
+        </a>
+    </article>
+    
+</div>
 
-    <section id="archive" class="archive">
-        <h2>Archive</h2>
-        <div id="shows-grid" class="shows-grid"></div>
-    </section>
+    </main>
 
-    <footer></footer>
-
-    <script src="js/app.js"></script>
+    <footer>
+        <p>Generated with RDIO</p>
+    </footer>
 </body>
 </html>

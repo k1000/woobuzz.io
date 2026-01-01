@@ -1,6 +1,25 @@
 {
   "shows": [
     {
+      "id": "black_president__the_revolutio_20260102_001631",
+      "title": "Black President: The Revolutionary Sound of Fela Kuti",
+      "cover": "shows/black_president__the_revolutio_20260102_001631/cover.jpg",
+      "mixcloud_url": "https://www.mixcloud.com/wobuzz/black-president-the-revolutionary-sound-of-fela-kuti/",
+      "tags": [
+        "afrobeat",
+        "fela kuti",
+        "african music",
+        "protest music",
+        "nigerian",
+        "funk",
+        "jazz"
+      ],
+      "series": "African Legends",
+      "description": "A celebration of Fela Anikulapo Kuti, the Nigerian musician who invented Afrobeat and used his music as a weapon against corruption and military dictatorship. This show explores his incredible journey from London jazz student to Africa's most challenging and charismatic performer.",
+      "background_color": "#3D1A00",
+      "published_at": "2026-01-01T23:16:31.977194Z"
+    },
+    {
       "id": "brazilian_heat_20260101_224021",
       "title": "Brazilian Heat",
       "cover": "shows/brazilian_heat_20260101_224021/cover.jpg",
@@ -85,5 +104,5 @@
       "published_at": "2026-01-01T18:24:00.925140Z"
     }
   ],
-  "updated_at": "2026-01-01T21:40:21.797240Z"
+  "updated_at": "2026-01-01T23:16:31.977199Z"
 }
