@@ -75,63 +75,38 @@ nav a:hover {
 /* Hero Section */
 .hero {
     background: #00A8B7;
-    padding: 3rem 4rem;
     position: relative;
 }
 
 .hero-content {
     display: flex;
-    align-items: center;
-    gap: 3rem;
+    align-items: stretch;
     max-width: 1200px;
     margin: 0 auto;
 }
 
 .hero-cover {
-    position: relative;
     flex-shrink: 0;
 }
 
+.hero-cover a {
+    display: block;
+}
+
 .hero-cover img {
-    width: 450px;
-    height: 450px;
-    border-radius: 0;
+    width: 400px;
+    height: 400px;
     object-fit: cover;
     background: #fff;
-    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);
-}
-
-.play-btn {
-    position: absolute;
-    bottom: 1rem;
-    right: 1rem;
-    width: 56px;
-    height: 56px;
-    border-radius: 50%;
-    background: #fff;
-    border: none;
-    cursor: pointer;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    transition: transform 0.2s, box-shadow 0.2s;
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
-}
-
-.play-btn:hover {
-    transform: scale(1.1);
-    box-shadow: 0 6px 16px rgba(0, 0, 0, 0.4);
-}
-
-.play-btn svg {
-    width: 28px;
-    height: 28px;
-    color: #00A8B7;
-    margin-left: 3px;
+    display: block;
 }
 
 .hero-info {
     flex: 1;
+    padding: 3rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
 }
 
 .hero-series {
@@ -286,31 +261,19 @@ footer {
 
 /* Responsive */
 @media (max-width: 768px) {
-    .hero {
-        padding: 1.5rem;
-    }
-
     .hero-content {
         flex-direction: column;
         text-align: center;
-        gap: 1.5rem;
     }
 
     .hero-cover img {
-        width: 280px;
-        height: 280px;
+        width: 100%;
+        height: auto;
+        aspect-ratio: 1;
     }
 
-    .play-btn {
-        width: 48px;
-        height: 48px;
-        bottom: 0.75rem;
-        right: 0.75rem;
-    }
-
-    .play-btn svg {
-        width: 24px;
-        height: 24px;
+    .hero-info {
+        padding: 1.5rem;
     }
 
     .hero-info h1 {

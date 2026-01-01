@@ -2,12 +2,12 @@ async function loadShows() {
     const grid = document.getElementById('shows-grid');
     const hero = document.getElementById('hero');
     const latestCover = document.getElementById('latest-cover');
+    const coverLink = document.getElementById('cover-link');
     const latestTitle = document.getElementById('latest-title');
     const latestTags = document.getElementById('latest-tags');
     const latestSeries = document.getElementById('latest-series');
     const latestDescription = document.getElementById('latest-description');
     const mixcloudWidget = document.getElementById('mixcloud-widget');
-    const playBtn = document.getElementById('play-btn');
 
     try {
         const response = await fetch('data/shows.json');
@@ -50,8 +50,10 @@ async function loadShows() {
             hero.style.background = latest.background_color;
         }
 
-        // Mixcloud embed widget
+        // Mixcloud embed widget and cover link
         if (latest.mixcloud_url) {
+            coverLink.href = latest.mixcloud_url;
+
             const mixcloudKey = latest.mixcloud_url.replace('https://www.mixcloud.com', '');
             mixcloudWidget.innerHTML = `
                 <iframe
@@ -59,11 +61,6 @@ async function loadShows() {
                     allow="autoplay">
                 </iframe>
             `;
-
-            // Play button opens Mixcloud or triggers widget
-            playBtn.onclick = () => {
-                window.open(latest.mixcloud_url, '_blank');
-            };
         }
 
         // Archive grid (skip first since it's in hero)
