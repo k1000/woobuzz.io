@@ -1,6 +1,14 @@
 {
   "shows": [
     {
+      "id": "the_genius_of_bach_20260101_203817",
+      "title": "The Genius of Bach",
+      "cover": "shows/the_genius_of_bach_20260101_203817/cover.jpg",
+      "mixcloud_url": "https://www.mixcloud.com/kmil/the-genius-of-bach/",
+      "tags": [],
+      "published_at": "2026-01-01T19:38:17.527135Z"
+    },
+    {
       "id": "indie_in_2000__cartesia_editio_20260101_192400",
       "title": "Indie in 2000 (Cartesia Edition)",
       "cover": "shows/indie_in_2000__cartesia_editio_20260101_192400/cover.jpg",
@@ -9,5 +17,5 @@
       "published_at": "2026-01-01T18:24:00.925140Z"
     }
   ],
-  "updated_at": "2026-01-01T18:24:00.925145Z"
+  "updated_at": "2026-01-01T19:38:17.527142Z"
 }
