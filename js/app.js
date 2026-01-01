@@ -4,6 +4,8 @@ async function loadShows() {
     const latestCover = document.getElementById('latest-cover');
     const latestTitle = document.getElementById('latest-title');
     const latestTags = document.getElementById('latest-tags');
+    const latestSeries = document.getElementById('latest-series');
+    const latestDescription = document.getElementById('latest-description');
     const mixcloudWidget = document.getElementById('mixcloud-widget');
     const playBtn = document.getElementById('play-btn');
 
@@ -31,6 +33,16 @@ async function loadShows() {
             latestTags.innerHTML = latest.tags.slice(0, 2).map(tag =>
                 `<span class="tag">#${tag}</span>`
             ).join(' ');
+        }
+
+        // Series for latest show
+        if (latestSeries && latest.series) {
+            latestSeries.textContent = latest.series;
+        }
+
+        // Description for latest show
+        if (latestDescription && latest.description) {
+            latestDescription.textContent = latest.description;
         }
 
         // Set hero background color if provided
@@ -79,10 +91,13 @@ async function loadShows() {
                 ).join('');
             }
 
+            const seriesHtml = show.series ? `<div class="series">${show.series}</div>` : '';
+
             card.innerHTML = `
                 <a href="${show.mixcloud_url}" target="_blank" rel="noopener">
                     <img src="${show.cover}" alt="${show.title}" loading="lazy">
                     <div class="info">
+                        ${seriesHtml}
                         <h3>${show.title}</h3>
                         ${tagsHtml}
                         <div class="date">${date}</div>
