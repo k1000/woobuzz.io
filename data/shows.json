@@ -1,4 +1,13 @@
 {
-  "shows": [],
-  "updated_at": null
+  "shows": [
+    {
+      "id": "indie_in_2000__cartesia_editio_20260101_192400",
+      "title": "Indie in 2000 (Cartesia Edition)",
+      "cover": "shows/indie_in_2000__cartesia_editio_20260101_192400/cover.jpg",
+      "mixcloud_url": "https://www.mixcloud.com/kmil/indie-in-2000-cartesia-edition/",
+      "tags": [],
+      "published_at": "2026-01-01T18:24:00.925140Z"
+    }
+  ],
+  "updated_at": "2026-01-01T18:24:00.925145Z"
 }
