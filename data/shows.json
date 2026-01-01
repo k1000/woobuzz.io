@@ -8,6 +8,7 @@
       "tags": ["classical", "baroque", "piano"],
       "series": "Classical Masters",
       "description": "A journey through Bach's most profound keyboard works, featuring legendary performances by Glenn Gould and Rosalyn Tureck.",
+      "background_color": "#036AE0",
       "published_at": "2026-01-01T20:01:20.256581Z"
     },
     {
@@ -18,8 +19,9 @@
       "tags": ["indie", "alternative", "2000s"],
       "series": "Decade Sessions",
       "description": "Exploring the indie rock explosion at the turn of the millennium with essential tracks from the year 2000.",
+      "background_color": "#C59A0E",
       "published_at": "2026-01-01T18:24:00.925140Z"
     }
   ],
-  "updated_at": "2026-01-01T21:15:00.000000Z"
+  "updated_at": "2026-01-01T21:30:00.000000Z"
 }
