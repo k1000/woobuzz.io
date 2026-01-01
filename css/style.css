@@ -93,20 +93,20 @@ nav a:hover {
 }
 
 .hero-cover img {
-    width: 200px;
-    height: 200px;
-    border-radius: 50%;
+    width: 280px;
+    height: 280px;
+    border-radius: 8px;
     object-fit: cover;
     background: #fff;
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);
 }
 
 .play-btn {
     position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    width: 120px;
-    height: 120px;
+    bottom: 1rem;
+    right: 1rem;
+    width: 56px;
+    height: 56px;
     border-radius: 50%;
     background: #fff;
     border: none;
@@ -114,18 +114,20 @@ nav a:hover {
     display: flex;
     align-items: center;
     justify-content: center;
-    transition: transform 0.2s;
+    transition: transform 0.2s, box-shadow 0.2s;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
 }
 
 .play-btn:hover {
-    transform: translate(-50%, -50%) scale(1.05);
+    transform: scale(1.1);
+    box-shadow: 0 6px 16px rgba(0, 0, 0, 0.4);
 }
 
 .play-btn svg {
-    width: 50px;
-    height: 50px;
+    width: 28px;
+    height: 28px;
     color: #00A8B7;
-    margin-left: 5px;
+    margin-left: 3px;
 }
 
 .hero-info {
@@ -285,23 +287,51 @@ footer {
 /* Responsive */
 @media (max-width: 768px) {
     .hero {
-        padding: 2rem;
+        padding: 1.5rem;
     }
 
     .hero-content {
         flex-direction: column;
         text-align: center;
+        gap: 1.5rem;
+    }
+
+    .hero-cover img {
+        width: 200px;
+        height: 200px;
+    }
+
+    .play-btn {
+        width: 48px;
+        height: 48px;
+        bottom: 0.75rem;
+        right: 0.75rem;
+    }
+
+    .play-btn svg {
+        width: 24px;
+        height: 24px;
     }
 
     .hero-info h1 {
-        font-size: 2.5rem;
+        font-size: 2rem;
     }
 
     .hero-description {
-        font-size: 1rem;
+        font-size: 0.95rem;
+        max-width: 100%;
+    }
+
+    .hero-tags {
+        justify-content: center;
     }
 
     .archive {
-        padding: 2rem;
+        padding: 1.5rem;
+    }
+
+    .shows-grid {
+        grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+        gap: 1rem;
     }
 }
