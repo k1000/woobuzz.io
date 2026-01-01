@@ -5,6 +5,7 @@
       "title": "The Genius of Bach",
       "cover": "shows/the_genius_of_bach_20260101_210120/cover.jpg",
       "mixcloud_url": "https://www.mixcloud.com/wobuzz/the-genius-of-bach/",
+      "genre": "classical",
       "tags": ["classical", "baroque", "piano"],
       "series": "Classical Masters",
       "description": "A journey through Bach's most profound keyboard works, featuring legendary performances by Glenn Gould and Rosalyn Tureck.",
@@ -16,6 +17,7 @@
       "title": "Indie in 2000 (Cartesia Edition)",
       "cover": "shows/indie_in_2000__cartesia_editio_20260101_192400/cover.jpg",
       "mixcloud_url": "https://www.mixcloud.com/kmil/indie-in-2000-cartesia-edition/",
+      "genre": "rock",
       "tags": ["indie", "alternative", "2000s"],
       "series": "Decade Sessions",
       "description": "Exploring the indie rock explosion at the turn of the millennium with essential tracks from the year 2000.",
@@ -23,5 +25,5 @@
       "published_at": "2026-01-01T18:24:00.925140Z"
     }
   ],
-  "updated_at": "2026-01-01T21:30:00.000000Z"
+  "updated_at": "2026-01-01T21:35:00.000000Z"
 }
