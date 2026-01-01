@@ -174,11 +174,7 @@ nav a:hover {
 }
 
 .archive h2 {
-    font-size: 1.5rem;
-    margin-bottom: 1.5rem;
-    border-bottom: 3px solid #00A8B7;
-    display: inline-block;
-    padding-bottom: 0.25rem;
+    display: none;
 }
 
 .shows-grid {
@@ -189,7 +185,6 @@ nav a:hover {
 
 .show-card {
     background: #1a1a1a;
-    border-radius: 8px;
     overflow: hidden;
     transition: transform 0.2s;
 }
@@ -211,7 +206,7 @@ nav a:hover {
 }
 
 .show-card .info {
-    padding: 1rem;
+    display: none;
 }
 
 .show-card .series {

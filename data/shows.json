@@ -1,6 +1,17 @@
 {
   "shows": [
     {
+      "id": "brazilian_heat_20260101_224021",
+      "title": "Brazilian Heat",
+      "cover": "shows/brazilian_heat_20260101_224021/cover.jpg",
+      "mixcloud_url": "https://www.mixcloud.com/wobuzz/brazilian-heat/",
+      "tags": [],
+      "series": "World Music Sessions",
+      "description": "",
+      "background_color": "#1A1A1A",
+      "published_at": "2026-01-01T21:40:21.797236Z"
+    },
+    {
       "id": "free_spirit_jazz_20260101_221023",
       "title": "Free Spirit Jazz",
       "cover": "shows/free_spirit_jazz_20260101_221023/cover.jpg",
@@ -8,7 +19,7 @@
       "tags": [],
       "series": "Jazz Frontiers",
       "description": "",
-      "background_color": "#1A1A1A",
+      "background_color": "#C41E3A",
       "published_at": "2026-01-01T21:10:23.040155Z"
     },
     {
@@ -74,5 +85,5 @@
       "published_at": "2026-01-01T18:24:00.925140Z"
     }
   ],
-  "updated_at": "2026-01-01T21:10:23.040158Z"
+  "updated_at": "2026-01-01T21:40:21.797240Z"
 }
