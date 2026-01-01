@@ -23,12 +23,21 @@ async function loadShows() {
                 day: 'numeric'
             });
 
+            // Build tags HTML if available
+            let tagsHtml = '';
+            if (show.tags && show.tags.length > 0) {
+                tagsHtml = show.tags.slice(0, 3).map(tag =>
+                    `<span class="tag">#${tag}</span>`
+                ).join('');
+            }
+
             card.innerHTML = `
                 <a href="${show.mixcloud_url}" target="_blank" rel="noopener">
                     <img src="${show.cover}" alt="${show.title}" loading="lazy">
                     <div class="info">
-                        <h2>${show.title}</h2>
-                        <span class="date">${date}</span>
+                        <h3>${show.title}</h3>
+                        ${tagsHtml}
+                        <div class="date">${date}</div>
                     </div>
                 </a>
             `;

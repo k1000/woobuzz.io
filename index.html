@@ -3,15 +3,24 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>WooBuzz Radio</title>
+    <title>WoBuzz - Digital Radio</title>
+    <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@500;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
     <header>
-        <h1>WooBuzz Radio</h1>
-        <p>AI-curated radio shows</p>
+        <div class="logo">
+            <span class="logo-main">woBuzz!</span>
+            <span class="logo-sub">radio</span>
+        </div>
+        <nav>
+            <a href="#shows">Archive</a>
+        </nav>
     </header>
-    <main id="shows-grid"></main>
+    <main id="shows">
+        <h2>Shows</h2>
+        <div id="shows-grid" class="shows-grid"></div>
+    </main>
     <footer>
         <p>Powered by RDIO</p>
     </footer>
