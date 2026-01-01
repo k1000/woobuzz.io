@@ -76,17 +76,18 @@ nav a:hover {
 .hero {
     background: #00A8B7;
     position: relative;
+    display: flex;
 }
 
 .hero-content {
     display: flex;
     align-items: stretch;
-    max-width: 1200px;
-    margin: 0 auto;
+    width: 100%;
 }
 
 .hero-cover {
-    flex-shrink: 0;
+    flex: 0 0 auto;
+    display: flex;
 }
 
 .hero-cover a {
@@ -94,8 +95,9 @@ nav a:hover {
 }
 
 .hero-cover img {
-    width: 400px;
+    width: auto;
     height: 400px;
+    aspect-ratio: 1;
     object-fit: cover;
     background: #fff;
     display: block;

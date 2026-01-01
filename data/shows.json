@@ -1,13 +1,29 @@
 {
   "shows": [
     {
+      "id": "free_spirit_jazz_20260101_221023",
+      "title": "Free Spirit Jazz",
+      "cover": "shows/free_spirit_jazz_20260101_221023/cover.jpg",
+      "mixcloud_url": "https://www.mixcloud.com/wobuzz/free-spirit-jazz/",
+      "tags": [],
+      "series": "Jazz Frontiers",
+      "description": "",
+      "background_color": "#1A1A1A",
+      "published_at": "2026-01-01T21:10:23.040155Z"
+    },
+    {
       "id": "latin_jazz_corner_20260101_214943",
       "title": "Latin Jazz Corner",
       "cover": "shows/latin_jazz_corner_20260101_214943/cover.jpg",
       "mixcloud_url": "https://www.mixcloud.com/wobuzz/latin-jazz-corner/",
-      "tags": [],
+      "tags": [
+        "latin",
+        "jazz",
+        "afro-cuban"
+      ],
       "series": "Latin Jazz Corner",
-      "description": "",
+      "description": "The fiery rhythms of Latin jazz, blending Afro-Cuban percussion with bebop sophistication.",
+      "background_color": "#C41E3A",
       "published_at": "2026-01-01T20:49:43.678120Z"
     },
     {
@@ -15,9 +31,14 @@
       "title": "Modal Masters",
       "cover": "shows/modal_masters_20260101_213809/cover.jpg",
       "mixcloud_url": "https://www.mixcloud.com/wobuzz/modal-masters/",
-      "tags": [],
+      "tags": [
+        "jazz",
+        "bebop",
+        "modal"
+      ],
       "series": "Jazz Heritage",
-      "description": "",
+      "description": "A celebration of the golden age of jazz innovation, from bebop pioneers to spiritual jazz explorers.",
+      "background_color": "#C41E3A",
       "published_at": "2026-01-01T20:38:09.502342Z"
     },
     {
@@ -53,5 +74,5 @@
       "published_at": "2026-01-01T18:24:00.925140Z"
     }
   ],
-  "updated_at": "2026-01-01T20:49:43.678126Z"
+  "updated_at": "2026-01-01T21:10:23.040158Z"
 }
