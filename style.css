@@ -88,11 +88,12 @@ header {
 
 .hero-info {
     flex: 1;
-    padding: 3rem;
+    padding: 3rem 4rem;
     display: flex;
     flex-direction: column;
     justify-content: center;
     min-width: 0;
+    gap: 0.75rem;
 }
 
 .hero-series {
@@ -108,25 +109,24 @@ header {
 }
 
 .hero-info h1 {
-    font-size: 4rem;
+    font-size: 3.5rem;
     font-weight: 700;
     color: #fff;
-    line-height: 1;
-    margin-bottom: 0.5rem;
+    line-height: 1.1;
 }
 
 .hero-description {
     font-size: 1.1rem;
     color: rgba(255, 255, 255, 0.9);
-    line-height: 1.4;
-    margin-bottom: 1rem;
-    max-width: 600px;
+    line-height: 1.5;
+    max-width: 550px;
 }
 
 .hero-tags {
     display: flex;
     gap: 0.5rem;
     flex-wrap: wrap;
+    margin-top: 0.5rem;
 }
 
 .hero-tags .tag {
@@ -204,8 +204,6 @@ header {
 
 .show-cover {
     width: 100%;
-    max-width: 400px;
-    border-radius: 8px;
     box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);
 }
 
@@ -325,7 +323,7 @@ footer {
     }
 
     .hero-info {
-        padding: 1.5rem;
+        padding: 2rem;
     }
 
     .hero-info h1 {
@@ -333,7 +331,7 @@ footer {
     }
 
     .hero-description {
-        font-size: 0.95rem;
+        font-size: 1rem;
         max-width: 100%;
     }
 
