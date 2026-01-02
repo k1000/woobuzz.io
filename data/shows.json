@@ -1,24 +1,6 @@
 {
   "shows": [
     {
-      "id": "weather_report__forecast_for_f_20260102_195645",
-      "title": "Weather Report: Forecast for Fusion",
-      "cover": "shows/weather_report__forecast_for_f_20260102_195645/cover.jpg",
-      "mixcloud_url": "https://www.mixcloud.com/wobuzz/weather-report-forecast-for-fusion/",
-      "tags": [
-        "jazz-fusion",
-        "weather-report",
-        "jazz-rock",
-        "experimental",
-        "fusion",
-        "jaco-pastorius"
-      ],
-      "series": "Fusion Frontiers",
-      "description": "A deep dive into one of jazz fusion's most influential bands - Weather Report. From their groundbreaking Heavy Weather to the electrifying live performances with Jaco Pastorius, this show celebrates the sonic revolution created by Joe Zawinul, Wayne Shorter, and their legendary collaborators.",
-      "background_color": "#1A1A1A",
-      "published_at": "2026-01-02T18:56:46.113356Z"
-    },
-    {
       "id": "duende___the_soul_of_flamenco_20260102_004910",
       "title": "Duende - The Soul of Flamenco",
       "cover": "shows/duende___the_soul_of_flamenco_20260102_004910/cover.jpg",
@@ -139,5 +121,5 @@
       "published_at": "2026-01-01T18:24:00.925140Z"
     }
   ],
-  "updated_at": "2026-01-02T18:56:46.113363Z"
+  "updated_at": "2026-01-02T20:00:00.000000Z"
 }
