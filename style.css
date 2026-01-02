@@ -192,20 +192,13 @@ header {
 
 /* Show Detail Page */
 .show-detail {
-    max-width: none;
-    margin: 0;
-    padding: 0;
-}
-
-.show-detail .hero {
-    margin-bottom: 0;
-}
-
-.show-detail .tracklist,
-.show-detail .back-link {
     max-width: 800px;
-    margin: 2rem auto;
+    margin: 0 auto;
     padding: 0 2rem;
+}
+
+.show-detail .tracklist {
+    margin-top: 3rem;
 }
 
 /* DEPRECATED: Old show-header styles - replaced with hero section
@@ -263,10 +256,6 @@ header {
     background: rgba(255, 255, 255, 0.05);
     border-radius: 8px;
     padding: 1.5rem;
-}
-
-.show-detail .tracklist {
-    margin-top: 3rem;
 }
 
 .tracklist h2 {
@@ -364,8 +353,7 @@ footer {
         gap: 1rem;
     }
 
-    .show-detail .tracklist,
-    .show-detail .back-link {
+    .show-detail {
         padding: 0 1rem;
     }
 
