@@ -52,6 +52,25 @@ header {
     text-decoration: none;
 }
 
+.rss-link {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0 1.5rem;
+    color: #fff;
+    text-decoration: none;
+    transition: color 0.2s, background 0.2s;
+}
+
+.rss-link:hover {
+    color: #ff9800;
+    background: rgba(255, 255, 255, 0.05);
+}
+
+.rss-link svg {
+    display: block;
+}
+
 /* Hero Section */
 .hero {
     background: #00A8B7;
@@ -354,6 +373,15 @@ footer {
         padding-right: 2rem;
     }
 
+    .rss-link {
+        padding: 0 1rem;
+    }
+
+    .rss-link svg {
+        width: 18px;
+        height: 18px;
+    }
+
     .hero {
         min-height: auto;
     }
@@ -416,6 +444,15 @@ footer {
         font-size: 1rem;
         padding: 0.25rem 0.75rem;
         padding-right: 1.5rem;
+    }
+
+    .rss-link {
+        padding: 0 0.75rem;
+    }
+
+    .rss-link svg {
+        width: 16px;
+        height: 16px;
     }
 
     .hero-info {
