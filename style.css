@@ -362,6 +362,7 @@ footer {
     .hero-content {
         flex-direction: column;
         text-align: center;
+        background: #1a1a1a;
     }
 
     .hero-cover {
@@ -380,7 +381,7 @@ footer {
 
     .hero-info {
         padding: 2rem 1.5rem;
-        background: inherit;
+        background: #1a1a1a;
         position: relative;
         z-index: 2;
     }
