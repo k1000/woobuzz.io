@@ -388,7 +388,7 @@ footer {
         padding: 2rem 1.5rem;
         position: relative;
         z-index: 2;
-        background-color: inherit;
+        background: #111;
         isolation: isolate;
     }
 
