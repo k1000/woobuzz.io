@@ -387,9 +387,14 @@ footer {
     .hero-info {
         padding: 2rem 1.5rem;
         position: relative;
-        z-index: 2;
-        background: #111;
+        z-index: 10;
+        background: #111 !important;
         isolation: isolate;
+    }
+
+    .hero {
+        position: relative;
+        z-index: 5;
     }
 
     .hero-info h1 {
