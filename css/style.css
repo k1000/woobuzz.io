@@ -343,6 +343,10 @@ footer {
 
 /* Responsive */
 @media (max-width: 1024px) {
+  main {
+    flex-direction: column;
+    text-align: left;
+  }
   .logo {
     font-size: 1.5rem;
     padding: 0.5rem 1rem;
