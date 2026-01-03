@@ -58,6 +58,7 @@ header {
     position: relative;
     display: flex;
     min-height: 500px;
+    z-index: 1;
 }
 
 .hero-content {
@@ -363,14 +364,25 @@ footer {
         text-align: center;
     }
 
+    .hero-cover {
+        width: 100%;
+        overflow: hidden;
+    }
+
     .hero-cover img {
         width: 100%;
         height: auto;
+        max-height: 80vw;
         aspect-ratio: 1;
+        object-fit: cover;
+        object-position: center top;
     }
 
     .hero-info {
         padding: 2rem 1.5rem;
+        background: inherit;
+        position: relative;
+        z-index: 2;
     }
 
     .hero-info h1 {
@@ -391,6 +403,9 @@ footer {
 
     .archive {
         padding: 1.5rem;
+        position: relative;
+        z-index: 0;
+        background: #111;
     }
 
     .shows-grid {
