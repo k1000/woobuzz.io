@@ -373,6 +373,13 @@ footer {
     .hero-cover {
         width: 100%;
         overflow: hidden;
+        height: auto;
+        flex: none;
+    }
+
+    .hero-cover a {
+        display: block;
+        height: auto;
     }
 
     .hero-cover img {
