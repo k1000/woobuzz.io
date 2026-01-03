@@ -59,6 +59,7 @@ header {
     display: flex;
     min-height: 500px;
     z-index: 1;
+    overflow: hidden;
 }
 
 .hero-content {
@@ -362,7 +363,6 @@ footer {
     .hero-content {
         flex-direction: column;
         text-align: center;
-        background: #1a1a1a;
     }
 
     .hero-cover {
@@ -381,7 +381,6 @@ footer {
 
     .hero-info {
         padding: 2rem 1.5rem;
-        background: #1a1a1a;
         position: relative;
         z-index: 2;
     }
