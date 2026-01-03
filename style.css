@@ -315,7 +315,49 @@ footer {
 }
 
 /* Responsive */
+@media (max-width: 1024px) {
+    .logo {
+        font-size: 1.5rem;
+        padding: 0.5rem 1rem;
+        padding-right: 2.5rem;
+    }
+
+    .hero {
+        min-height: 400px;
+    }
+
+    .hero-cover img {
+        height: 400px;
+    }
+
+    .hero-info {
+        padding: 2rem 3rem;
+    }
+
+    .hero-info h1 {
+        font-size: 2.5rem;
+    }
+
+    .archive {
+        padding: 2rem 3rem;
+    }
+}
+
 @media (max-width: 768px) {
+    header {
+        height: 60px;
+    }
+
+    .logo {
+        font-size: 1.25rem;
+        padding: 0.5rem 1rem;
+        padding-right: 2rem;
+    }
+
+    .hero {
+        min-height: auto;
+    }
+
     .hero-content {
         flex-direction: column;
         text-align: center;
@@ -328,15 +370,18 @@ footer {
     }
 
     .hero-info {
-        padding: 2rem;
+        padding: 2rem 1.5rem;
     }
 
     .hero-info h1 {
-        font-size: 2rem;
+        font-size: 1.75rem;
+        word-wrap: break-word;
+        overflow-wrap: break-word;
+        hyphens: auto;
     }
 
     .hero-description {
-        font-size: 1rem;
+        font-size: 0.95rem;
         max-width: 100%;
     }
 
@@ -359,5 +404,44 @@ footer {
 
     .tracklist {
         padding: 1rem;
+    }
+}
+
+@media (max-width: 480px) {
+    header {
+        height: 50px;
+    }
+
+    .logo {
+        font-size: 1rem;
+        padding: 0.25rem 0.75rem;
+        padding-right: 1.5rem;
+    }
+
+    .hero-info {
+        padding: 1.5rem 1rem;
+    }
+
+    .hero-info h1 {
+        font-size: 1.5rem;
+        line-height: 1.2;
+    }
+
+    .hero-description {
+        font-size: 0.9rem;
+    }
+
+    .hero-tags .tag {
+        font-size: 0.8rem;
+        padding: 0.2rem 0.4rem;
+    }
+
+    .archive {
+        padding: 1rem;
+    }
+
+    .shows-grid {
+        grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+        gap: 0.75rem;
     }
 }
