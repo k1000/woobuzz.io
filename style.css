@@ -26,6 +26,11 @@ img {
     height: auto;
 }
 
+main {
+    display: flex;
+    flex-direction: column;
+}
+
 /* Top Bar */
 header {
     display: flex;
