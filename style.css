@@ -388,6 +388,8 @@ footer {
         padding: 2rem 1.5rem;
         position: relative;
         z-index: 2;
+        background-color: inherit;
+        isolation: isolate;
     }
 
     .hero-info h1 {
@@ -411,6 +413,7 @@ footer {
         position: relative;
         z-index: 0;
         background: #111;
+        isolation: isolate;
     }
 
     .shows-grid {
