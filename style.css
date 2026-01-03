@@ -390,6 +390,13 @@ footer {
         z-index: 10;
         background: #111 !important;
         isolation: isolate;
+        color: #fff !important;
+    }
+
+    .hero-info h1,
+    .hero-info .hero-description,
+    .hero-info .hero-series {
+        color: #fff !important;
     }
 
     .hero {
