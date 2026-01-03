@@ -1,6 +1,25 @@
 {
   "shows": [
     {
+      "id": "kosmische_musik__a_journey_thr_20260103_191339",
+      "title": "Kosmische Musik: A Journey Through Krautrock",
+      "cover": "shows/kosmische_musik__a_journey_thr_20260103_191339/cover.jpg",
+      "mixcloud_url": "https://www.mixcloud.com/wobuzz/kosmische-musik-a-journey-through-krautrock/",
+      "tags": [
+        "krautrock",
+        "experimental",
+        "psychedelic",
+        "ambient",
+        "motorik",
+        "german rock",
+        "1970s"
+      ],
+      "series": "Underground Sounds",
+      "description": "An exploration of Germany's revolutionary 1970s rock scene, featuring motorik rhythms, cosmic explorations, and avant-garde experimentation from the pioneers who changed music forever.",
+      "background_color": "#2D0A3D",
+      "published_at": "2026-01-03T18:13:39.485709Z"
+    },
+    {
       "id": "duende___the_soul_of_flamenco_20260102_004910",
       "title": "Duende - The Soul of Flamenco",
       "cover": "shows/duende___the_soul_of_flamenco_20260102_004910/cover.jpg",
@@ -121,5 +140,5 @@
       "published_at": "2026-01-01T18:24:00.925140Z"
     }
   ],
-  "updated_at": "2026-01-02T20:00:00.000000Z"
+  "updated_at": "2026-01-03T18:13:39.485715Z"
 }

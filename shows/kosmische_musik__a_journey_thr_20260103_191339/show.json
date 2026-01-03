@@ -1,0 +1,54 @@
+{
+  "id": "kosmische_musik__a_journey_thr_20260103_191339",
+  "title": "Kosmische Musik: A Journey Through Krautrock",
+  "description": "An exploration of Germany's revolutionary 1970s rock scene, featuring motorik rhythms, cosmic explorations, and avant-garde experimentation from the pioneers who changed music forever.",
+  "tags": [
+    "krautrock",
+    "experimental",
+    "psychedelic",
+    "ambient",
+    "motorik",
+    "german rock",
+    "1970s"
+  ],
+  "mixcloud_url": "https://www.mixcloud.com/wobuzz/kosmische-musik-a-journey-through-krautrock/",
+  "published_at": "2026-01-03T18:13:39.484930Z",
+  "tracklist": [
+    {
+      "artist": "Neu!",
+      "title": "Hallogallo",
+      "album": "Neu!",
+      "year": 1972
+    },
+    {
+      "artist": "CAN",
+      "title": "Vitamin C",
+      "album": "Ege Bamyasi",
+      "year": 1972
+    },
+    {
+      "artist": "Faust",
+      "title": "The Sad Skinhead",
+      "album": "Faust IV",
+      "year": 1973
+    },
+    {
+      "artist": "Ash Ra Tempel",
+      "title": "Look at Your Sun",
+      "album": "Schwingungen (Ohr)",
+      "year": 1972
+    },
+    {
+      "artist": "Popol Vuh",
+      "title": "Aguirre I (L'acrime di rei)",
+      "album": "Aguirre",
+      "year": 1976
+    },
+    {
+      "artist": "CLUSTER & ENO",
+      "title": "Ho Renomo",
+      "album": "Cluster & Eno",
+      "year": 1977
+    }
+  ]
+}
