@@ -112,15 +112,18 @@ header {
   flex-direction: row;
 
   & figure {
-    display: flex;
-    align-items: stretch;
-    width: 100%;
+    flex: 0 0 auto;
+
+    & img {
+      width: auto;
+      height: 500px;
+      aspect-ratio: 1;
+      object-fit: cover;
+      display: block;
+    }
   }
 
   & article {
-    flex: 0 0 auto;
-    display: flex;
-    height: 100%;
     flex: 1;
     padding: 3rem 4rem;
     display: flex;
@@ -128,21 +131,7 @@ header {
     justify-content: center;
     min-width: 0;
     gap: 0.75rem;
-    position: relative;
 
-    & a {
-      display: flex;
-      height: 100%;
-    }
-
-    & img {
-      width: auto;
-      height: 500px;
-      aspect-ratio: 1;
-      object-fit: cover;
-      background: #fff;
-      display: block;
-    }
     & .hero-series {
       font-family: 'Oswald', sans-serif;
       font-size: 1rem;
