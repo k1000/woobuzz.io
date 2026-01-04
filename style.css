@@ -497,13 +497,35 @@ footer {
     padding-right: 2rem;
   }
 
-  header .rss-link {
+  header .header-nav .nav-link {
+    padding: 0 1rem;
+    font-size: 0.8rem;
+  }
+
+  header .header-nav .rss-link {
     padding: 0 1rem;
   }
 
-  header .rss-link svg {
+  header .header-nav .rss-link svg {
     width: 18px;
     height: 18px;
+  }
+
+  .about-page {
+    padding: 2rem 1.5rem;
+
+    & .about-content h1 {
+      font-size: 2rem;
+    }
+
+    & .about-content h2 {
+      font-size: 1.25rem;
+    }
+
+    & .about-content p,
+    & .about-content ul li {
+      font-size: 1rem;
+    }
   }
 
   .value-prop-hero {
@@ -596,13 +618,35 @@ footer {
     padding-right: 1.2rem;
   }
 
-  header .rss-link {
+  header .header-nav .nav-link {
+    padding: 0 0.75rem;
+    font-size: 0.75rem;
+  }
+
+  header .header-nav .rss-link {
     padding: 0 0.75rem;
   }
 
-  header .rss-link svg {
+  header .header-nav .rss-link svg {
     width: 16px;
     height: 16px;
+  }
+
+  .about-page {
+    padding: 1.5rem 1rem;
+
+    & .about-content h1 {
+      font-size: 1.75rem;
+    }
+
+    & .about-content h2 {
+      font-size: 1.1rem;
+    }
+
+    & .about-content p,
+    & .about-content ul li {
+      font-size: 0.95rem;
+    }
   }
 
   .value-prop-hero {
