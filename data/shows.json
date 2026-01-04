@@ -1,6 +1,25 @@
 {
   "shows": [
     {
+      "id": "japanese_fusion__east_meets_we_20260104_154152",
+      "title": "Japanese Fusion: East Meets West in Sound",
+      "cover": "shows/japanese_fusion__east_meets_we_20260104_154152/cover.jpg",
+      "mixcloud_url": "https://www.mixcloud.com/wobuzz/japanese-fusion-east-meets-west-in-sound/",
+      "tags": [
+        "fusion",
+        "jazz-rock",
+        "progressive fusion",
+        "experimental",
+        "japanese fusion",
+        "exotica",
+        "jazz fusion"
+      ],
+      "series": "fusion-frontiers",
+      "description": "A sonic journey through Japan's groundbreaking fusion movement of the 1970s and early 80s, where traditional Japanese sensibilities merged with American jazz, funk, and electronic experimentation. Featuring Hiroshi Suzuki, Ryo Kawasaki, Jun Fukamachi, Haruomi Hosono, and other pioneers who created a uniquely Japanese sound that captivated the world.",
+      "background_color": "#1A1A1A",
+      "published_at": "2026-01-04T14:41:52.144303Z"
+    },
+    {
       "id": "kosmische_musik__a_journey_thr_20260103_191339",
       "title": "Kosmische Musik: A Journey Through Krautrock",
       "cover": "shows/kosmische_musik__a_journey_thr_20260103_191339/cover.jpg",
@@ -140,5 +159,5 @@
       "published_at": "2026-01-01T18:24:00.925140Z"
     }
   ],
-  "updated_at": "2026-01-03T18:13:39.485715Z"
+  "updated_at": "2026-01-04T14:41:52.144307Z"
 }

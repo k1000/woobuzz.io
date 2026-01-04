@@ -9,10 +9,100 @@
     <description>Curated radio shows with themed music and AI-generated presentations</description>
     <language>en-us</language>
     <atom:link href="https://wobuzz.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 03 Jan 2026 18:52:19 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 04 Jan 2026 14:41:52 GMT</lastBuildDate>
     <generator>RDIO Radio Show Generator</generator>
 
     
+    
+    <item>
+      <title>Japanese Fusion: East Meets West in Sound</title>
+      <link>https://wobuzz.io/shows/japanese_fusion__east_meets_we_20260104_154152/</link>
+      <guid isPermaLink="true">https://wobuzz.io/shows/japanese_fusion__east_meets_we_20260104_154152/</guid>
+      <pubDate>Sun, 04 Jan 2026 14:41:52 GMT</pubDate>
+
+      <description><![CDATA[
+        
+        <p>A sonic journey through Japan&#39;s groundbreaking fusion movement of the 1970s and early 80s, where traditional Japanese sensibilities merged with American jazz, funk, and electronic experimentation. Featuring Hiroshi Suzuki, Ryo Kawasaki, Jun Fukamachi, Haruomi Hosono, and other pioneers who created a uniquely Japanese sound that captivated the world.</p>
+        
+
+        
+        <p><strong>Series:</strong> fusion-frontiers</p>
+        
+
+        
+        <p><strong>Tags:</strong> fusion, jazz-rock, progressive fusion, experimental, japanese fusion, exotica, jazz fusion</p>
+        
+
+        
+        <h3>Tracklist:</h3>
+        <ol>
+        
+          <li>
+            <strong>Hiroshi Suzuki</strong> - Cat
+             (Cat, 1976)
+          </li>
+        
+          <li>
+            <strong>Haruomi Hosono</strong> - Japanese Rhumba
+             (Paraiso, 1978)
+          </li>
+        
+          <li>
+            <strong>Ryo Kawasaki</strong> - Bamboo Child
+             (Juice, 1976)
+          </li>
+        
+          <li>
+            <strong>Jun Fukamachi</strong> - Spiral Steps
+             (Spiral Steps, 1976)
+          </li>
+        
+          <li>
+            <strong>Hiromasa Suzuki</strong> - Scramble
+             (High-Flying, 1976)
+          </li>
+        
+          <li>
+            <strong>清水靖晃</strong> - 案山子
+             (案山子, 1982)
+          </li>
+        
+        </ol>
+        
+      ]]></description>
+
+      
+      <enclosure url="https://www.mixcloud.com/wobuzz/japanese-fusion-east-meets-west-in-sound/" type="audio/mpeg" length="0"/>
+      
+
+      
+      <itunes:image href="https://wobuzz.io/shows/japanese_fusion__east_meets_we_20260104_154152/cover.jpg"/>
+      
+
+      
+      
+      <category>fusion</category>
+      
+      <category>jazz-rock</category>
+      
+      <category>progressive fusion</category>
+      
+      <category>experimental</category>
+      
+      <category>japanese fusion</category>
+      
+      <category>exotica</category>
+      
+      <category>jazz fusion</category>
+      
+      
+
+      <itunes:author>RDIO</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      
+      <itunes:duration>1080</itunes:duration>
+      
+    </item>
     
     <item>
       <title>Kosmische Musik: A Journey Through Krautrock</title>
