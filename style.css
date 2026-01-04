@@ -64,22 +64,48 @@ body > header > .logo {
     text-decoration: none;
   }
 
-body > header > .rss-link {
+body > header > .header-nav {
     display: flex;
-    align-items: center;
-    justify-content: center;
-    padding: 0 1.5rem;
-    color: #fff;
-    text-decoration: none;
-    transition: color 0.2s, background 0.2s;
+    align-items: stretch;
+    gap: 0;
 
-    &:hover {
-      color: #ff9800;
-      background: rgba(255, 255, 255, 0.05);
+    & .nav-link {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 0 1.5rem;
+      color: #fff;
+      text-decoration: none;
+      font-family: 'Oswald', sans-serif;
+      font-size: 0.9rem;
+      font-weight: 500;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      transition: color 0.2s, background 0.2s;
+
+      &:hover {
+        color: #ff9800;
+        background: rgba(255, 255, 255, 0.05);
+      }
     }
 
-    & svg {
-      display: block;
+    & .rss-link {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 0 1.5rem;
+      color: #fff;
+      text-decoration: none;
+      transition: color 0.2s, background 0.2s;
+
+      &:hover {
+        color: #ff9800;
+        background: rgba(255, 255, 255, 0.05);
+      }
+
+      & svg {
+        display: block;
+      }
     }
   }
 
@@ -362,6 +388,49 @@ body > header > .rss-link {
 
       &:hover {
         color: #fff;
+      }
+    }
+  }
+}
+
+/* About Page */
+.about-page {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 3rem 2rem;
+  background: #111;
+
+  & .about-content {
+    & h1 {
+      font-size: 3rem;
+      margin-bottom: 2rem;
+      color: #fff;
+    }
+
+    & h2 {
+      font-size: 1.5rem;
+      margin-top: 2.5rem;
+      margin-bottom: 1rem;
+      color: #fff;
+    }
+
+    & p {
+      font-size: 1.1rem;
+      line-height: 1.8;
+      color: rgba(255, 255, 255, 0.85);
+      margin-bottom: 1.5rem;
+    }
+
+    & ul {
+      margin: 1.5rem 0;
+      padding-left: 2rem;
+      list-style: disc;
+
+      & li {
+        font-size: 1.1rem;
+        line-height: 1.8;
+        color: rgba(255, 255, 255, 0.85);
+        margin-bottom: 0.75rem;
       }
     }
   }
