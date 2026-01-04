@@ -415,11 +415,6 @@ footer {
   .hero {
     min-height: auto;
 
-    & .hero-content {
-      flex-direction: column;
-      text-align: center;
-    }
-
     & .hero-cover {
       flex: none;
       height: auto;
