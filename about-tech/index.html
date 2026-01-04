@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Technical Deep Dive - Wobuzz Radio</title>
+
+    <!-- SEO Meta Tags -->
+    <meta
+      name="description"
+      content="Technical architecture of Wobuzz Radio: AI-powered slow radio with multi-provider TTS, parallel execution optimization, and Model Context Protocol integration."
+    />
+    <meta
+      name="keywords"
+      content="AI architecture, MCP, text-to-speech, parallel execution, Python, audio processing, presenter profiles"
+    />
+    <meta name="robots" content="index, follow" />
+    <link rel="canonical" href="https://wobuzz.io/about-tech/" />
+
+    <!-- Open Graph -->
+    <meta property="og:site_name" content="Wobuzz Radio" />
+    <meta
+      property="og:type"
+      content="website"
+    />
+    
+<meta property="og:title" content="Building Wobuzz Radio: Technical Deep Dive" />
+<meta property="og:url" content="https://wobuzz.io/about-tech/" />
+<meta property="og:description" content="Technical architecture of AI-powered slow radio with multi-provider TTS, parallel execution optimization, and MCP integration." />
+
+
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image" />
+    
+<meta name="twitter:title" content="Building Wobuzz Radio: Technical Deep Dive" />
+<meta name="twitter:description" content="Technical architecture of AI-powered slow radio with multi-provider TTS, parallel execution optimization, and MCP integration." />
+
+
+    <!-- RSS Feed -->
+    <link
+      rel="alternate"
+      type="application/rss+xml"
+      title="RDIO Radio Shows"
+      href="https://wobuzz.io/feed.xml"
+    />
+
+    <!-- Fonts & Styles -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Oswald:wght@500;600;700&family=Roboto:wght@400;500&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="/style.css" />
+
+    
+  </head>
+  <body>
+    <header>
+      <a href="/" class="logo">Wobuzz</a>
+      <nav class="header-nav">
+        <a href="/about/" class="nav-link">About</a>
+        <a href="https://wobuzz.io/feed.xml" class="rss-link" title="Subscribe to RSS feed" aria-label="RSS Feed">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" width="20" height="20">
+            <path d="M6.18 15.64a2.18 2.18 0 0 1 2.18 2.18C8.36 19 7.38 20 6.18 20C5 20 4 19 4 17.82a2.18 2.18 0 0 1 2.18-2.18M4 4.44A15.56 15.56 0 0 1 19.56 20h-2.83A12.73 12.73 0 0 0 4 7.27V4.44m0 5.66a9.9 9.9 0 0 1 9.9 9.9h-2.83A7.07 7.07 0 0 0 4 12.93V10.1z"/>
+          </svg>
+        </a>
+      </nav>
+    </header>
+
+    <main>
+<section class="about-page">
+  <article class="about-content">
+    <h1>Building Wobuzz Radio: A Technical Deep Dive into AI-Powered Slow Radio</h1>
+
+<h2>The Problem Space</h2>
+
+<p>Most music platforms today optimize for endless scrolling and short-term engagement. Algorithms feed you what's popular rather than what's interesting. But what if we could use AI not to accelerate consumption, but to slow it down—to recreate the experience of classic radio where knowledgeable presenters guided you through musical landscapes with expertise and passion?</p>
+
+<p>That's the challenge I set out to solve with <strong>Wobuzz Radio</strong>: a Python-based system that creates themed radio shows from local music collections, complete with AI-generated presenter introductions, artist research, and cover art—all optimized for deep listening rather than algorithmic churn.</p>
+
+<h2>Architecture Overview</h2>
+
+<p>Wobuzz Radio is built as a modular CLI application with a clear separation of concerns:</p>
+
+<p><code>
+Scanner → Producer → Mixer → Publisher
+</code></p>
+
+<p>The system exposes <strong>35 MCP (Model Context Protocol) tools</strong>, making it compatible with Claude Desktop and other AI assistants. This architectural decision transformed Wobuzz Radio from a standalone CLI into an AI-native application that can be orchestrated through natural language.</p>
+
+<h2>Three AI Subagents: Division of Labor</h2>
+
+<p>Wobuzz Radio's intelligence is distributed across three specialized AI subagents, each with distinct responsibilities:</p>
+
+<h3>1. Show Producer</h3>
+
+<p>The orchestrator that researches themes, selects tracks, and designs the overall show arc. It conducts parallel web research (6 concurrent searches), matches themes to series personalities, and curates track sequences that flow musically and narratively. Think of it as the executive producer who shapes the show's identity.</p>
+
+<h3>2. Show Presenter</h3>
+
+<p>The voice and personality of the show. Each of the 15 presenter profiles has unique expertise, speaking style, and tonal characteristics. The presenter generates all commentary, introductions, and transitions in their distinctive voice—whether that's Miles' "cool-headed innovator" persona for fusion shows or Klaus' "cosmic traveler" voice for krautrock journeys.</p>
+
+<h3>3. Cover Art Designer</h3>
+
+<p>The visual interpreter that generates minimalist, genre-appropriate cover art. Using AI image generation (x.ai Grok-2 or Black Forest Labs FLUX), it translates musical themes into visual aesthetics—black-and-white compositions for jazz, cosmic imagery for psychedelia, refined typography for classical.</p>
+
+<p>This separation of concerns enables <strong>parallel execution</strong> (producer researches while designer generates visuals) and <strong>specialization</strong> (each agent optimized for its domain).</p>
+
+<h2>The Presenter-as-First-Class-Entity Pattern</h2>
+
+<p>One of the most interesting technical decisions was treating AI presenters as first-class entities with persistent identity, personality, and expertise.</p>
+
+<p><strong>Traditional approach</strong>: Generate TTS on-demand with ad-hoc voice settings
+<strong>Wobuzz approach</strong>: Define presenters as reusable profiles with identity, voice, personality, and expertise</p>
+
+<p>Each presenter is defined in JSON with four key domains:</p>
+
+<p><code>json
+{
+  "id": "miles",
+  "name": "Miles",
+  "voice": {
+    "tts_provider": "cartesia",
+    "voice_id": "79f8b5fb-2cc8-479a-80df-29f7a7cf1a3e"
+  },
+  "personality": {
+    "description": "A cool-headed innovator who bridges musical worlds",
+    "traits": ["knowledgeable", "innovative", "articulate"],
+    "speaking_style": "Speaks with measured confidence"
+  },
+  "expertise": {
+    "genres": ["fusion", "jazz", "experimental"],
+    "era": "1960s-1990s",
+    "regions": ["North America", "Global"]
+  }
+}
+</code></p>
+
+<p>This separation enables powerful composition: <strong>18 series configurations</strong> × <strong>15 presenter profiles</strong> = unlimited show variations. Series define <em>what</em> (theme, genre, visual identity), while presenters define <em>who</em> (voice, personality, expertise).</p>
+
+<h2>Performance Optimization: Parallel Execution at Scale</h2>
+
+<p>The initial implementation was sequential—research one artist, wait for Wikipedia, call TTS, research the next artist. This was painfully slow.</p>
+
+<p>The breakthrough came from recognizing that artist research operations are <strong>completely independent</strong>. Here's the optimization pattern:</p>
+
+<p><strong>Result</strong>: 40-50% faster show creation by batching independent operations into single execution rounds.</p>
+
+<p>This pattern extends across the entire workflow:</p>
+
+<ul>
+<li><strong>Phase 0</strong>: 6 parallel web searches for theme research</li>
+<li><strong>Phase 3</strong>: Up to 10 concurrent artist research calls</li>
+<li><strong>Phase 5</strong>: Simultaneous show creation + cover art generation</li>
+</ul>
+
+<h2>Multi-Provider AI Integration</h2>
+
+<p>Wobuzz Radio abstracts both TTS and image generation behind provider interfaces, enabling runtime selection and graceful fallback:</p>
+
+<p><strong>TTS Providers</strong>:</p>
+
+<ul>
+<li>Cartesia (primary, 15 presenters configured)</li>
+<li>ElevenLabs (high-quality alternative)</li>
+<li>Google TTS (free fallback)</li>
+<li>Voxtral (experimental)</li>
+</ul>
+
+<p><strong>Image Providers</strong>:</p>
+
+<ul>
+<li>Nanobanana - Gemini model</li>
+<li>x.ai Grok-2 (Aurora model)</li>
+<li>Black Forest Labs (FLUX.1.1-pro)</li>
+</ul>
+
+<p>The provider abstraction uses Python's ABC pattern:</p>
+
+<p>This enables A/B testing providers, graceful degradation when APIs are down, and cost optimization based on usage patterns.</p>
+
+<h2>The Show Creation Workflow</h2>
+
+<p>The show creation process consists of six distinct phases:</p>
+
+<ul>
+<li>Genre history and cultural context</li>
+<li>Musical characteristics</li>
+<li>Key artists and pioneers</li>
+<li>Artist interviews and quotes</li>
+<li>Album creation stories</li>
+<li>Critical reception</li>
+</ul>
+
+<p>This research informs both series selection and commentary quality.</p>
+
+<h2>Real-World Results</h2>
+
+<ul>
+<li><strong>60-minute shows</strong> with 6-10 curated tracks + AI commentary</li>
+<li><strong>Mixcloud-compliant</strong> content structure (max 3 songs per album, 4 per artist)</li>
+<li><strong>Fully automated</strong> publishing to static website with RSS feed</li>
+<li><strong>Sub-60-second</strong> creation time for parallel-optimized workflows</li>
+</ul>
+
+<p>Sample output: <a href="https://wobuzz.io">https://wobuzz.io</a></p>
+
+<h2>Architecture Lessons Learned</h2>
+
+<ol>
+<li><p><strong>Treat AI personas as persistent entities</strong>: Reusable presenter profiles are more maintainable than ad-hoc TTS calls.</p></li>
+<li><p><strong>Optimize for parallel execution</strong>: Identify independent operations and batch them into single execution rounds.</p></li>
+<li><p><strong>Provider abstraction is essential</strong>: AI APIs change pricing, fail, and improve—decouple from specific providers.</p></li>
+<li><p><strong>MCP as integration layer</strong>: Standardized protocols transform standalone tools into AI-composable services.</p></li>
+<li><p><strong>Separation of semantic and technical</strong>: Series define <em>what</em> to create, presenters define <em>how</em> to speak—mixing these leads to coupling.</p></li>
+</ol>
+
+<h2>What's Next</h2>
+
+<p>Wobuzz Radio demonstrates that AI can enhance cultural experiences without replacing human curation. The architecture proves that:</p>
+
+<ul>
+<li><strong>AI-native applications</strong> benefit from protocol-based integration (MCP)</li>
+<li><strong>Performance optimization</strong> requires identifying parallelizable operations</li>
+<li><strong>Reusable personas</strong> are more powerful than disposable generations</li>
+<li><strong>Provider abstraction</strong> enables graceful degradation and cost optimization</li>
+</ul>
+
+<p>The project is open-source and actively developed. If you're exploring AI integration patterns beyond chatbots, or building audio/music applications with AI, I'd love to hear your thoughts.</p>
+
+<hr />
+
+<p><strong>Tech Stack</strong>: Python 3.12, FFmpeg, Pydub, Mutagen, Model Context Protocol (MCP), Cartesia TTS, x.ai Image Generation, Jinja2, SQLite</p>
+
+<p><strong>Live Demo</strong>: <a href="https://wobuzz.io">wobuzz.io</a></p>
+
+  </article>
+</section>
+</main>
+
+    <footer></footer>
+  </body>
+</html>
