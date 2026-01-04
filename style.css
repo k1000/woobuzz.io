@@ -352,11 +352,11 @@ footer {
   .hero {
     min-height: 400px;
 
-    & .hero-cover img {
+    & figure img {
       height: 400px;
     }
 
-    & .hero-info {
+    & article {
       padding: 2rem 3rem;
 
       & h2 {
@@ -404,14 +404,10 @@ footer {
 
   .hero {
     min-height: auto;
+    flex-direction: column;
 
-    & .hero-cover {
-      flex: none;
-      height: auto;
-
-      & a {
-        height: auto;
-      }
+    & figure {
+      max-width: 100%;
 
       & img {
         width: 100%;
@@ -420,9 +416,8 @@ footer {
       }
     }
 
-    & .hero-info {
+    & article {
       padding: 2rem 1.5rem;
-      background: #1a1a1a;
 
       & h2 {
         font-size: 1.75rem;
@@ -437,11 +432,11 @@ footer {
       }
 
       & .hero-tags {
-        justify-content: center;
+        justify-content: flex-start;
       }
 
       & .social-share {
-        justify-content: center;
+        justify-content: flex-start;
 
         & a {
           width: 36px;
@@ -507,7 +502,7 @@ footer {
   }
 
   .hero {
-    & .hero-info {
+    & article {
       padding: 1.5rem 1rem;
 
       & h2 {
