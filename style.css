@@ -10,6 +10,12 @@ body {
   background: #111;
   color: #fff;
   min-height: 100vh;
+  animation: fadeIn 0.8s ease-out;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(10px); }
+  to { opacity: 1; transform: translateY(0); }
 }
 
 h1,
@@ -29,14 +35,19 @@ img {
 }
 
 /* Top Bar */
-header {
+body > header {
   display: flex;
   justify-content: space-between;
   align-items: stretch;
   background: #000;
   height: 80px;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.5);
+}
 
-  & .logo {
+body > header > .logo {
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -53,7 +64,7 @@ header {
     text-decoration: none;
   }
 
-  & .rss-link {
+body > header > .rss-link {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -71,7 +82,6 @@ header {
       display: block;
     }
   }
-}
 
 /* Value Proposition Hero */
 .value-prop-hero {
@@ -84,6 +94,7 @@ header {
   & .value-prop-content {
     max-width: 800px;
     margin: 0 auto;
+    display: block; /* Ensure it's not flexed by global header rule */
   }
 
   & h1 {
@@ -246,10 +257,24 @@ header {
 .show-card {
   background: #1a1a1a;
   overflow: hidden;
-  transition: transform 0.2s;
+  transition: transform 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+  position: relative;
 
   &:hover {
-    transform: scale(1.03);
+    transform: scale(1.05);
+    z-index: 10;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.5);
+  }
+
+  &::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 40%;
+    background: linear-gradient(transparent, rgba(0,0,0,0.6));
+    pointer-events: none;
   }
 
   & a {
@@ -262,6 +287,11 @@ header {
     width: 100%;
     aspect-ratio: 1;
     object-fit: cover;
+    transition: filter 0.3s;
+  }
+
+  &:hover img {
+    filter: brightness(1.1);
   }
 }
 
@@ -290,6 +320,25 @@ header {
     & li {
       margin: 0.75rem 0;
       padding-left: 0.5rem;
+    }
+
+    & .track-item-content {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 1rem;
+    }
+
+    & .track-link {
+       opacity: 0.3;
+       transition: opacity 0.2s, transform 0.2s;
+       font-size: 1.2rem;
+       text-decoration: none;
+
+       &:hover {
+         opacity: 1;
+         transform: scale(1.2);
+       }
     }
 
     & .artist {
@@ -474,8 +523,8 @@ footer {
 
   header .logo {
     font-size: 1rem;
-    padding: 0.25rem 0.75rem;
-    padding-right: 1.5rem;
+    padding: 0.25rem 0.5rem;
+    padding-right: 1.2rem;
   }
 
   header .rss-link {
