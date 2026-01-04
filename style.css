@@ -395,42 +395,44 @@ body > header > .header-nav {
 
 /* About Page */
 .about-page {
-  max-width: 800px;
+  max-width: 900px;
   margin: 0 auto;
-  padding: 3rem 2rem;
+  padding: 4rem 3rem;
   background: #111;
 
   & .about-content {
     & h1 {
       font-size: 3rem;
-      margin-bottom: 2rem;
+      margin-bottom: 3rem;
       color: #fff;
+      line-height: 1.1;
     }
 
     & h2 {
       font-size: 1.5rem;
-      margin-top: 2.5rem;
-      margin-bottom: 1rem;
+      margin-top: 3rem;
+      margin-bottom: 1.25rem;
       color: #fff;
+      line-height: 1.2;
     }
 
     & p {
       font-size: 1.1rem;
       line-height: 1.8;
       color: rgba(255, 255, 255, 0.85);
-      margin-bottom: 1.5rem;
+      margin-bottom: 1.75rem;
     }
 
     & ul {
-      margin: 1.5rem 0;
-      padding-left: 2rem;
+      margin: 1.75rem 0 2rem 0;
+      padding-left: 2.5rem;
       list-style: disc;
 
       & li {
         font-size: 1.1rem;
         line-height: 1.8;
         color: rgba(255, 255, 255, 0.85);
-        margin-bottom: 0.75rem;
+        margin-bottom: 1rem;
       }
     }
   }
@@ -512,19 +514,32 @@ footer {
   }
 
   .about-page {
-    padding: 2rem 1.5rem;
+    padding: 3rem 2rem;
 
     & .about-content h1 {
-      font-size: 2rem;
+      font-size: 2.25rem;
+      margin-bottom: 2.5rem;
     }
 
     & .about-content h2 {
-      font-size: 1.25rem;
+      font-size: 1.35rem;
+      margin-top: 2.5rem;
+      margin-bottom: 1rem;
     }
 
-    & .about-content p,
+    & .about-content p {
+      font-size: 1.05rem;
+      margin-bottom: 1.5rem;
+    }
+
+    & .about-content ul {
+      margin: 1.5rem 0 1.75rem 0;
+      padding-left: 2rem;
+    }
+
     & .about-content ul li {
-      font-size: 1rem;
+      font-size: 1.05rem;
+      margin-bottom: 0.85rem;
     }
   }
 
@@ -633,19 +648,32 @@ footer {
   }
 
   .about-page {
-    padding: 1.5rem 1rem;
+    padding: 2.5rem 1.5rem;
 
     & .about-content h1 {
-      font-size: 1.75rem;
+      font-size: 2rem;
+      margin-bottom: 2rem;
     }
 
     & .about-content h2 {
-      font-size: 1.1rem;
+      font-size: 1.2rem;
+      margin-top: 2rem;
+      margin-bottom: 0.85rem;
     }
 
-    & .about-content p,
+    & .about-content p {
+      font-size: 1rem;
+      margin-bottom: 1.25rem;
+    }
+
+    & .about-content ul {
+      margin: 1.25rem 0 1.5rem 0;
+      padding-left: 1.75rem;
+    }
+
     & .about-content ul li {
-      font-size: 0.95rem;
+      font-size: 1rem;
+      margin-bottom: 0.75rem;
     }
   }
 
