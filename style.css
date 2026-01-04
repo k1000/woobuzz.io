@@ -341,12 +341,10 @@ footer {
     text-align: left;
   }
 
-  header {
-    & .logo {
-      font-size: 1.5rem;
-      padding: 0.5rem 1rem;
-      padding-right: 2.5rem;
-    }
+  header .logo {
+    font-size: 1.5rem;
+    padding: 0.5rem 1rem;
+    padding-right: 2.5rem;
   }
 
   .hero {
@@ -373,33 +371,33 @@ footer {
 @media (max-width: 768px) {
   header {
     height: 60px;
+  }
 
-    & .logo {
-      font-size: 1.25rem;
-      padding: 0.5rem 1rem;
-      padding-right: 2rem;
-    }
+  header .logo {
+    font-size: 1.25rem;
+    padding: 0.5rem 1rem;
+    padding-right: 2rem;
+  }
 
-    & .rss-link {
-      padding: 0 1rem;
+  header .rss-link {
+    padding: 0 1rem;
+  }
 
-      & svg {
-        width: 18px;
-        height: 18px;
-      }
-    }
+  header .rss-link svg {
+    width: 18px;
+    height: 18px;
   }
 
   .value-prop-hero {
     padding: 3rem 1.5rem;
+  }
 
-    & h1 {
-      font-size: 1.75rem;
-    }
+  .value-prop-hero h1 {
+    font-size: 1.75rem;
+  }
 
-    & p {
-      font-size: 1.1rem;
-    }
+  .value-prop-hero p {
+    font-size: 1.1rem;
   }
 
   .hero {
@@ -472,33 +470,33 @@ footer {
 @media (max-width: 480px) {
   header {
     height: 50px;
+  }
 
-    & .logo {
-      font-size: 1rem;
-      padding: 0.25rem 0.75rem;
-      padding-right: 1.5rem;
-    }
+  header .logo {
+    font-size: 1rem;
+    padding: 0.25rem 0.75rem;
+    padding-right: 1.5rem;
+  }
 
-    & .rss-link {
-      padding: 0 0.75rem;
+  header .rss-link {
+    padding: 0 0.75rem;
+  }
 
-      & svg {
-        width: 16px;
-        height: 16px;
-      }
-    }
+  header .rss-link svg {
+    width: 16px;
+    height: 16px;
   }
 
   .value-prop-hero {
     padding: 2rem 1rem;
+  }
 
-    & h1 {
-      font-size: 1.5rem;
-    }
+  .value-prop-hero h1 {
+    font-size: 1.5rem;
+  }
 
-    & p {
-      font-size: 1rem;
-    }
+  .value-prop-hero p {
+    font-size: 1rem;
   }
 
   .hero article {
