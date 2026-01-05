@@ -12,5 +12,48 @@
   ],
   "mixcloud_url": "https://www.mixcloud.com/wobuzz/spatial-minimalism/",
   "published_at": "2026-01-05T19:53:28.097483Z",
-  "tracklist": []
+  "tracklist": [
+    {
+      "artist": "Roberto Cacciapaglia",
+      "title": "1st movement",
+      "album": "Sonanze",
+      "year": 1975
+    },
+    {
+      "artist": "Terry Riley",
+      "title": "Jaipur local",
+      "album": "No Man's Land",
+      "year": 1984
+    },
+    {
+      "artist": "Hiroshi Yoshimura",
+      "title": "Water Copy",
+      "album": "Music for Nine Post Cards",
+      "year": 1982
+    },
+    {
+      "artist": "Roberto Cacciapaglia",
+      "title": "5th movement",
+      "album": "Sonanze",
+      "year": 1975
+    },
+    {
+      "artist": "Suzanne Ciani",
+      "title": "Sirens",
+      "album": "Seven Waves",
+      "year": 1994
+    },
+    {
+      "artist": "Brian Eno",
+      "title": "Markgraph",
+      "album": "The Shutov Assembly",
+      "year": 1990
+    },
+    {
+      "artist": "Roberto Cacciapaglia",
+      "title": "Canone Degli Spazi",
+      "album": "canone degli spazi",
+      "year": 2009
+    }
+  ]
 }

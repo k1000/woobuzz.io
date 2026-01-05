@@ -9,7 +9,7 @@
     <description>Curated radio shows with themed music and AI-generated presentations</description>
     <language>en-us</language>
     <atom:link href="https://wobuzz.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 05 Jan 2026 19:53:28 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Jan 2026 20:29:14 GMT</lastBuildDate>
     <generator>RDIO Radio Show Generator</generator>
 
     
@@ -33,6 +33,46 @@
         <p><strong>Tags:</strong> electronic, ambient, minimalism, meditation, atmospheric, contemporary classical</p>
         
 
+        
+        <h3>Tracklist:</h3>
+        <ol>
+        
+          <li>
+            <strong>Roberto Cacciapaglia</strong> - 1st movement
+             (Sonanze, 1975)
+          </li>
+        
+          <li>
+            <strong>Terry Riley</strong> - Jaipur local
+             (No Man&#39;s Land, 1984)
+          </li>
+        
+          <li>
+            <strong>Hiroshi Yoshimura</strong> - Water Copy
+             (Music for Nine Post Cards, 1982)
+          </li>
+        
+          <li>
+            <strong>Roberto Cacciapaglia</strong> - 5th movement
+             (Sonanze, 1975)
+          </li>
+        
+          <li>
+            <strong>Suzanne Ciani</strong> - Sirens
+             (Seven Waves, 1994)
+          </li>
+        
+          <li>
+            <strong>Brian Eno</strong> - Markgraph
+             (The Shutov Assembly, 1990)
+          </li>
+        
+          <li>
+            <strong>Roberto Cacciapaglia</strong> - Canone Degli Spazi
+             (canone degli spazi, 2009)
+          </li>
+        
+        </ol>
         
       ]]></description>
 
@@ -62,6 +102,8 @@
 
       <itunes:author>RDIO</itunes:author>
       <itunes:explicit>no</itunes:explicit>
+      
+      <itunes:duration>1260</itunes:duration>
       
     </item>
     
