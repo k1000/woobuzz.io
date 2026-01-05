@@ -9,10 +9,61 @@
     <description>Curated radio shows with themed music and AI-generated presentations</description>
     <language>en-us</language>
     <atom:link href="https://wobuzz.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 05 Jan 2026 19:51:14 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Jan 2026 19:53:28 GMT</lastBuildDate>
     <generator>RDIO Radio Show Generator</generator>
 
     
+    
+    <item>
+      <title>Spatial Minimalism</title>
+      <link>https://wobuzz.io/shows/spatial_minimalism_20260105_205327/</link>
+      <guid isPermaLink="true">https://wobuzz.io/shows/spatial_minimalism_20260105_205327/</guid>
+      <pubDate>Mon, 05 Jan 2026 19:53:28 GMT</pubDate>
+
+      <description><![CDATA[
+        
+        <p>Italian electronic pioneer Roberto Cacciapaglia alongside Terry Riley, Suzanne Ciani, and other minimalist masters exploring the boundaries of ambient soundscapes</p>
+        
+
+        
+        <p><strong>Series:</strong> Driftspace</p>
+        
+
+        
+        <p><strong>Tags:</strong> electronic, ambient, minimalism, meditation, atmospheric, contemporary classical</p>
+        
+
+        
+      ]]></description>
+
+      
+      <enclosure url="https://www.mixcloud.com/wobuzz/spatial-minimalism/" type="audio/mpeg" length="0"/>
+      
+
+      
+      <itunes:image href="https://wobuzz.io/shows/spatial_minimalism_20260105_205327/cover.jpg"/>
+      
+
+      
+      
+      <category>electronic</category>
+      
+      <category>ambient</category>
+      
+      <category>minimalism</category>
+      
+      <category>meditation</category>
+      
+      <category>atmospheric</category>
+      
+      <category>contemporary classical</category>
+      
+      
+
+      <itunes:author>RDIO</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      
+    </item>
     
     <item>
       <title>Japanese Fusion: East Meets West in Sound</title>

@@ -1,6 +1,24 @@
 {
   "shows": [
     {
+      "id": "spatial_minimalism_20260105_205327",
+      "title": "Spatial Minimalism",
+      "cover": "shows/spatial_minimalism_20260105_205327/cover.jpg",
+      "mixcloud_url": "https://www.mixcloud.com/wobuzz/spatial-minimalism/",
+      "tags": [
+        "electronic",
+        "ambient",
+        "minimalism",
+        "meditation",
+        "atmospheric",
+        "contemporary classical"
+      ],
+      "series": "Driftspace",
+      "description": "Italian electronic pioneer Roberto Cacciapaglia alongside Terry Riley, Suzanne Ciani, and other minimalist masters exploring the boundaries of ambient soundscapes",
+      "background_color": "#1A1A1A",
+      "published_at": "2026-01-05T19:53:28.098745Z"
+    },
+    {
       "id": "japanese_fusion__east_meets_we_20260104_154152",
       "title": "Japanese Fusion: East Meets West in Sound",
       "cover": "shows/japanese_fusion__east_meets_we_20260104_154152/cover.jpg",
@@ -159,5 +177,5 @@
       "published_at": "2026-01-01T18:24:00.925140Z"
     }
   ],
-  "updated_at": "2026-01-04T14:41:52.144307Z"
+  "updated_at": "2026-01-05T19:53:28.098754Z"
 }
