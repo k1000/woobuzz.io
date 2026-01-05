@@ -9,10 +9,110 @@
     <description>Curated radio shows with themed music and AI-generated presentations</description>
     <language>en-us</language>
     <atom:link href="https://wobuzz.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 05 Jan 2026 20:29:14 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Jan 2026 21:56:55 GMT</lastBuildDate>
     <generator>RDIO Radio Show Generator</generator>
 
     
+    
+    <item>
+      <title>Jazz Rock Revolution of the 70s</title>
+      <link>https://wobuzz.io/shows/jazz_rock_revolution_of_the_70_20260105_225655/</link>
+      <guid isPermaLink="true">https://wobuzz.io/shows/jazz_rock_revolution_of_the_70_20260105_225655/</guid>
+      <pubDate>Mon, 05 Jan 2026 21:56:55 GMT</pubDate>
+
+      <description><![CDATA[
+        
+        <p>A journey through the explosive 1970s fusion movement where jazz improvisation collided with rock energy, funk rhythms, and electronic experimentation. From Miles Davis&#39; electric breakthrough to the virtuoso fireworks of Mahavishnu Orchestra and Return to Forever.</p>
+        
+
+        
+        <p><strong>Series:</strong> fusion-frontiers</p>
+        
+
+        
+        <p><strong>Tags:</strong> jazz-rock, experimental, progressive jazz, electric jazz, fusion, jazz rock, 70s</p>
+        
+
+        
+        <h3>Tracklist:</h3>
+        <ol>
+        
+          <li>
+            <strong>Miles Davis</strong> - Bitches Brew
+             (Bitches Brew, 1970)
+          </li>
+        
+          <li>
+            <strong>Herbie Hancock</strong> - Actual Proof
+             (Thrust, 1974)
+          </li>
+        
+          <li>
+            <strong>Weather Report</strong> - Birdland
+             (Heavy Weather, 1977)
+          </li>
+        
+          <li>
+            <strong>Mahavishnu Orchestra</strong> - Birds Of Fire
+             (Birds Of Fire, 1973)
+          </li>
+        
+          <li>
+            <strong>Return to Forever</strong> - Romantic Warrior
+             (Romantic Warrior, 1975)
+          </li>
+        
+          <li>
+            <strong>Soft Machine</strong> - Chloe and the Pirates
+             (Six, 1973)
+          </li>
+        
+          <li>
+            <strong>Billy Cobham</strong> - Searching for the Right Door
+             (Spectrum, 1973)
+          </li>
+        
+          <li>
+            <strong>Passport</strong> - Ju-Ju-Man
+             (Infinity Machine, 1976)
+          </li>
+        
+        </ol>
+        
+      ]]></description>
+
+      
+      <enclosure url="https://www.mixcloud.com/wobuzz/jazz-rock-revolution-of-the-70s/" type="audio/mpeg" length="0"/>
+      
+
+      
+      <itunes:image href="https://wobuzz.io/shows/jazz_rock_revolution_of_the_70_20260105_225655/cover.jpg"/>
+      
+
+      
+      
+      <category>jazz-rock</category>
+      
+      <category>experimental</category>
+      
+      <category>progressive jazz</category>
+      
+      <category>electric jazz</category>
+      
+      <category>fusion</category>
+      
+      <category>jazz rock</category>
+      
+      <category>70s</category>
+      
+      
+
+      <itunes:author>RDIO</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      
+      <itunes:duration>1440</itunes:duration>
+      
+    </item>
     
     <item>
       <title>Spatial Minimalism</title>

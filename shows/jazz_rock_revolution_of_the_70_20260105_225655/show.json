@@ -1,0 +1,66 @@
+{
+  "id": "jazz_rock_revolution_of_the_70_20260105_225655",
+  "title": "Jazz Rock Revolution of the 70s",
+  "description": "A journey through the explosive 1970s fusion movement where jazz improvisation collided with rock energy, funk rhythms, and electronic experimentation. From Miles Davis' electric breakthrough to the virtuoso fireworks of Mahavishnu Orchestra and Return to Forever.",
+  "tags": [
+    "jazz-rock",
+    "experimental",
+    "progressive jazz",
+    "electric jazz",
+    "fusion",
+    "jazz rock",
+    "70s"
+  ],
+  "mixcloud_url": "https://www.mixcloud.com/wobuzz/jazz-rock-revolution-of-the-70s/",
+  "published_at": "2026-01-05T21:56:55.803289Z",
+  "tracklist": [
+    {
+      "artist": "Miles Davis",
+      "title": "Bitches Brew",
+      "album": "Bitches Brew",
+      "year": 1970
+    },
+    {
+      "artist": "Herbie Hancock",
+      "title": "Actual Proof",
+      "album": "Thrust",
+      "year": 1974
+    },
+    {
+      "artist": "Weather Report",
+      "title": "Birdland",
+      "album": "Heavy Weather",
+      "year": 1977
+    },
+    {
+      "artist": "Mahavishnu Orchestra",
+      "title": "Birds Of Fire",
+      "album": "Birds Of Fire",
+      "year": 1973
+    },
+    {
+      "artist": "Return to Forever",
+      "title": "Romantic Warrior",
+      "album": "Romantic Warrior",
+      "year": 1975
+    },
+    {
+      "artist": "Soft Machine",
+      "title": "Chloe and the Pirates",
+      "album": "Six",
+      "year": 1973
+    },
+    {
+      "artist": "Billy Cobham",
+      "title": "Searching for the Right Door",
+      "album": "Spectrum",
+      "year": 1973
+    },
+    {
+      "artist": "Passport",
+      "title": "Ju-Ju-Man",
+      "album": "Infinity Machine",
+      "year": 1976
+    }
+  ]
+}

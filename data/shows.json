@@ -1,6 +1,25 @@
 {
   "shows": [
     {
+      "id": "jazz_rock_revolution_of_the_70_20260105_225655",
+      "title": "Jazz Rock Revolution of the 70s",
+      "cover": "shows/jazz_rock_revolution_of_the_70_20260105_225655/cover.jpg",
+      "mixcloud_url": "https://www.mixcloud.com/wobuzz/jazz-rock-revolution-of-the-70s/",
+      "tags": [
+        "jazz-rock",
+        "experimental",
+        "progressive jazz",
+        "electric jazz",
+        "fusion",
+        "jazz rock",
+        "70s"
+      ],
+      "series": "fusion-frontiers",
+      "description": "A journey through the explosive 1970s fusion movement where jazz improvisation collided with rock energy, funk rhythms, and electronic experimentation. From Miles Davis' electric breakthrough to the virtuoso fireworks of Mahavishnu Orchestra and Return to Forever.",
+      "background_color": "#1A1A1A",
+      "published_at": "2026-01-05T21:56:55.804181Z"
+    },
+    {
       "id": "spatial_minimalism_20260105_205327",
       "title": "Spatial Minimalism",
       "cover": "shows/spatial_minimalism_20260105_205327/cover.jpg",
@@ -177,5 +196,5 @@
       "published_at": "2026-01-01T18:24:00.925140Z"
     }
   ],
-  "updated_at": "2026-01-05T19:53:28.098754Z"
+  "updated_at": "2026-01-05T21:56:55.804188Z"
 }
