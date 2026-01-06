@@ -1,6 +1,25 @@
 {
   "shows": [
     {
+      "id": "nocturnal_dreams__a_chopin_jou_20260106_124149",
+      "title": "Nocturnal Dreams: A Chopin Journey",
+      "cover": "shows/nocturnal_dreams__a_chopin_jou_20260106_124149/cover.jpg",
+      "mixcloud_url": "https://www.mixcloud.com/wobuzz/nocturnal-dreams-a-chopin-journey/",
+      "tags": [
+        "chopin",
+        "orchestral",
+        "piano",
+        "composers",
+        "classical",
+        "romantic",
+        "nocturnes"
+      ],
+      "series": "Classical Masters",
+      "description": "An intimate exploration of Frédéric Chopin's nocturnes, those moonlit masterpieces that transformed the piano into a vessel for pure emotion. Performed by Adam Harasiewicz, winner of the 1955 International Chopin Piano Competition.",
+      "background_color": "#0A0F1A",
+      "published_at": "2026-01-06T11:41:49.250695Z"
+    },
+    {
       "id": "jazz_rock_revolution_of_the_70_20260105_225655",
       "title": "Jazz Rock Revolution of the 70s",
       "cover": "shows/jazz_rock_revolution_of_the_70_20260105_225655/cover.jpg",
@@ -196,5 +215,5 @@
       "published_at": "2026-01-01T18:24:00.925140Z"
     }
   ],
-  "updated_at": "2026-01-05T21:56:55.804188Z"
+  "updated_at": "2026-01-06T11:41:49.250700Z"
 }

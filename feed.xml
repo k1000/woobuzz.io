@@ -9,10 +9,100 @@
     <description>Curated radio shows with themed music and AI-generated presentations</description>
     <language>en-us</language>
     <atom:link href="https://wobuzz.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 05 Jan 2026 21:56:55 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Jan 2026 11:41:49 GMT</lastBuildDate>
     <generator>RDIO Radio Show Generator</generator>
 
     
+    
+    <item>
+      <title>Nocturnal Dreams: A Chopin Journey</title>
+      <link>https://wobuzz.io/shows/nocturnal_dreams__a_chopin_jou_20260106_124149/</link>
+      <guid isPermaLink="true">https://wobuzz.io/shows/nocturnal_dreams__a_chopin_jou_20260106_124149/</guid>
+      <pubDate>Tue, 06 Jan 2026 11:41:49 GMT</pubDate>
+
+      <description><![CDATA[
+        
+        <p>An intimate exploration of Frédéric Chopin&#39;s nocturnes, those moonlit masterpieces that transformed the piano into a vessel for pure emotion. Performed by Adam Harasiewicz, winner of the 1955 International Chopin Piano Competition.</p>
+        
+
+        
+        <p><strong>Series:</strong> Classical Masters</p>
+        
+
+        
+        <p><strong>Tags:</strong> chopin, orchestral, piano, composers, classical, romantic, nocturnes</p>
+        
+
+        
+        <h3>Tracklist:</h3>
+        <ol>
+        
+          <li>
+            <strong>Frédéric Chopin</strong> - Nocturne No. 1 in B flat minor, Op. 9 No. 1
+             (Nocturnes, 1832)
+          </li>
+        
+          <li>
+            <strong>Frédéric Chopin</strong> - Nocturne No. 2 in E flat major, Op. 9 No. 2
+             (Nocturnes, 1832)
+          </li>
+        
+          <li>
+            <strong>Frédéric Chopin</strong> - Nocturne No. 7 in C sharp minor, Op. 27 No. 1
+             (Nocturnes, 1836)
+          </li>
+        
+          <li>
+            <strong>Frédéric Chopin</strong> - Nocturne No. 8 in D flat major, Op. 27 No. 2
+             (Nocturnes, 1836)
+          </li>
+        
+          <li>
+            <strong>Frédéric Chopin</strong> - Nocturne No. 13 in C minor, Op. 48 No. 1
+             (Nocturnes, 1841)
+          </li>
+        
+          <li>
+            <strong>Frédéric Chopin</strong> - Nocturne No. 20 in C sharp minor, Op. posth.
+             (Nocturnes, 1830)
+          </li>
+        
+        </ol>
+        
+      ]]></description>
+
+      
+      <enclosure url="https://www.mixcloud.com/wobuzz/nocturnal-dreams-a-chopin-journey/" type="audio/mpeg" length="0"/>
+      
+
+      
+      <itunes:image href="https://wobuzz.io/shows/nocturnal_dreams__a_chopin_jou_20260106_124149/cover.jpg"/>
+      
+
+      
+      
+      <category>chopin</category>
+      
+      <category>orchestral</category>
+      
+      <category>piano</category>
+      
+      <category>composers</category>
+      
+      <category>classical</category>
+      
+      <category>romantic</category>
+      
+      <category>nocturnes</category>
+      
+      
+
+      <itunes:author>RDIO</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      
+      <itunes:duration>1080</itunes:duration>
+      
+    </item>
     
     <item>
       <title>Jazz Rock Revolution of the 70s</title>
