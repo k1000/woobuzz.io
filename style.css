@@ -877,14 +877,15 @@ footer {
 .category-header {
   background: #111;
   padding: 1.5rem 4rem;
+  text-align: left;
 }
 
 .category-header h1 {
   font-family: 'Oswald', sans-serif;
-  font-size: 1.75rem;
+  font-size: 2rem;
   font-style: italic;
-  font-weight: 600;
-  color: rgba(255, 255, 255, 0.7);
+  font-weight: 500;
+  color: rgba(255, 255, 255, 0.6);
   margin: 0;
   text-transform: lowercase;
 }
