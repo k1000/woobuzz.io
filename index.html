@@ -71,6 +71,66 @@
     <header>
       <a href="/" class="logo">Wobuzz</a>
       <nav class="header-nav">
+        
+        <div class="nav-dropdown">
+          <span class="nav-link dropdown-toggle">Series</span>
+          <ul class="dropdown-menu">
+            
+            <li><a href="/series/african-legends/">African Legends</a></li>
+            
+            <li><a href="/series/classical-masters/">Classical Masters</a></li>
+            
+            <li><a href="/series/decade-sessions/">Decade Sessions</a></li>
+            
+            <li><a href="/series/driftspace/">Driftspace</a></li>
+            
+            <li><a href="/series/jazz-frontiers/">Jazz Frontiers</a></li>
+            
+            <li><a href="/series/jazz-heritage/">Jazz Heritage</a></li>
+            
+            <li><a href="/series/latin-jazz-corner/">Latin Jazz Corner</a></li>
+            
+            <li><a href="/series/underground-sounds/">Underground Sounds</a></li>
+            
+            <li><a href="/series/world-music-journeys/">World Music Journeys</a></li>
+            
+            <li><a href="/series/world-music-sessions/">World Music Sessions</a></li>
+            
+            <li><a href="/series/fusion-frontiers/">fusion-frontiers</a></li>
+            
+          </ul>
+        </div>
+        
+        
+        <div class="nav-dropdown">
+          <span class="nav-link dropdown-toggle">Genres</span>
+          <ul class="dropdown-menu">
+            
+            <li><a href="/genre/chopin/">Chopin</a></li>
+            
+            <li><a href="/genre/jazz-rock/">Jazz-Rock</a></li>
+            
+            <li><a href="/genre/electronic/">Electronic</a></li>
+            
+            <li><a href="/genre/fusion/">Fusion</a></li>
+            
+            <li><a href="/genre/krautrock/">Krautrock</a></li>
+            
+            <li><a href="/genre/flamenco/">Flamenco</a></li>
+            
+            <li><a href="/genre/afrobeat/">Afrobeat</a></li>
+            
+            <li><a href="/genre/latin/">Latin</a></li>
+            
+            <li><a href="/genre/jazz/">Jazz</a></li>
+            
+            <li><a href="/genre/classical/">Classical</a></li>
+            
+            <li><a href="/genre/indie/">Indie</a></li>
+            
+          </ul>
+        </div>
+        
         <a href="/about/" class="nav-link">About</a>
         <a href="https://wobuzz.io/feed.xml" class="rss-link" title="Subscribe to RSS feed" aria-label="RSS Feed">
           <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" width="20" height="20">
@@ -171,9 +231,25 @@
 
 <section class="archive">
   <h2>Archive</h2>
-  <ul class="shows-grid">
+  <section class="filter-controls">
+  <div class="search-box">
+    <input type="search"
+           id="show-search"
+           placeholder="Search shows..."
+           aria-label="Search shows">
+  </div>
+  <div class="sort-control">
+    <button id="sort-toggle" data-sort="newest" aria-label="Sort by date">
+      Newest First
+    </button>
+  </div>
+</section>
+  <ul class="shows-grid" id="shows-grid">
     
-    <li class="show-card">
+    <li class="show-card"
+        data-title="jazz rock revolution of the 70s"
+        data-series="fusion-frontiers"
+        data-date="2026-01-05T21:56:55.804181Z">
       <a href="/shows/jazz_rock_revolution_of_the_70_20260105_225655/">
         <img
           src="/shows/jazz_rock_revolution_of_the_70_20260105_225655/cover.jpg"
@@ -183,7 +259,10 @@
       </a>
     </li>
     
-    <li class="show-card">
+    <li class="show-card"
+        data-title="spatial minimalism"
+        data-series="driftspace"
+        data-date="2026-01-05T19:53:28.098745Z">
       <a href="/shows/spatial_minimalism_20260105_205327/">
         <img
           src="/shows/spatial_minimalism_20260105_205327/cover.jpg"
@@ -193,7 +272,10 @@
       </a>
     </li>
     
-    <li class="show-card">
+    <li class="show-card"
+        data-title="japanese fusion: east meets west in sound"
+        data-series="fusion-frontiers"
+        data-date="2026-01-04T14:41:52.144303Z">
       <a href="/shows/japanese_fusion__east_meets_we_20260104_154152/">
         <img
           src="/shows/japanese_fusion__east_meets_we_20260104_154152/cover.jpg"
@@ -203,7 +285,10 @@
       </a>
     </li>
     
-    <li class="show-card">
+    <li class="show-card"
+        data-title="kosmische musik: a journey through krautrock"
+        data-series="underground sounds"
+        data-date="2026-01-03T18:13:39.485709Z">
       <a href="/shows/kosmische_musik__a_journey_thr_20260103_191339/">
         <img
           src="/shows/kosmische_musik__a_journey_thr_20260103_191339/cover.jpg"
@@ -213,7 +298,10 @@
       </a>
     </li>
     
-    <li class="show-card">
+    <li class="show-card"
+        data-title="duende - the soul of flamenco"
+        data-series="world music journeys"
+        data-date="2026-01-01T23:49:10.671463Z">
       <a href="/shows/duende___the_soul_of_flamenco_20260102_004910/">
         <img
           src="/shows/duende___the_soul_of_flamenco_20260102_004910/cover.jpg"
@@ -223,7 +311,10 @@
       </a>
     </li>
     
-    <li class="show-card">
+    <li class="show-card"
+        data-title="black president: the revolutionary sound of fela kuti"
+        data-series="african legends"
+        data-date="2026-01-01T23:16:31.977194Z">
       <a href="/shows/black_president__the_revolutio_20260102_001631/">
         <img
           src="/shows/black_president__the_revolutio_20260102_001631/cover.jpg"
@@ -233,7 +324,10 @@
       </a>
     </li>
     
-    <li class="show-card">
+    <li class="show-card"
+        data-title="brazilian heat"
+        data-series="world music sessions"
+        data-date="2026-01-01T21:40:21.797236Z">
       <a href="/shows/brazilian_heat_20260101_224021/">
         <img
           src="/shows/brazilian_heat_20260101_224021/cover.jpg"
@@ -243,7 +337,10 @@
       </a>
     </li>
     
-    <li class="show-card">
+    <li class="show-card"
+        data-title="free spirit jazz"
+        data-series="jazz frontiers"
+        data-date="2026-01-01T21:10:23.040155Z">
       <a href="/shows/free_spirit_jazz_20260101_221023/">
         <img
           src="/shows/free_spirit_jazz_20260101_221023/cover.jpg"
@@ -253,7 +350,10 @@
       </a>
     </li>
     
-    <li class="show-card">
+    <li class="show-card"
+        data-title="latin jazz corner"
+        data-series="latin jazz corner"
+        data-date="2026-01-01T20:49:43.678120Z">
       <a href="/shows/latin_jazz_corner_20260101_214943/">
         <img
           src="/shows/latin_jazz_corner_20260101_214943/cover.jpg"
@@ -263,7 +363,10 @@
       </a>
     </li>
     
-    <li class="show-card">
+    <li class="show-card"
+        data-title="modal masters"
+        data-series="jazz heritage"
+        data-date="2026-01-01T20:38:09.502342Z">
       <a href="/shows/modal_masters_20260101_213809/">
         <img
           src="/shows/modal_masters_20260101_213809/cover.jpg"
@@ -273,7 +376,10 @@
       </a>
     </li>
     
-    <li class="show-card">
+    <li class="show-card"
+        data-title="the genius of bach"
+        data-series="classical masters"
+        data-date="2026-01-01T20:01:20.256581Z">
       <a href="/shows/the_genius_of_bach_20260101_210120/">
         <img
           src="/shows/the_genius_of_bach_20260101_210120/cover.jpg"
@@ -283,7 +389,10 @@
       </a>
     </li>
     
-    <li class="show-card">
+    <li class="show-card"
+        data-title="indie in 2000 (cartesia edition)"
+        data-series="decade sessions"
+        data-date="2026-01-01T18:24:00.925140Z">
       <a href="/shows/indie_in_2000__cartesia_editio_20260101_192400/">
         <img
           src="/shows/indie_in_2000__cartesia_editio_20260101_192400/cover.jpg"
@@ -298,5 +407,6 @@
   </main>
 
     <footer></footer>
+    <script src="/filter.js" defer></script>
   </body>
 </html>

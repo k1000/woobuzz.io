@@ -1,0 +1,116 @@
+{
+  "series": [
+    {
+      "name": "African Legends",
+      "slug": "african-legends",
+      "show_count": 1
+    },
+    {
+      "name": "Classical Masters",
+      "slug": "classical-masters",
+      "show_count": 2
+    },
+    {
+      "name": "Decade Sessions",
+      "slug": "decade-sessions",
+      "show_count": 1
+    },
+    {
+      "name": "Driftspace",
+      "slug": "driftspace",
+      "show_count": 1
+    },
+    {
+      "name": "Jazz Frontiers",
+      "slug": "jazz-frontiers",
+      "show_count": 1
+    },
+    {
+      "name": "Jazz Heritage",
+      "slug": "jazz-heritage",
+      "show_count": 1
+    },
+    {
+      "name": "Latin Jazz Corner",
+      "slug": "latin-jazz-corner",
+      "show_count": 1
+    },
+    {
+      "name": "Underground Sounds",
+      "slug": "underground-sounds",
+      "show_count": 1
+    },
+    {
+      "name": "World Music Journeys",
+      "slug": "world-music-journeys",
+      "show_count": 1
+    },
+    {
+      "name": "World Music Sessions",
+      "slug": "world-music-sessions",
+      "show_count": 1
+    },
+    {
+      "name": "fusion-frontiers",
+      "slug": "fusion-frontiers",
+      "show_count": 2
+    }
+  ],
+  "genres": [
+    {
+      "name": "Chopin",
+      "slug": "chopin",
+      "show_count": 1
+    },
+    {
+      "name": "Jazz-Rock",
+      "slug": "jazz-rock",
+      "show_count": 1
+    },
+    {
+      "name": "Electronic",
+      "slug": "electronic",
+      "show_count": 1
+    },
+    {
+      "name": "Fusion",
+      "slug": "fusion",
+      "show_count": 1
+    },
+    {
+      "name": "Krautrock",
+      "slug": "krautrock",
+      "show_count": 1
+    },
+    {
+      "name": "Flamenco",
+      "slug": "flamenco",
+      "show_count": 1
+    },
+    {
+      "name": "Afrobeat",
+      "slug": "afrobeat",
+      "show_count": 1
+    },
+    {
+      "name": "Latin",
+      "slug": "latin",
+      "show_count": 1
+    },
+    {
+      "name": "Jazz",
+      "slug": "jazz",
+      "show_count": 1
+    },
+    {
+      "name": "Classical",
+      "slug": "classical",
+      "show_count": 1
+    },
+    {
+      "name": "Indie",
+      "slug": "indie",
+      "show_count": 1
+    }
+  ]
+}
