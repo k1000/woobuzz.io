@@ -269,14 +269,24 @@ body > header > .header-nav {
     min-width: 0;
     gap: 0.75rem;
 
+    & .hero-meta-row {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 0.5rem;
+    }
+
     & .hero-series {
       font-family: 'Oswald', sans-serif;
       font-size: 1rem;
       font-weight: 500;
-      padding: 0.25rem 0.75rem;
-      display: inline-block;
-      margin-bottom: 0.5rem;
       text-transform: uppercase;
+    }
+
+    & .hero-date {
+      font-family: 'Roboto', sans-serif;
+      font-size: 0.85rem;
+      color: rgba(255, 255, 255, 0.4);
     }
 
     & h2 {
@@ -293,13 +303,20 @@ body > header > .header-nav {
       max-width: 550px;
     }
 
+    & .hero-tags-row {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-top: 0.5rem;
+    }
+
     & .hero-tags {
       display: flex;
       gap: 0.5rem;
       flex-wrap: wrap;
-      margin-top: 0.5rem;
       list-style: none;
       padding: 0;
+      margin: 0;
 
       & .tag {
         font-family: 'Oswald', sans-serif;
@@ -309,6 +326,12 @@ body > header > .header-nav {
         background: rgba(255, 255, 255, 0.9);
         padding: 0.25rem 0.5rem;
       }
+    }
+
+    & .hero-duration {
+      font-family: 'Roboto', sans-serif;
+      font-size: 0.85rem;
+      color: rgba(255, 255, 255, 0.4);
     }
 
     & .mixcloud-widget {
