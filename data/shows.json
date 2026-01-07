@@ -1,6 +1,23 @@
 {
   "shows": [
     {
+      "id": "circuit_dreams__the_architectu_20260107_200006",
+      "title": "Circuit Dreams: The Architecture of Sound",
+      "cover": "shows/circuit_dreams__the_architectu_20260107_200006/cover.jpg",
+      "mixcloud_url": "https://www.mixcloud.com/wobuzz/circuit-dreams-the-architecture-of-sound/",
+      "tags": [
+        "glitch",
+        "IDM",
+        "electronic",
+        "experimental",
+        "techno"
+      ],
+      "series": "Glitch Galaxy",
+      "description": "A journey through experimental electronica, from Prefuse 73 to Boards of Canada and Flying Lotus.",
+      "background_color": "#1A1A1A",
+      "published_at": "2026-01-07T19:00:06.919770Z"
+    },
+    {
       "id": "nocturnal_dreams__a_chopin_jou_20260106_124149",
       "title": "Nocturnal Dreams: A Chopin Journey",
       "cover": "shows/nocturnal_dreams__a_chopin_jou_20260106_124149/cover.jpg",
@@ -215,5 +232,5 @@
       "published_at": "2026-01-01T18:24:00.925140Z"
     }
   ],
-  "updated_at": "2026-01-06T11:41:49.250700Z"
+  "updated_at": "2026-01-07T19:00:06.919777Z"
 }

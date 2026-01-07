@@ -1,0 +1,64 @@
+{
+  "id": "circuit_dreams__the_architectu_20260107_200006",
+  "title": "Circuit Dreams: The Architecture of Sound",
+  "description": "A journey through experimental electronica, from Prefuse 73 to Boards of Canada and Flying Lotus.",
+  "tags": [
+    "glitch",
+    "IDM",
+    "electronic",
+    "experimental",
+    "techno"
+  ],
+  "mixcloud_url": "https://www.mixcloud.com/wobuzz/circuit-dreams-the-architecture-of-sound/",
+  "published_at": "2026-01-07T19:00:06.919024Z",
+  "tracklist": [
+    {
+      "artist": "Boards of Canada",
+      "title": "An Eagle In Your Mind",
+      "album": "Music Has The Right To Children",
+      "year": 1998
+    },
+    {
+      "artist": "Prefuse 73",
+      "title": "Radio Attack",
+      "album": "Vocal Studies + Uprock Narratives",
+      "year": 2001
+    },
+    {
+      "artist": "Prefuse 73",
+      "title": "One Word Extinguisher",
+      "album": "One Word Extinguisher",
+      "year": 2003
+    },
+    {
+      "artist": "Squarepusher",
+      "title": "Plotinus",
+      "album": "Hello Everything",
+      "year": 2006
+    },
+    {
+      "artist": "Flying Lotus",
+      "title": "All In",
+      "album": "Until the Quiet Comes",
+      "year": 2012
+    },
+    {
+      "artist": "Plaid",
+      "title": "Ralome",
+      "album": "Rest Proof Clockwork",
+      "year": 1999
+    },
+    {
+      "artist": "Amon Tobin",
+      "title": "Displaced",
+      "album": "Chaos Theory",
+      "year": 2005
+    },
+    {
+      "artist": "Boards of Canada",
+      "title": "New Seeds",
+      "album": "Tomorrow's Harvest",
+      "year": 2013
+    }
+  ]
+}

@@ -21,6 +21,11 @@
       "show_count": 1
     },
     {
+      "name": "Glitch Galaxy",
+      "slug": "glitch-galaxy",
+      "show_count": 1
+    },
+    {
       "name": "Jazz Frontiers",
       "slug": "jazz-frontiers",
       "show_count": 1
@@ -57,6 +62,11 @@
     }
   ],
   "genres": [
+    {
+      "name": "Glitch",
+      "slug": "glitch",
+      "show_count": 1
+    },
     {
       "name": "Chopin",
       "slug": "chopin",

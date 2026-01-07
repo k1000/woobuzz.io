@@ -9,10 +9,106 @@
     <description>Curated radio shows with themed music and AI-generated presentations</description>
     <language>en-us</language>
     <atom:link href="https://wobuzz.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 06 Jan 2026 12:47:02 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Jan 2026 19:00:06 GMT</lastBuildDate>
     <generator>RDIO Radio Show Generator</generator>
 
     
+    
+    <item>
+      <title>Circuit Dreams: The Architecture of Sound</title>
+      <link>https://wobuzz.io/shows/circuit_dreams__the_architectu_20260107_200006/</link>
+      <guid isPermaLink="true">https://wobuzz.io/shows/circuit_dreams__the_architectu_20260107_200006/</guid>
+      <pubDate>Wed, 07 Jan 2026 19:00:06 GMT</pubDate>
+
+      <description><![CDATA[
+        
+        <p>A journey through experimental electronica, from Prefuse 73 to Boards of Canada and Flying Lotus.</p>
+        
+
+        
+        <p><strong>Series:</strong> Glitch Galaxy</p>
+        
+
+        
+        <p><strong>Tags:</strong> glitch, IDM, electronic, experimental, techno</p>
+        
+
+        
+        <h3>Tracklist:</h3>
+        <ol>
+        
+          <li>
+            <strong>Boards of Canada</strong> - An Eagle In Your Mind
+             (Music Has The Right To Children, 1998)
+          </li>
+        
+          <li>
+            <strong>Prefuse 73</strong> - Radio Attack
+             (Vocal Studies + Uprock Narratives, 2001)
+          </li>
+        
+          <li>
+            <strong>Prefuse 73</strong> - One Word Extinguisher
+             (One Word Extinguisher, 2003)
+          </li>
+        
+          <li>
+            <strong>Squarepusher</strong> - Plotinus
+             (Hello Everything, 2006)
+          </li>
+        
+          <li>
+            <strong>Flying Lotus</strong> - All In
+             (Until the Quiet Comes, 2012)
+          </li>
+        
+          <li>
+            <strong>Plaid</strong> - Ralome
+             (Rest Proof Clockwork, 1999)
+          </li>
+        
+          <li>
+            <strong>Amon Tobin</strong> - Displaced
+             (Chaos Theory, 2005)
+          </li>
+        
+          <li>
+            <strong>Boards of Canada</strong> - New Seeds
+             (Tomorrow&#39;s Harvest, 2013)
+          </li>
+        
+        </ol>
+        
+      ]]></description>
+
+      
+      <enclosure url="https://www.mixcloud.com/wobuzz/circuit-dreams-the-architecture-of-sound/" type="audio/mpeg" length="0"/>
+      
+
+      
+      <itunes:image href="https://wobuzz.io/shows/circuit_dreams__the_architectu_20260107_200006/cover.jpg"/>
+      
+
+      
+      
+      <category>glitch</category>
+      
+      <category>IDM</category>
+      
+      <category>electronic</category>
+      
+      <category>experimental</category>
+      
+      <category>techno</category>
+      
+      
+
+      <itunes:author>RDIO</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      
+      <itunes:duration>1440</itunes:duration>
+      
+    </item>
     
     <item>
       <title>Nocturnal Dreams: A Chopin Journey</title>
