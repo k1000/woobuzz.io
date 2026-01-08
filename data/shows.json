@@ -18,7 +18,8 @@
       "series": "avant-abyss",
       "description": "Tracing Don Van Vliet's avant-garde blueprint from Safe As Milk through Trout Mask Replica, and its direct influence on Tom Waits' Swordfishtrombones",
       "background_color": "#1A1A1A",
-      "published_at": "2026-01-08T16:16:32.544225Z"
+      "published_at": "2026-01-08T16:16:32.544225Z",
+      "duration": 1890
     },
     {
       "id": "circuit_dreams__the_architectu_20260107_200006",
@@ -35,7 +36,8 @@
       "series": "Glitch Galaxy",
       "description": "A journey through experimental electronica, from Prefuse 73 to Boards of Canada and Flying Lotus.",
       "background_color": "#1A1A1A",
-      "published_at": "2026-01-07T19:00:06.919770Z"
+      "published_at": "2026-01-07T19:00:06.919770Z",
+      "duration": 1680
     },
     {
       "id": "nocturnal_dreams__a_chopin_jou_20260106_124149",
@@ -54,7 +56,8 @@
       "series": "Classical Masters",
       "description": "An intimate exploration of Frédéric Chopin's nocturnes, those moonlit masterpieces that transformed the piano into a vessel for pure emotion. Performed by Adam Harasiewicz, winner of the 1955 International Chopin Piano Competition.",
       "background_color": "#0A0F1A",
-      "published_at": "2026-01-06T11:41:49.250695Z"
+      "published_at": "2026-01-06T11:41:49.250695Z",
+      "duration": 1260
     },
     {
       "id": "jazz_rock_revolution_of_the_70_20260105_225655",
@@ -73,7 +76,8 @@
       "series": "fusion-frontiers",
       "description": "A journey through the explosive 1970s fusion movement where jazz improvisation collided with rock energy, funk rhythms, and electronic experimentation. From Miles Davis' electric breakthrough to the virtuoso fireworks of Mahavishnu Orchestra and Return to Forever.",
       "background_color": "#1A1A1A",
-      "published_at": "2026-01-05T21:56:55.804181Z"
+      "published_at": "2026-01-05T21:56:55.804181Z",
+      "duration": 1680
     },
     {
       "id": "spatial_minimalism_20260105_205327",
@@ -91,7 +95,8 @@
       "series": "Driftspace",
       "description": "Italian electronic pioneer Roberto Cacciapaglia alongside Terry Riley, Suzanne Ciani, and other minimalist masters exploring the boundaries of ambient soundscapes",
       "background_color": "#1A1A1A",
-      "published_at": "2026-01-05T19:53:28.098745Z"
+      "published_at": "2026-01-05T19:53:28.098745Z",
+      "duration": 1470
     },
     {
       "id": "japanese_fusion__east_meets_we_20260104_154152",
@@ -110,7 +115,8 @@
       "series": "fusion-frontiers",
       "description": "A sonic journey through Japan's groundbreaking fusion movement of the 1970s and early 80s, where traditional Japanese sensibilities merged with American jazz, funk, and electronic experimentation. Featuring Hiroshi Suzuki, Ryo Kawasaki, Jun Fukamachi, Haruomi Hosono, and other pioneers who created a uniquely Japanese sound that captivated the world.",
       "background_color": "#1A1A1A",
-      "published_at": "2026-01-04T14:41:52.144303Z"
+      "published_at": "2026-01-04T14:41:52.144303Z",
+      "duration": 1260
     },
     {
       "id": "kosmische_musik__a_journey_thr_20260103_191339",
@@ -129,7 +135,8 @@
       "series": "Underground Sounds",
       "description": "An exploration of Germany's revolutionary 1970s rock scene, featuring motorik rhythms, cosmic explorations, and avant-garde experimentation from the pioneers who changed music forever.",
       "background_color": "#2D0A3D",
-      "published_at": "2026-01-03T18:13:39.485709Z"
+      "published_at": "2026-01-03T18:13:39.485709Z",
+      "duration": 1260
     },
     {
       "id": "duende___the_soul_of_flamenco_20260102_004910",
@@ -146,7 +153,8 @@
       "series": "World Music Journeys",
       "description": "A passionate journey through flamenco music featuring legendary artists Paco de Lucia, Camaron de la Isla, Ketama, and Carlos Heredia. From traditional forms to nuevo flamenco, experience the duende - that inexplicable magic that transforms sound into pure emotion.",
       "background_color": "#1A1A1A",
-      "published_at": "2026-01-01T23:49:10.671463Z"
+      "published_at": "2026-01-01T23:49:10.671463Z",
+      "duration": 2730
     },
     {
       "id": "black_president__the_revolutio_20260102_001631",
@@ -165,7 +173,8 @@
       "series": "African Legends",
       "description": "A celebration of Fela Anikulapo Kuti, the Nigerian musician who invented Afrobeat and used his music as a weapon against corruption and military dictatorship. This show explores his incredible journey from London jazz student to Africa's most challenging and charismatic performer.",
       "background_color": "#3D1A00",
-      "published_at": "2026-01-01T23:16:31.977194Z"
+      "published_at": "2026-01-01T23:16:31.977194Z",
+      "duration": 2100
     },
     {
       "id": "brazilian_heat_20260101_224021",
@@ -176,7 +185,8 @@
       "series": "World Music Sessions",
       "description": "",
       "background_color": "#1A1A1A",
-      "published_at": "2026-01-01T21:40:21.797236Z"
+      "published_at": "2026-01-01T21:40:21.797236Z",
+      "duration": 3150
     },
     {
       "id": "free_spirit_jazz_20260101_221023",
@@ -187,7 +197,8 @@
       "series": "Jazz Frontiers",
       "description": "",
       "background_color": "#C41E3A",
-      "published_at": "2026-01-01T21:10:23.040155Z"
+      "published_at": "2026-01-01T21:10:23.040155Z",
+      "duration": 1470
     },
     {
       "id": "latin_jazz_corner_20260101_214943",
@@ -202,7 +213,8 @@
       "series": "Latin Jazz Corner",
       "description": "The fiery rhythms of Latin jazz, blending Afro-Cuban percussion with bebop sophistication.",
       "background_color": "#C41E3A",
-      "published_at": "2026-01-01T20:49:43.678120Z"
+      "published_at": "2026-01-01T20:49:43.678120Z",
+      "duration": 2520
     },
     {
       "id": "modal_masters_20260101_213809",
@@ -217,7 +229,8 @@
       "series": "Jazz Heritage",
       "description": "A celebration of the golden age of jazz innovation, from bebop pioneers to spiritual jazz explorers.",
       "background_color": "#C41E3A",
-      "published_at": "2026-01-01T20:38:09.502342Z"
+      "published_at": "2026-01-01T20:38:09.502342Z",
+      "duration": 1890
     },
     {
       "id": "the_genius_of_bach_20260101_210120",
@@ -233,7 +246,8 @@
       "series": "Classical Masters",
       "description": "A journey through Bach's most profound keyboard works, featuring legendary performances by Glenn Gould and Rosalyn Tureck.",
       "background_color": "#036AE0",
-      "published_at": "2026-01-01T20:01:20.256581Z"
+      "published_at": "2026-01-01T20:01:20.256581Z",
+      "duration": 1680
     },
     {
       "id": "indie_in_2000__cartesia_editio_20260101_192400",
@@ -249,7 +263,8 @@
       "series": "Decade Sessions",
       "description": "Exploring the indie rock explosion at the turn of the millennium with essential tracks from the year 2000.",
       "background_color": "#C59A0E",
-      "published_at": "2026-01-01T18:24:00.925140Z"
+      "published_at": "2026-01-01T18:24:00.925140Z",
+      "duration": 1470
     }
   ],
   "updated_at": "2026-01-08T16:16:32.544231Z"
