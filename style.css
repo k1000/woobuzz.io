@@ -262,8 +262,8 @@ body > header > .header-nav {
 
   & .hero-player {
     aspect-ratio: 1;
-    width: 100%;
-    max-width: 500px;
+    flex: 0 0 50%;
+    max-width: 50%;
 
     & iframe {
       width: 100%;
@@ -741,6 +741,7 @@ footer {
   }
 
   .hero .hero-player {
+    flex: 0 0 100%;
     max-width: 100%;
   }
 
