@@ -1,6 +1,26 @@
 {
   "shows": [
     {
+      "id": "captain_beefheart_legacy__from_20260108_171632",
+      "title": "Captain Beefheart Legacy: From Trout Mask to Swordfish",
+      "cover": "shows/captain_beefheart_legacy__from_20260108_171632/cover.jpg",
+      "mixcloud_url": "https://www.mixcloud.com/wobuzz/captain-beefheart-legacy-from-trout-mask-to-swordfish/",
+      "tags": [
+        "experimental",
+        "avant-garde",
+        "blues rock",
+        "noise",
+        "tom waits",
+        "captain beefheart",
+        "1980s",
+        "1960s"
+      ],
+      "series": "avant-abyss",
+      "description": "Tracing Don Van Vliet's avant-garde blueprint from Safe As Milk through Trout Mask Replica, and its direct influence on Tom Waits' Swordfishtrombones",
+      "background_color": "#1A1A1A",
+      "published_at": "2026-01-08T16:16:32.544225Z"
+    },
+    {
       "id": "captain_beefheart_legacy__from_20260108_123108",
       "title": "Captain Beefheart Legacy: From Trout Mask to Swordfish",
       "cover": "shows/captain_beefheart_legacy__from_20260108_123108/cover.jpg",
@@ -252,5 +272,5 @@
       "published_at": "2026-01-01T18:24:00.925140Z"
     }
   ],
-  "updated_at": "2026-01-08T11:31:08.123560Z"
+  "updated_at": "2026-01-08T16:16:32.544231Z"
 }

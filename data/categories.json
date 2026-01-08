@@ -58,7 +58,7 @@
     {
       "name": "avant-abyss",
       "slug": "avant-abyss",
-      "show_count": 1
+      "show_count": 2
     },
     {
       "name": "fusion-frontiers",
@@ -67,6 +67,11 @@
     }
   ],
   "genres": [
+    {
+      "name": "Experimental",
+      "slug": "experimental",
+      "show_count": 1
+    },
     {
       "name": "1980S",
       "slug": "1980s",
