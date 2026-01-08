@@ -9,10 +9,97 @@
     <description>Curated radio shows with themed music and AI-generated presentations</description>
     <language>en-us</language>
     <atom:link href="https://wobuzz.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 07 Jan 2026 19:00:06 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Jan 2026 11:31:08 GMT</lastBuildDate>
     <generator>RDIO Radio Show Generator</generator>
 
     
+    
+    <item>
+      <title>Captain Beefheart Legacy: From Trout Mask to Swordfish</title>
+      <link>https://wobuzz.io/shows/captain_beefheart_legacy__from_20260108_123108/</link>
+      <guid isPermaLink="true">https://wobuzz.io/shows/captain_beefheart_legacy__from_20260108_123108/</guid>
+      <pubDate>Thu, 08 Jan 2026 11:31:08 GMT</pubDate>
+
+      <description><![CDATA[
+        
+        <p>Tracing Don Van Vliet&#39;s avant-garde blueprint from Safe As Milk through Trout Mask Replica, and its direct influence on Tom Waits&#39; Swordfishtrombones</p>
+        
+
+        
+        <p><strong>Series:</strong> avant-abyss</p>
+        
+
+        
+        <p><strong>Tags:</strong> 1980s, 1960s, captain beefheart, blues rock, noise, avant-garde, tom waits, experimental</p>
+        
+
+        
+        <h3>Tracklist:</h3>
+        <ol>
+        
+          <li>
+            <strong>Captain Beefheart &amp; His Magic Band</strong> - Sure &#39;Nuff &#39;n Yes I Do
+             (Safe As Milk, 1967)
+          </li>
+        
+          <li>
+            <strong>Captain Beefheart &amp; His Magic Band</strong> - Electricity
+             (Safe As Milk, 1967)
+          </li>
+        
+          <li>
+            <strong>Tom Waits</strong> - Underground
+             (Swordfishtrombones, 1983)
+          </li>
+        
+          <li>
+            <strong>Tom Waits</strong> - 16 Shells From A 30.6
+             (Swordfishtrombones, 1983)
+          </li>
+        
+          <li>
+            <strong>Tom Waits</strong> - Frank&#39;s Wild Years
+             (Swordfishtrombones, 1983)
+          </li>
+        
+        </ol>
+        
+      ]]></description>
+
+      
+      <enclosure url="https://www.mixcloud.com/wobuzz/captain-beefheart-legacy-from-trout-mask-to-swordfish/" type="audio/mpeg" length="0"/>
+      
+
+      
+      <itunes:image href="https://wobuzz.io/shows/captain_beefheart_legacy__from_20260108_123108/cover.jpg"/>
+      
+
+      
+      
+      <category>1980s</category>
+      
+      <category>1960s</category>
+      
+      <category>captain beefheart</category>
+      
+      <category>blues rock</category>
+      
+      <category>noise</category>
+      
+      <category>avant-garde</category>
+      
+      <category>tom waits</category>
+      
+      <category>experimental</category>
+      
+      
+
+      <itunes:author>RDIO</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      
+      <itunes:duration>900</itunes:duration>
+      
+    </item>
     
     <item>
       <title>Circuit Dreams: The Architecture of Sound</title>

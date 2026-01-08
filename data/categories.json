@@ -56,12 +56,22 @@
       "show_count": 1
     },
     {
+      "name": "avant-abyss",
+      "slug": "avant-abyss",
+      "show_count": 1
+    },
+    {
       "name": "fusion-frontiers",
       "slug": "fusion-frontiers",
       "show_count": 2
     }
   ],
   "genres": [
+    {
+      "name": "1980S",
+      "slug": "1980s",
+      "show_count": 1
+    },
     {
       "name": "Glitch",
       "slug": "glitch",
