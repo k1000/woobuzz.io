@@ -1,27 +1,6 @@
 {
   "shows": [
     {
-      "id": "the_melancholy_disciples_20260108_191236",
-      "title": "The Melancholy Disciples",
-      "cover": "shows/the_melancholy_disciples_20260108_191236/cover.jpg",
-      "mixcloud_url": "https://www.mixcloud.com/wobuzz/the-melancholy-disciples/",
-      "tags": [
-        "indie",
-        "Scottish",
-        "The Smiths",
-        "The Cure",
-        "indie rock",
-        "alternative",
-        "post-punk",
-        "British",
-        "underground"
-      ],
-      "series": "Indie Pulse",
-      "description": "A journey through three generations of melancholy indie rock - from Johnny Marr's guitar revolution to The Cure's emotional mastery to The Twilight Sad's Scottish walls of sound",
-      "background_color": "#1A1A1A",
-      "published_at": "2026-01-08T18:12:36.279671Z"
-    },
-    {
       "id": "the_melancholy_disciples_20260108_190020",
       "title": "The Melancholy Disciples",
       "cover": "shows/the_melancholy_disciples_20260108_190020/cover.jpg",
@@ -96,7 +75,7 @@
         "nocturnes"
       ],
       "series": "Classical Masters",
-      "description": "An intimate exploration of Frédéric Chopin's nocturnes, those moonlit masterpieces that transformed the piano into a vessel for pure emotion. Performed by Adam Harasiewicz, winner of the 1955 International Chopin Piano Competition.",
+      "description": "An intimate exploration of Fr\u00e9d\u00e9ric Chopin's nocturnes, those moonlit masterpieces that transformed the piano into a vessel for pure emotion. Performed by Adam Harasiewicz, winner of the 1955 International Chopin Piano Competition.",
       "background_color": "#0A0F1A",
       "published_at": "2026-01-06T11:41:49.250695Z",
       "duration": 1260
