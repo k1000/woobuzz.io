@@ -9,10 +9,124 @@
     <description>Curated radio shows with themed music and AI-generated presentations</description>
     <language>en-us</language>
     <atom:link href="https://wobuzz.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 08 Jan 2026 17:36:37 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Jan 2026 18:00:21 GMT</lastBuildDate>
     <generator>RDIO Radio Show Generator</generator>
 
     
+    
+    <item>
+      <title>The Melancholy Disciples</title>
+      <link>https://wobuzz.io/shows/the_melancholy_disciples_20260108_190020/</link>
+      <guid isPermaLink="true">https://wobuzz.io/shows/the_melancholy_disciples_20260108_190020/</guid>
+      <pubDate>Thu, 08 Jan 2026 18:00:20 GMT</pubDate>
+
+      <description><![CDATA[
+        
+        <p>A journey through three generations of melancholy indie rock - from Johnny Marr&#39;s guitar revolution to The Cure&#39;s emotional mastery to The Twilight Sad&#39;s Scottish walls of sound</p>
+        
+
+        
+        <p><strong>Series:</strong> Indie Pulse</p>
+        
+
+        
+        <p><strong>Tags:</strong> indie, Scottish, The Smiths, The Cure, indie rock, alternative, post-punk, British, underground</p>
+        
+
+        
+        <h3>Tracklist:</h3>
+        <ol>
+        
+          <li>
+            <strong>Johnny Marr</strong> - Rise
+             (Call the Comet, 2018)
+          </li>
+        
+          <li>
+            <strong>Johnny Marr</strong> - Hi Hello
+             (Call the Comet, 2018)
+          </li>
+        
+          <li>
+            <strong>The Cure</strong> - A Letter To Elise
+             (Wish, 1992)
+          </li>
+        
+          <li>
+            <strong>The Twilight Sad</strong> - [10 Good Reasons for Modern Drugs]
+             (It Won&#39;t Be Like This All the Time, 2019)
+          </li>
+        
+          <li>
+            <strong>The Twilight Sad</strong> - VTr
+             (It Won&#39;t Be Like This All the Time, 2019)
+          </li>
+        
+          <li>
+            <strong>Johnny Marr</strong> - Walk Into the Sea
+             (Call the Comet, 2018)
+          </li>
+        
+          <li>
+            <strong>The Cure</strong> - From The Edge Of The Deep Green Sea
+             (Wish, 1992)
+          </li>
+        
+          <li>
+            <strong>The Twilight Sad</strong> - I&#39;m Not Here [Missing Face]
+             (It Won&#39;t Be Like This All the Time, 2019)
+          </li>
+        
+          <li>
+            <strong>Johnny Marr</strong> - My Eternal
+             (Call the Comet, 2018)
+          </li>
+        
+          <li>
+            <strong>The Twilight Sad</strong> - Let&#39;s Get Lost
+             (It Won&#39;t Be Like This All the Time, 2019)
+          </li>
+        
+        </ol>
+        
+      ]]></description>
+
+      
+      <enclosure url="https://www.mixcloud.com/wobuzz/the-melancholy-disciples/" type="audio/mpeg" length="0"/>
+      
+
+      
+      <itunes:image href="https://wobuzz.io/shows/the_melancholy_disciples_20260108_190020/cover.jpg"/>
+      
+
+      
+      
+      <category>indie</category>
+      
+      <category>Scottish</category>
+      
+      <category>The Smiths</category>
+      
+      <category>The Cure</category>
+      
+      <category>indie rock</category>
+      
+      <category>alternative</category>
+      
+      <category>post-punk</category>
+      
+      <category>British</category>
+      
+      <category>underground</category>
+      
+      
+
+      <itunes:author>RDIO</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      
+      <itunes:duration>1800</itunes:duration>
+      
+    </item>
     
     <item>
       <title>Captain Beefheart Legacy: From Trout Mask to Swordfish</title>

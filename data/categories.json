@@ -26,6 +26,11 @@
       "show_count": 1
     },
     {
+      "name": "Indie Pulse",
+      "slug": "indie-pulse",
+      "show_count": 1
+    },
+    {
       "name": "Jazz Frontiers",
       "slug": "jazz-frontiers",
       "show_count": 1
@@ -67,6 +72,11 @@
     }
   ],
   "genres": [
+    {
+      "name": "Indie",
+      "slug": "indie",
+      "show_count": 2
+    },
     {
       "name": "Experimental",
       "slug": "experimental",
@@ -125,11 +135,6 @@
     {
       "name": "Classical",
       "slug": "classical",
-      "show_count": 1
-    },
-    {
-      "name": "Indie",
-      "slug": "indie",
       "show_count": 1
     }
   ]
