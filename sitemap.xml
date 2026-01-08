@@ -82,11 +82,6 @@
   </url>
 
   <url>
-    <loc>https://wobuzz.io/genre/1980s/</loc>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
     <loc>https://wobuzz.io/genre/glitch/</loc>
     <priority>0.8</priority>
   </url>
@@ -148,11 +143,6 @@
 
   <url>
     <loc>https://wobuzz.io/shows/captain_beefheart_legacy__from_20260108_171632/</loc>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://wobuzz.io/shows/captain_beefheart_legacy__from_20260108_123108/</loc>
     <priority>0.7</priority>
   </url>
 
