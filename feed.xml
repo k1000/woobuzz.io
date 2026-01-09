@@ -9,10 +9,104 @@
     <description>Curated radio shows with themed music and AI-generated presentations</description>
     <language>en-us</language>
     <atom:link href="https://wobuzz.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 08 Jan 2026 18:32:13 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Jan 2026 18:31:07 GMT</lastBuildDate>
     <generator>RDIO Radio Show Generator</generator>
 
     
+    
+    <item>
+      <title>The Zorchman&#39;s Psychobilly Special</title>
+      <link>https://wobuzz.io/shows/the_zorchman_s_psychobilly_spe_20260109_193107/</link>
+      <guid isPermaLink="true">https://wobuzz.io/shows/the_zorchman_s_psychobilly_spe_20260109_193107/</guid>
+      <pubDate>Fri, 09 Jan 2026 18:31:07 GMT</pubDate>
+
+      <description><![CDATA[
+        
+        <p>A late-night journey through psychobilly&#39;s unholy origins - from the 1950s primal scream of The Phantom to the Klub Foot chaos of The Meteors. Featuring P. Paul Fenech&#39;s cult-leader charisma, the kinetic energy of the wrecking pit, and the strange Lynchian surrealism that defined a genre.</p>
+        
+
+        
+        <p><strong>Series:</strong> Rock Ritual</p>
+        
+
+        
+        <p><strong>Tags:</strong> rock, psychobilly, Klub Foot, hard rock, classic rock, punk, 1980s, rockabilly, The Meteors</p>
+        
+
+        
+        <h3>Tracklist:</h3>
+        <ol>
+        
+          <li>
+            <strong>The Phantom</strong> - Love Me
+             (The Roots Of Psychobilly, 1958)
+          </li>
+        
+          <li>
+            <strong>The Meteors</strong> - Rockabilly Psychosis
+             (In Heaven, 1981)
+          </li>
+        
+          <li>
+            <strong>The Meteors</strong> - Mutant Rock
+             (Psychobilly Revolution, 1999)
+          </li>
+        
+          <li>
+            <strong>Alan Vega</strong> - Jukebox Babe
+             (Alan Vega, 1980)
+          </li>
+        
+          <li>
+            <strong>Diablito</strong> - The Jungle
+             (Jungle Exotica, 1960)
+          </li>
+        
+          <li>
+            <strong>The Meteors</strong> - Wreckin&#39; Crew
+             (Only The Meteors Are Pure Psychobilly, 1988)
+          </li>
+        
+        </ol>
+        
+      ]]></description>
+
+      
+      <enclosure url="https://www.mixcloud.com/wobuzz/the-zorchmans-psychobilly-special/" type="audio/mpeg" length="0"/>
+      
+
+      
+      <itunes:image href="https://wobuzz.io/shows/the_zorchman_s_psychobilly_spe_20260109_193107/cover.jpg"/>
+      
+
+      
+      
+      <category>rock</category>
+      
+      <category>psychobilly</category>
+      
+      <category>Klub Foot</category>
+      
+      <category>hard rock</category>
+      
+      <category>classic rock</category>
+      
+      <category>punk</category>
+      
+      <category>1980s</category>
+      
+      <category>rockabilly</category>
+      
+      <category>The Meteors</category>
+      
+      
+
+      <itunes:author>RDIO</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      
+      <itunes:duration>1080</itunes:duration>
+      
+    </item>
     
     <item>
       <title>The Melancholy Disciples</title>

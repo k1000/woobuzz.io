@@ -1,0 +1,56 @@
+{
+  "id": "the_zorchman_s_psychobilly_spe_20260109_193107",
+  "title": "The Zorchman's Psychobilly Special",
+  "description": "A late-night journey through psychobilly's unholy origins - from the 1950s primal scream of The Phantom to the Klub Foot chaos of The Meteors. Featuring P. Paul Fenech's cult-leader charisma, the kinetic energy of the wrecking pit, and the strange Lynchian surrealism that defined a genre.",
+  "tags": [
+    "rock",
+    "psychobilly",
+    "Klub Foot",
+    "hard rock",
+    "classic rock",
+    "punk",
+    "1980s",
+    "rockabilly",
+    "The Meteors"
+  ],
+  "mixcloud_url": "https://www.mixcloud.com/wobuzz/the-zorchmans-psychobilly-special/",
+  "published_at": "2026-01-09T18:31:07.806838Z",
+  "tracklist": [
+    {
+      "artist": "The Phantom",
+      "title": "Love Me",
+      "album": "The Roots Of Psychobilly",
+      "year": 1958
+    },
+    {
+      "artist": "The Meteors",
+      "title": "Rockabilly Psychosis",
+      "album": "In Heaven",
+      "year": 1981
+    },
+    {
+      "artist": "The Meteors",
+      "title": "Mutant Rock",
+      "album": "Psychobilly Revolution",
+      "year": 1999
+    },
+    {
+      "artist": "Alan Vega",
+      "title": "Jukebox Babe",
+      "album": "Alan Vega",
+      "year": 1980
+    },
+    {
+      "artist": "Diablito",
+      "title": "The Jungle",
+      "album": "Jungle Exotica",
+      "year": 1960
+    },
+    {
+      "artist": "The Meteors",
+      "title": "Wreckin' Crew",
+      "album": "Only The Meteors Are Pure Psychobilly",
+      "year": 1988
+    }
+  ]
+}

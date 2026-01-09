@@ -46,6 +46,11 @@
       "show_count": 1
     },
     {
+      "name": "Rock Ritual",
+      "slug": "rock-ritual",
+      "show_count": 1
+    },
+    {
       "name": "Underground Sounds",
       "slug": "underground-sounds",
       "show_count": 1
@@ -76,6 +81,11 @@
       "name": "Indie",
       "slug": "indie",
       "show_count": 2
+    },
+    {
+      "name": "Rock",
+      "slug": "rock",
+      "show_count": 1
     },
     {
       "name": "Experimental",
