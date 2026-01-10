@@ -66,6 +66,11 @@
       "show_count": 1
     },
     {
+      "name": "acid-kraut-cosmos",
+      "slug": "acid-kraut-cosmos",
+      "show_count": 1
+    },
+    {
       "name": "avant-abyss",
       "slug": "avant-abyss",
       "show_count": 1
@@ -81,6 +86,11 @@
       "name": "Indie",
       "slug": "indie",
       "show_count": 2
+    },
+    {
+      "name": "Tribute",
+      "slug": "tribute",
+      "show_count": 1
     },
     {
       "name": "Rock",

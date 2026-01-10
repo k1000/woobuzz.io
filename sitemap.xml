@@ -77,6 +77,11 @@
   </url>
 
   <url>
+    <loc>https://wobuzz.io/series/acid-kraut-cosmos/</loc>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
     <loc>https://wobuzz.io/series/avant-abyss/</loc>
     <priority>0.9</priority>
   </url>
@@ -88,6 +93,11 @@
 
   <url>
     <loc>https://wobuzz.io/genre/indie/</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://wobuzz.io/genre/tribute/</loc>
     <priority>0.8</priority>
   </url>
 
@@ -154,6 +164,11 @@
   <url>
     <loc>https://wobuzz.io/genre/classical/</loc>
     <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://wobuzz.io/shows/brigitte_psychédélique_20260110_193711/</loc>
+    <priority>0.7</priority>
   </url>
 
   <url>

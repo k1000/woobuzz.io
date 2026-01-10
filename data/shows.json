@@ -1,6 +1,27 @@
 {
   "shows": [
     {
+      "id": "brigitte_psychédélique_20260110_193711",
+      "title": "Brigitte Psychédélique",
+      "cover": "shows/brigitte_psychédélique_20260110_193711/cover.jpg",
+      "mixcloud_url": "https://www.mixcloud.com/wobuzz/brigitte-psych%C3%A9d%C3%A9lique/",
+      "tags": [
+        "tribute",
+        "krautrock",
+        "french pop",
+        "psychedelic",
+        "brigitte bardot",
+        "space rock",
+        "serge gainsbourg",
+        "yé-yé",
+        "1960s"
+      ],
+      "series": "acid-kraut-cosmos",
+      "description": "A cosmic tribute to Brigitte Bardot (1934-2025), celebrating her psychedelic pop legacy and the swinging sounds of 1960s French yé-yé.",
+      "background_color": "#2D0A3D",
+      "published_at": "2026-01-10T18:37:11.789651Z"
+    },
+    {
       "id": "the_zorchman_s_psychobilly_spe_20260109_193107",
       "title": "The Zorchman's Psychobilly Special",
       "cover": "shows/the_zorchman_s_psychobilly_spe_20260109_193107/cover.jpg",
@@ -309,5 +330,5 @@
       "duration": 1470
     }
   ],
-  "updated_at": "2026-01-09T18:31:07.807355Z"
+  "updated_at": "2026-01-10T18:37:11.789655Z"
 }
