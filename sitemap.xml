@@ -97,6 +97,11 @@
   </url>
 
   <url>
+    <loc>https://wobuzz.io/genre/improvisation/</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
     <loc>https://wobuzz.io/genre/tribute/</loc>
     <priority>0.8</priority>
   </url>
@@ -164,6 +169,11 @@
   <url>
     <loc>https://wobuzz.io/genre/classical/</loc>
     <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://wobuzz.io/shows/grandmaster_improvisations_20260111_205841/</loc>
+    <priority>0.7</priority>
   </url>
 
   <url>

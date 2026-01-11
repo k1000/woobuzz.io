@@ -9,10 +9,93 @@
     <description>Curated radio shows with themed music and AI-generated presentations</description>
     <language>en-us</language>
     <atom:link href="https://wobuzz.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 10 Jan 2026 18:37:11 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 11 Jan 2026 19:58:41 GMT</lastBuildDate>
     <generator>RDIO Radio Show Generator</generator>
 
     
+    
+    <item>
+      <title>Grandmaster Improvisations</title>
+      <link>https://wobuzz.io/shows/grandmaster_improvisations_20260111_205841/</link>
+      <guid isPermaLink="true">https://wobuzz.io/shows/grandmaster_improvisations_20260111_205841/</guid>
+      <pubDate>Sun, 11 Jan 2026 19:58:41 GMT</pubDate>
+
+      <description><![CDATA[
+        
+        <p>Investigating the profound link between the logic of Chess and the structure of Jazz. Exploring music as a strategic game of pattern recognition, featuring the stories of Anthony Braxton, Sun Ra, and Charlie Parker.</p>
+        
+
+        
+        <p><strong>Series:</strong> Jazz Frontiers</p>
+        
+
+        
+        <p><strong>Tags:</strong> improvisation, chess, logic, experimental, jazz, avant-garde</p>
+        
+
+        
+        <h3>Tracklist:</h3>
+        <ol>
+        
+          <li>
+            <strong>Anthony Braxton &amp; Joe Fonda</strong> - Composition 168+147
+             (Duets, 1995)
+          </li>
+        
+          <li>
+            <strong>Steve Coleman and Five Elements</strong> - The X Format
+             (Black Science, 1991)
+          </li>
+        
+          <li>
+            <strong>Charlie Parker &amp; Dizzy Gillespie</strong> - Bloomdido
+             (Bird and Diz, 1952)
+          </li>
+        
+          <li>
+            <strong>Max Roach</strong> - Three-Four vs. Six-Eight Four-Four Ways
+             (The Max Roach Trio feat. The Legendary Hasaan, 1965)
+          </li>
+        
+          <li>
+            <strong>Sun Ra</strong> - Tapestry From an Asteroid
+             (Transitions 3 - Chicago to NY, 2016)
+          </li>
+        
+        </ol>
+        
+      ]]></description>
+
+      
+      <enclosure url="https://www.mixcloud.com/wobuzz/grandmaster-improvisations/" type="audio/mpeg" length="0"/>
+      
+
+      
+      <itunes:image href="https://wobuzz.io/shows/grandmaster_improvisations_20260111_205841/cover.jpg"/>
+      
+
+      
+      
+      <category>improvisation</category>
+      
+      <category>chess</category>
+      
+      <category>logic</category>
+      
+      <category>experimental</category>
+      
+      <category>jazz</category>
+      
+      <category>avant-garde</category>
+      
+      
+
+      <itunes:author>RDIO</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      
+      <itunes:duration>900</itunes:duration>
+      
+    </item>
     
     <item>
       <title>Brigitte Psychédélique</title>

@@ -33,7 +33,7 @@
     {
       "name": "Jazz Frontiers",
       "slug": "jazz-frontiers",
-      "show_count": 1
+      "show_count": 2
     },
     {
       "name": "Jazz Heritage",
@@ -86,6 +86,11 @@
       "name": "Indie",
       "slug": "indie",
       "show_count": 2
+    },
+    {
+      "name": "Improvisation",
+      "slug": "improvisation",
+      "show_count": 1
     },
     {
       "name": "Tribute",

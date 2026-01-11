@@ -1,0 +1,47 @@
+{
+  "id": "grandmaster_improvisations_20260111_205841",
+  "title": "Grandmaster Improvisations",
+  "description": "Investigating the profound link between the logic of Chess and the structure of Jazz. Exploring music as a strategic game of pattern recognition, featuring the stories of Anthony Braxton, Sun Ra, and Charlie Parker.",
+  "tags": [
+    "improvisation",
+    "chess",
+    "logic",
+    "experimental",
+    "jazz",
+    "avant-garde"
+  ],
+  "mixcloud_url": "https://www.mixcloud.com/wobuzz/grandmaster-improvisations/",
+  "published_at": "2026-01-11T19:58:41.798802Z",
+  "tracklist": [
+    {
+      "artist": "Anthony Braxton & Joe Fonda",
+      "title": "Composition 168+147",
+      "album": "Duets",
+      "year": 1995
+    },
+    {
+      "artist": "Steve Coleman and Five Elements",
+      "title": "The X Format",
+      "album": "Black Science",
+      "year": 1991
+    },
+    {
+      "artist": "Charlie Parker & Dizzy Gillespie",
+      "title": "Bloomdido",
+      "album": "Bird and Diz",
+      "year": 1952
+    },
+    {
+      "artist": "Max Roach",
+      "title": "Three-Four vs. Six-Eight Four-Four Ways",
+      "album": "The Max Roach Trio feat. The Legendary Hasaan",
+      "year": 1965
+    },
+    {
+      "artist": "Sun Ra",
+      "title": "Tapestry From an Asteroid",
+      "album": "Transitions 3 - Chicago to NY",
+      "year": 2016
+    }
+  ]
+}

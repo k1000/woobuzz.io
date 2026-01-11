@@ -1,6 +1,24 @@
 {
   "shows": [
     {
+      "id": "grandmaster_improvisations_20260111_205841",
+      "title": "Grandmaster Improvisations",
+      "cover": "shows/grandmaster_improvisations_20260111_205841/cover.jpg",
+      "mixcloud_url": "https://www.mixcloud.com/wobuzz/grandmaster-improvisations/",
+      "tags": [
+        "improvisation",
+        "chess",
+        "logic",
+        "experimental",
+        "jazz",
+        "avant-garde"
+      ],
+      "series": "Jazz Frontiers",
+      "description": "Investigating the profound link between the logic of Chess and the structure of Jazz. Exploring music as a strategic game of pattern recognition, featuring the stories of Anthony Braxton, Sun Ra, and Charlie Parker.",
+      "background_color": "#2C1810",
+      "published_at": "2026-01-11T19:58:41.799252Z"
+    },
+    {
       "id": "brigitte_psychédélique_20260110_193711",
       "title": "Brigitte Psychédélique",
       "cover": "shows/brigitte_psychédélique_20260110_193711/cover.jpg",
@@ -330,5 +348,5 @@
       "duration": 1470
     }
   ],
-  "updated_at": "2026-01-10T18:37:11.789655Z"
+  "updated_at": "2026-01-11T19:58:41.799274Z"
 }
