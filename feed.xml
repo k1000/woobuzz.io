@@ -9,10 +9,115 @@
     <description>Curated radio shows with themed music and AI-generated presentations</description>
     <language>en-us</language>
     <atom:link href="https://wobuzz.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 11 Jan 2026 19:58:41 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jan 2026 22:55:10 GMT</lastBuildDate>
     <generator>RDIO Radio Show Generator</generator>
 
     
+    
+    <item>
+      <title>The Dreamer&#39;s Catalog</title>
+      <link>https://wobuzz.io/shows/the_dreamer_s_catalog_20260113_235510/</link>
+      <guid isPermaLink="true">https://wobuzz.io/shows/the_dreamer_s_catalog_20260113_235510/</guid>
+      <pubDate>Tue, 13 Jan 2026 22:55:10 GMT</pubDate>
+
+      <description><![CDATA[
+        
+        <p>A journey through artists who made visionary music that the world wasn&#39;t ready for - from Shuggie Otis&#39;s psychedelic soul to Lonnie Liston Smith&#39;s cosmic jazz to Marcos Resende&#39;s lost Brazilian masterpiece.</p>
+        
+
+        
+        <p><strong>Series:</strong> Hidden Frequencies</p>
+        
+
+        
+        <p><strong>Tags:</strong> jazz-funk, Brazilian jazz, lost album, reissue, psychedelic soul, soul, rare groove</p>
+        
+
+        
+        <h3>Tracklist:</h3>
+        <ol>
+        
+          <li>
+            <strong>Shuggie Otis</strong> - Strawberry Letter 23
+             (Inspiration Information, 1974)
+          </li>
+        
+          <li>
+            <strong>Shuggie Otis</strong> - Inspiration Information
+             (Inspiration Information, 1974)
+          </li>
+        
+          <li>
+            <strong>Lonnie Liston Smith &amp; The Cosmic Echoes</strong> - Expansions
+             (Expansions, 1975)
+          </li>
+        
+          <li>
+            <strong>Marcos Resende &amp; Index</strong> - Behind The Moon
+             (Marcos Resende &amp; Index, 1976)
+          </li>
+        
+          <li>
+            <strong>Lonnie Liston Smith</strong> - A Chance For Peace
+             (Visions Of A New World, 1975)
+          </li>
+        
+          <li>
+            <strong>Marcos Resende &amp; Index</strong> - Nergal
+             (Marcos Resende &amp; Index, 1976)
+          </li>
+        
+          <li>
+            <strong>Lonnie Liston Smith</strong> - Sunset
+             (Visions Of A New World, 1975)
+          </li>
+        
+          <li>
+            <strong>Marcos Resende &amp; Index</strong> - Praça da Alegria
+             (Marcos Resende &amp; Index, 1976)
+          </li>
+        
+          <li>
+            <strong>Shuggie Otis</strong> - Freedom Flight
+             (Freedom Flight, 1971)
+          </li>
+        
+        </ol>
+        
+      ]]></description>
+
+      
+      <enclosure url="https://www.mixcloud.com/wobuzz/the-dreamers-catalog/" type="audio/mpeg" length="0"/>
+      
+
+      
+      <itunes:image href="https://wobuzz.io/shows/the_dreamer_s_catalog_20260113_235510/cover.jpg"/>
+      
+
+      
+      
+      <category>jazz-funk</category>
+      
+      <category>Brazilian jazz</category>
+      
+      <category>lost album</category>
+      
+      <category>reissue</category>
+      
+      <category>psychedelic soul</category>
+      
+      <category>soul</category>
+      
+      <category>rare groove</category>
+      
+      
+
+      <itunes:author>RDIO</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      
+      <itunes:duration>1620</itunes:duration>
+      
+    </item>
     
     <item>
       <title>Grandmaster Improvisations</title>

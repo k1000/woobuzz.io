@@ -26,6 +26,11 @@
       "show_count": 1
     },
     {
+      "name": "Hidden Frequencies",
+      "slug": "hidden-frequencies",
+      "show_count": 1
+    },
+    {
       "name": "Indie Pulse",
       "slug": "indie-pulse",
       "show_count": 1
@@ -86,6 +91,11 @@
       "name": "Indie",
       "slug": "indie",
       "show_count": 2
+    },
+    {
+      "name": "Jazz-Funk",
+      "slug": "jazz-funk",
+      "show_count": 1
     },
     {
       "name": "Improvisation",

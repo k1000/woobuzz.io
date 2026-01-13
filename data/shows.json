@@ -1,6 +1,25 @@
 {
   "shows": [
     {
+      "id": "the_dreamer_s_catalog_20260113_235510",
+      "title": "The Dreamer's Catalog",
+      "cover": "shows/the_dreamer_s_catalog_20260113_235510/cover.jpg",
+      "mixcloud_url": "https://www.mixcloud.com/wobuzz/the-dreamers-catalog/",
+      "tags": [
+        "jazz-funk",
+        "Brazilian jazz",
+        "lost album",
+        "reissue",
+        "psychedelic soul",
+        "soul",
+        "rare groove"
+      ],
+      "series": "Hidden Frequencies",
+      "description": "A journey through artists who made visionary music that the world wasn't ready for - from Shuggie Otis's psychedelic soul to Lonnie Liston Smith's cosmic jazz to Marcos Resende's lost Brazilian masterpiece.",
+      "background_color": "#1A1A1A",
+      "published_at": "2026-01-13T22:55:10.902317Z"
+    },
+    {
       "id": "grandmaster_improvisations_20260111_205841",
       "title": "Grandmaster Improvisations",
       "cover": "shows/grandmaster_improvisations_20260111_205841/cover.jpg",
@@ -348,5 +367,5 @@
       "duration": 1470
     }
   ],
-  "updated_at": "2026-01-11T19:58:41.799274Z"
+  "updated_at": "2026-01-13T22:55:10.902324Z"
 }
