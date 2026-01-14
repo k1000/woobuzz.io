@@ -1,6 +1,26 @@
 {
   "shows": [
     {
+      "id": "sacred_echoes__800_years_of_sp_20260114_200728",
+      "title": "Sacred Echoes: 800 Years of Spiritual Music",
+      "cover": "shows/sacred_echoes__800_years_of_sp_20260114_200728/cover.jpg",
+      "mixcloud_url": "https://www.mixcloud.com/wobuzz/sacred-echoes-800-years-of-spiritual-music/",
+      "tags": [
+        "choral",
+        "carmina burana",
+        "sacred",
+        "classical",
+        "baroque",
+        "symphony",
+        "medieval",
+        "orchestral"
+      ],
+      "series": "symphony-evenings",
+      "description": "A journey from medieval monks to Bach—800 years of sacred music spanning mystics, rebels, and mathematical geniuses.",
+      "background_color": "#0A0F1A",
+      "published_at": "2026-01-14T19:07:28.744748Z"
+    },
+    {
       "id": "the_dreamer_s_catalog_20260113_235510",
       "title": "The Dreamer's Catalog",
       "cover": "shows/the_dreamer_s_catalog_20260113_235510/cover.jpg",
@@ -367,5 +387,5 @@
       "duration": 1470
     }
   ],
-  "updated_at": "2026-01-13T22:55:10.902324Z"
+  "updated_at": "2026-01-14T19:07:28.744757Z"
 }

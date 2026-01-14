@@ -9,10 +9,97 @@
     <description>Curated radio shows with themed music and AI-generated presentations</description>
     <language>en-us</language>
     <atom:link href="https://wobuzz.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 13 Jan 2026 22:55:10 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jan 2026 19:07:28 GMT</lastBuildDate>
     <generator>RDIO Radio Show Generator</generator>
 
     
+    
+    <item>
+      <title>Sacred Echoes: 800 Years of Spiritual Music</title>
+      <link>https://wobuzz.io/shows/sacred_echoes__800_years_of_sp_20260114_200728/</link>
+      <guid isPermaLink="true">https://wobuzz.io/shows/sacred_echoes__800_years_of_sp_20260114_200728/</guid>
+      <pubDate>Wed, 14 Jan 2026 19:07:28 GMT</pubDate>
+
+      <description><![CDATA[
+        
+        <p>A journey from medieval monks to Bach—800 years of sacred music spanning mystics, rebels, and mathematical geniuses.</p>
+        
+
+        
+        <p><strong>Series:</strong> symphony-evenings</p>
+        
+
+        
+        <p><strong>Tags:</strong> choral, carmina burana, sacred, classical, baroque, symphony, medieval, orchestral</p>
+        
+
+        
+        <h3>Tracklist:</h3>
+        <ol>
+        
+          <li>
+            <strong>J.S. Bach</strong> - Die Seel ruht in Jesu Händen
+             (Cantata BWV 127)
+          </li>
+        
+          <li>
+            <strong>Carl Orff</strong> - O Fortuna
+             (Carmina Burana)
+          </li>
+        
+          <li>
+            <strong>Carl Orff</strong> - In Taberna Quando Sumus
+             (Carmina Burana)
+          </li>
+        
+          <li>
+            <strong>J.S. Bach</strong> - Toccata in D minor, BWV 565
+             (Organ Works)
+          </li>
+        
+          <li>
+            <strong>J.S. Bach</strong> - Fugue in D minor, BWV 565
+             (Organ Works)
+          </li>
+        
+        </ol>
+        
+      ]]></description>
+
+      
+      <enclosure url="https://www.mixcloud.com/wobuzz/sacred-echoes-800-years-of-spiritual-music/" type="audio/mpeg" length="0"/>
+      
+
+      
+      <itunes:image href="https://wobuzz.io/shows/sacred_echoes__800_years_of_sp_20260114_200728/cover.jpg"/>
+      
+
+      
+      
+      <category>choral</category>
+      
+      <category>carmina burana</category>
+      
+      <category>sacred</category>
+      
+      <category>classical</category>
+      
+      <category>baroque</category>
+      
+      <category>symphony</category>
+      
+      <category>medieval</category>
+      
+      <category>orchestral</category>
+      
+      
+
+      <itunes:author>RDIO</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      
+      <itunes:duration>900</itunes:duration>
+      
+    </item>
     
     <item>
       <title>The Dreamer&#39;s Catalog</title>
