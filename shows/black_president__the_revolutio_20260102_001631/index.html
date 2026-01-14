@@ -325,14 +325,35 @@
 
 
 <section class="hero" style="background: #3D1A00">
-  <figure class="hero-cover hero-player">
+  <figure class="hero-cover hero-player" id="hero-player-container">
+    <div class="hero-cover-art" onclick="activateMixcloudPlayer()">
+      <img src="https://wobuzz.io/shows/black_president__the_revolutio_20260102_001631/cover.jpg" alt="Black President: The Revolutionary Sound of Fela Kuti cover art">
+      <div class="play-overlay">
+        <svg viewBox="0 0 24 24" fill="currentColor">
+          <path d="M8 5v14l11-7z"/>
+        </svg>
+      </div>
+    </div>
     <iframe
-      src="https://player-widget.mixcloud.com/widget/iframe/?feed=https%3A//www.mixcloud.com/wobuzz/black-president-the-revolutionary-sound-of-fela-kuti/"
+      id="mixcloud-iframe"
+      class="hidden"
+      src=""
+      data-src="https://player-widget.mixcloud.com/widget/iframe/?feed=https%3A//www.mixcloud.com/wobuzz/black-president-the-revolutionary-sound-of-fela-kuti/&autoplay=1"
       frameborder="0"
-      style="width: 100%; min-height: 450px"
       allow="encrypted-media; fullscreen; autoplay; idle-detection; speaker-selection; web-share;"
     ></iframe>
   </figure>
+  <script>
+    function activateMixcloudPlayer() {
+      var coverArt = document.querySelector('.hero-cover-art');
+      var iframe = document.getElementById('mixcloud-iframe');
+      if (coverArt && iframe) {
+        coverArt.style.display = 'none';
+        iframe.src = iframe.getAttribute('data-src');
+        iframe.classList.remove('hidden');
+      }
+    }
+  </script>
   <article class="hero-content">
     <div class="hero-meta-row">
       

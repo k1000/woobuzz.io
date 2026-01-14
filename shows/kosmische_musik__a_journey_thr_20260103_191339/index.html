@@ -269,14 +269,35 @@
 
 
 <section class="hero" style="background: #2D0A3D">
-  <figure class="hero-cover hero-player">
+  <figure class="hero-cover hero-player" id="hero-player-container">
+    <div class="hero-cover-art" onclick="activateMixcloudPlayer()">
+      <img src="https://wobuzz.io/shows/kosmische_musik__a_journey_thr_20260103_191339/cover.jpg" alt="Kosmische Musik: A Journey Through Krautrock cover art">
+      <div class="play-overlay">
+        <svg viewBox="0 0 24 24" fill="currentColor">
+          <path d="M8 5v14l11-7z"/>
+        </svg>
+      </div>
+    </div>
     <iframe
-      src="https://player-widget.mixcloud.com/widget/iframe/?feed=https%3A//www.mixcloud.com/wobuzz/kosmische-musik-a-journey-through-krautrock/"
+      id="mixcloud-iframe"
+      class="hidden"
+      src=""
+      data-src="https://player-widget.mixcloud.com/widget/iframe/?feed=https%3A//www.mixcloud.com/wobuzz/kosmische-musik-a-journey-through-krautrock/&autoplay=1"
       frameborder="0"
-      style="width: 100%; min-height: 450px"
       allow="encrypted-media; fullscreen; autoplay; idle-detection; speaker-selection; web-share;"
     ></iframe>
   </figure>
+  <script>
+    function activateMixcloudPlayer() {
+      var coverArt = document.querySelector('.hero-cover-art');
+      var iframe = document.getElementById('mixcloud-iframe');
+      if (coverArt && iframe) {
+        coverArt.style.display = 'none';
+        iframe.src = iframe.getAttribute('data-src');
+        iframe.classList.remove('hidden');
+      }
+    }
+  </script>
   <article class="hero-content">
     <div class="hero-meta-row">
       
