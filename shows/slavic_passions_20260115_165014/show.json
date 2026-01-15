@@ -1,0 +1,47 @@
+{
+  "id": "slavic_passions_20260115_165014",
+  "title": "Slavic Passions",
+  "description": "A journey through the emotional intensity of Eastern European masters - from the rivers of Bohemia to wartime Moscow",
+  "tags": [
+    "classical",
+    "russian",
+    "symphony",
+    "czech",
+    "orchestral",
+    "romantic"
+  ],
+  "mixcloud_url": "https://www.mixcloud.com/wobuzz/slavic-passions/",
+  "published_at": "2026-01-15T15:50:14.438854Z",
+  "tracklist": [
+    {
+      "artist": "Bedrich Smetana",
+      "title": "Vltava (The Moldau)",
+      "album": "Ma Vlast",
+      "year": null
+    },
+    {
+      "artist": "Antonin Dvorak",
+      "title": "Symphony No. 9 'New World' - II. Largo",
+      "album": "Symphony No. 9",
+      "year": null
+    },
+    {
+      "artist": "Pyotr Ilyich Tchaikovsky",
+      "title": "Symphony No. 5 - II. Andante cantabile",
+      "album": "Symphony No. 5",
+      "year": null
+    },
+    {
+      "artist": "Nikolai Rimsky-Korsakov",
+      "title": "Scheherazade - I. The Sea and Sinbad's Ship",
+      "album": "Scheherazade",
+      "year": null
+    },
+    {
+      "artist": "Sergei Prokofiev",
+      "title": "Symphony No. 5 - III. Adagio",
+      "album": "Symphony No. 5",
+      "year": null
+    }
+  ]
+}
