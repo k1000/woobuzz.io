@@ -9,10 +9,99 @@
     <description>Curated radio shows with themed music and AI-generated presentations</description>
     <language>en-us</language>
     <atom:link href="https://wobuzz.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 15 Jan 2026 15:58:11 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jan 2026 18:20:10 GMT</lastBuildDate>
     <generator>RDIO Radio Show Generator</generator>
 
     
+    
+    <item>
+      <title>Electric Strings: A Tribute to Michal Urbaniak</title>
+      <link>https://wobuzz.io/shows/electric_strings__a_tribute_to_20260115_192010/</link>
+      <guid isPermaLink="true">https://wobuzz.io/shows/electric_strings__a_tribute_to_20260115_192010/</guid>
+      <pubDate>Thu, 15 Jan 2026 18:20:10 GMT</pubDate>
+
+      <description><![CDATA[
+        
+        <p>An extended memorial tribute to the Polish electric violin pioneer Michal Urbaniak (1943-2025), exploring his legacy alongside Jean-Luc Ponty, Jerry Goodman, and the fusion violinists who transformed the instrument.</p>
+        
+
+        
+        <p><strong>Series:</strong> jazz-frontiers</p>
+        
+
+        
+        <p><strong>Tags:</strong> jazz, violin, tribute, electric violin, polish jazz, experimental, avant-garde, memorial, fusion</p>
+        
+
+        
+        <h3>Tracklist:</h3>
+        <ol>
+        
+          <li>
+            <strong>Jean-Luc Ponty &amp; Michal Urbaniak</strong> - Astrorama
+             (New Violin Summit, 1971)
+          </li>
+        
+          <li>
+            <strong>Michal Urbaniak&#39;s Fusion</strong> - New York Batsa
+             (Atma, 1974)
+          </li>
+        
+          <li>
+            <strong>Mahavishnu Orchestra</strong> - Birds Of Fire
+             (Birds Of Fire, 1973)
+          </li>
+        
+          <li>
+            <strong>Michal Urbaniak&#39;s Fusion</strong> - Smiles Ahead
+             (Smiles Ahead, 1977)
+          </li>
+        
+          <li>
+            <strong>Michal Urbaniak</strong> - Watermelon Man
+             (Urbanator, 1994)
+          </li>
+        
+        </ol>
+        
+      ]]></description>
+
+      
+      <enclosure url="https://www.mixcloud.com/wobuzz/electric-strings-a-tribute-to-michal-urbaniak/" type="audio/mpeg" length="0"/>
+      
+
+      
+      <itunes:image href="https://wobuzz.io/shows/electric_strings__a_tribute_to_20260115_192010/cover.jpg"/>
+      
+
+      
+      
+      <category>jazz</category>
+      
+      <category>violin</category>
+      
+      <category>tribute</category>
+      
+      <category>electric violin</category>
+      
+      <category>polish jazz</category>
+      
+      <category>experimental</category>
+      
+      <category>avant-garde</category>
+      
+      <category>memorial</category>
+      
+      <category>fusion</category>
+      
+      
+
+      <itunes:author>RDIO</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      
+      <itunes:duration>900</itunes:duration>
+      
+    </item>
     
     <item>
       <title>Slavic Passions</title>
