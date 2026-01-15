@@ -16,7 +16,8 @@
       "series": "symphony-evenings",
       "description": "A journey through the emotional intensity of Eastern European masters - from the rivers of Bohemia to wartime Moscow",
       "background_color": "#0A0F1A",
-      "published_at": "2026-01-15T15:50:14.439469Z"
+      "published_at": "2026-01-15T15:50:14.439469Z",
+      "cover_rect": "shows/slavic_passions_20260115_165014/cover_rect.jpg"
     },
     {
       "id": "sacred_echoes__800_years_of_sp_20260114_200728",
