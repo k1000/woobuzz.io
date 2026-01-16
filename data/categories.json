@@ -76,6 +76,11 @@
       "show_count": 1
     },
     {
+      "name": "desert-sessions",
+      "slug": "desert-sessions",
+      "show_count": 1
+    },
+    {
       "name": "fusion-frontiers",
       "slug": "fusion-frontiers",
       "show_count": 2
@@ -106,6 +111,11 @@
       "name": "Indie",
       "slug": "indie",
       "show_count": 2
+    },
+    {
+      "name": "Qotsa",
+      "slug": "qotsa",
+      "show_count": 1
     },
     {
       "name": "Choral",
