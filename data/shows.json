@@ -1,6 +1,24 @@
 {
   "shows": [
     {
+      "id": "desert_sessions_vol__2__genera_20260116_204123",
+      "title": "Desert Sessions Vol. 2: Generator Parties",
+      "cover": "shows/desert_sessions_vol__2__genera_20260116_204123/cover.jpg",
+      "cover_rect": "shows/desert_sessions_vol__2__genera_20260116_204123/cover_rect.jpg",
+      "mixcloud_url": "https://www.mixcloud.com/wobuzz/desert-sessions-vol-2-generator-parties/",
+      "tags": [
+        "generator parties",
+        "heavy psych",
+        "desert rock",
+        "palm desert",
+        "stoner rock"
+      ],
+      "series": "desert-sessions",
+      "description": "A journey through the sun-baked, fuzz-drenched world of desert rock — from the illegal generator parties of Palm Desert to the modern psychedelic revival. This episode explores the origins of the genre, the breakthrough of Songs for the Deaf, and Josh Homme's resurrection after his near-death experience.",
+      "background_color": "#1A1A1A",
+      "published_at": "2026-01-16T19:41:23.362259Z"
+    },
+    {
       "id": "electric_strings__a_tribute_to_20260115_192010",
       "title": "Electric Strings: A Tribute to Michal Urbaniak",
       "cover": "shows/electric_strings__a_tribute_to_20260115_192010/cover.jpg",
@@ -427,5 +445,5 @@
       "duration": 1470
     }
   ],
-  "updated_at": "2026-01-16T18:51:07.113683Z"
+  "updated_at": "2026-01-16T19:41:23.362272Z"
 }

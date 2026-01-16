@@ -87,6 +87,11 @@
   </url>
 
   <url>
+    <loc>https://wobuzz.io/series/desert-sessions/</loc>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
     <loc>https://wobuzz.io/series/fusion-frontiers/</loc>
     <priority>0.9</priority>
   </url>
@@ -113,6 +118,11 @@
 
   <url>
     <loc>https://wobuzz.io/genre/indie/</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://wobuzz.io/genre/generator-parties/</loc>
     <priority>0.8</priority>
   </url>
 
@@ -189,6 +199,11 @@
   <url>
     <loc>https://wobuzz.io/genre/latin/</loc>
     <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://wobuzz.io/shows/desert_sessions_vol__2__genera_20260116_204123/</loc>
+    <priority>0.7</priority>
   </url>
 
   <url>
