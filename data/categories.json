@@ -78,7 +78,7 @@
     {
       "name": "desert-sessions",
       "slug": "desert-sessions",
-      "show_count": 2
+      "show_count": 1
     },
     {
       "name": "fusion-frontiers",
@@ -98,11 +98,6 @@
   ],
   "genres": [
     {
-      "name": "Qotsa",
-      "slug": "qotsa",
-      "show_count": 2
-    },
-    {
       "name": "Jazz",
       "slug": "jazz",
       "show_count": 2
@@ -116,6 +111,11 @@
       "name": "Indie",
       "slug": "indie",
       "show_count": 2
+    },
+    {
+      "name": "Qotsa",
+      "slug": "qotsa",
+      "show_count": 1
     },
     {
       "name": "Choral",

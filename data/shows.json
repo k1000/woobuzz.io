@@ -1,26 +1,6 @@
 {
   "shows": [
     {
-      "id": "desert_sessions_vol__1_20260116_195107",
-      "title": "Desert Sessions Vol. 1",
-      "cover": "shows/desert_sessions_vol__1_20260116_195107/cover.jpg",
-      "cover_rect": "shows/desert_sessions_vol__1_20260116_195107/cover_rect.jpg",
-      "mixcloud_url": "https://www.mixcloud.com/wobuzz/desert-sessions-vol-1-1/",
-      "tags": [
-        "qotsa",
-        "stoner rock",
-        "all them witches",
-        "desert rock",
-        "palm desert",
-        "heavy psych",
-        "fu manchu"
-      ],
-      "series": "desert-sessions",
-      "description": "A journey through the sun-baked, fuzz-drenched world of desert rock - from the illegal generator parties of Palm Desert to the modern psychedelic revival.",
-      "background_color": "#1A1A1A",
-      "published_at": "2026-01-16T18:51:07.113667Z"
-    },
-    {
       "id": "desert_sessions_vol__1_20260116_192629",
       "title": "Desert Sessions Vol. 1",
       "cover": "shows/desert_sessions_vol__1_20260116_192629/cover.jpg",
