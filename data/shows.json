@@ -1,6 +1,27 @@
 {
   "shows": [
     {
+      "id": "bristol_dusk_downtempo_20260118_193254",
+      "title": "Bristol Dusk Downtempo",
+      "cover": "shows/bristol_dusk_downtempo_20260118_193254/cover.jpg",
+      "cover_rect": "shows/bristol_dusk_downtempo_20260118_193254/cover_rect.jpg",
+      "mixcloud_url": "https://www.mixcloud.com/wobuzz/bristol-dusk-downtempo/",
+      "tags": [
+        "jazz",
+        "weekend",
+        "downtempo",
+        "chill",
+        "trip-hop",
+        "relaxing",
+        "thievery corporation",
+        "dj shadow"
+      ],
+      "series": "weekend-vibes",
+      "description": "Hazy trip-hop and downtempo waves honoring Bristol's legacy—DJ Shadow's sample archaeology meets Thievery Corporation's global chill.",
+      "background_color": "#2C1810",
+      "published_at": "2026-01-18T18:32:54.988707Z"
+    },
+    {
       "id": "desert_sessions_vol__2__genera_20260116_204123",
       "title": "Desert Sessions Vol. 2: Generator Parties",
       "cover": "shows/desert_sessions_vol__2__genera_20260116_204123/cover.jpg",
@@ -445,5 +466,5 @@
       "duration": 1470
     }
   ],
-  "updated_at": "2026-01-16T19:41:23.362272Z"
+  "updated_at": "2026-01-18T18:32:54.988719Z"
 }
