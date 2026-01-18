@@ -94,18 +94,13 @@
       "name": "symphony-evenings",
       "slug": "symphony-evenings",
       "show_count": 2
-    },
-    {
-      "name": "weekend-vibes",
-      "slug": "weekend-vibes",
-      "show_count": 1
     }
   ],
   "genres": [
     {
       "name": "Jazz",
       "slug": "jazz",
-      "show_count": 3
+      "show_count": 2
     },
     {
       "name": "Classical",
