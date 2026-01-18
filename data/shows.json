@@ -1,6 +1,27 @@
 {
   "shows": [
     {
+      "id": "bristol_dusk_downtempo_20260118_211700",
+      "title": "Bristol Dusk Downtempo",
+      "cover": "shows/bristol_dusk_downtempo_20260118_211700/cover.jpg",
+      "cover_rect": "shows/bristol_dusk_downtempo_20260118_211700/cover_rect.jpg",
+      "mixcloud_url": "https://www.mixcloud.com/wobuzz/bristol-dusk-downtempo/",
+      "tags": [
+        "weekend",
+        "trip-hop",
+        "portishead",
+        "massive attack",
+        "bristol",
+        "relaxing",
+        "chill",
+        "downtempo"
+      ],
+      "series": "weekend-vibes",
+      "description": "Hazy trip-hop from Bristol's golden era—Massive Attack's dub echoes, Portishead's noir soul, and the downtempo waves that defined the 90s.",
+      "background_color": "#1A1A1A",
+      "published_at": "2026-01-18T20:17:00.761381Z"
+    },
+    {
       "id": "desert_sessions_vol__2__genera_20260116_204123",
       "title": "Desert Sessions Vol. 2: Generator Parties",
       "cover": "shows/desert_sessions_vol__2__genera_20260116_204123/cover.jpg",
@@ -445,5 +466,5 @@
       "duration": 1470
     }
   ],
-  "updated_at": "2026-01-18T18:32:54.988719Z"
+  "updated_at": "2026-01-18T20:17:00.761389Z"
 }
