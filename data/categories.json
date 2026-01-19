@@ -98,7 +98,7 @@
     {
       "name": "weekend-vibes",
       "slug": "weekend-vibes",
-      "show_count": 1
+      "show_count": 2
     }
   ],
   "genres": [
@@ -116,6 +116,11 @@
       "name": "Indie",
       "slug": "indie",
       "show_count": 2
+    },
+    {
+      "name": "Arthur Lyman",
+      "slug": "arthur-lyman",
+      "show_count": 1
     },
     {
       "name": "Weekend",
