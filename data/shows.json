@@ -1,6 +1,30 @@
 {
   "shows": [
     {
+      "id": "quiet_village__the_exotica_dre_20260120_235016",
+      "title": "Quiet Village: The Exotica Dream",
+      "cover": "shows/quiet_village__the_exotica_dre_20260120_235016/cover.jpg",
+      "cover_rect": "shows/quiet_village__the_exotica_dre_20260120_235016/cover_rect.jpg",
+      "mixcloud_url": "https://www.mixcloud.com/wobuzz/quiet-village-the-exotica-dream/",
+      "tags": [
+        "arthur lyman",
+        "lounge",
+        "les baxter",
+        "vintage",
+        "exotica",
+        "chill",
+        "1950s",
+        "martin denny",
+        "weekend",
+        "relaxing",
+        "tiki"
+      ],
+      "series": "weekend-vibes",
+      "description": "Three sonic architects craft imaginary islands from Hollywood studios—Les Baxter's orchestral jungles, Martin Denny's bullfrog serenades, Arthur Lyman's vibraphone twilights. Post-war suburban escapism crystallized in stereo.",
+      "background_color": "#1A1A1A",
+      "published_at": "2026-01-20T22:50:16.922379Z"
+    },
+    {
       "id": "bristol_dusk_downtempo_20260120_235014",
       "title": "Bristol Dusk Downtempo",
       "cover": "shows/bristol_dusk_downtempo_20260120_235014/cover.jpg",
@@ -610,5 +634,5 @@
       "duration": 1470
     }
   ],
-  "updated_at": "2026-01-20T22:50:14.793722Z"
+  "updated_at": "2026-01-20T22:50:16.922395Z"
 }

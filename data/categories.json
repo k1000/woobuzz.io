@@ -98,7 +98,7 @@
     {
       "name": "weekend-vibes",
       "slug": "weekend-vibes",
-      "show_count": 3
+      "show_count": 4
     }
   ],
   "genres": [
@@ -111,6 +111,11 @@
       "name": "Classical",
       "slug": "classical",
       "show_count": 3
+    },
+    {
+      "name": "Arthur Lyman",
+      "slug": "arthur-lyman",
+      "show_count": 2
     },
     {
       "name": "Weekend",
@@ -136,11 +141,6 @@
       "name": "Indie",
       "slug": "indie",
       "show_count": 2
-    },
-    {
-      "name": "Arthur Lyman",
-      "slug": "arthur-lyman",
-      "show_count": 1
     },
     {
       "name": "Jazz-Funk",
