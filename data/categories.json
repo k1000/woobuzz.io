@@ -98,7 +98,7 @@
     {
       "name": "weekend-vibes",
       "slug": "weekend-vibes",
-      "show_count": 2
+      "show_count": 3
     }
   ],
   "genres": [
@@ -111,6 +111,11 @@
       "name": "Classical",
       "slug": "classical",
       "show_count": 3
+    },
+    {
+      "name": "Weekend",
+      "slug": "weekend",
+      "show_count": 2
     },
     {
       "name": "Generator Parties",
@@ -135,11 +140,6 @@
     {
       "name": "Arthur Lyman",
       "slug": "arthur-lyman",
-      "show_count": 1
-    },
-    {
-      "name": "Weekend",
-      "slug": "weekend",
       "show_count": 1
     },
     {

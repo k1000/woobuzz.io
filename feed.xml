@@ -9,10 +9,117 @@
     <description>Curated radio shows with themed music and AI-generated presentations</description>
     <language>en-us</language>
     <atom:link href="https://wobuzz.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 20 Jan 2026 22:50:12 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Jan 2026 22:50:14 GMT</lastBuildDate>
     <generator>RDIO Radio Show Generator</generator>
 
     
+    
+    <item>
+      <title>Bristol Dusk Downtempo</title>
+      <link>https://wobuzz.io/shows/bristol_dusk_downtempo_20260120_235014/</link>
+      <guid isPermaLink="true">https://wobuzz.io/shows/bristol_dusk_downtempo_20260120_235014/</guid>
+      <pubDate>Tue, 20 Jan 2026 22:50:14 GMT</pubDate>
+
+      <description><![CDATA[
+        
+        <p>Hazy trip-hop from Bristol&#39;s golden era—Massive Attack&#39;s dub echoes, Portishead&#39;s noir soul, and the downtempo waves that defined the 90s.</p>
+        
+
+        
+        <p><strong>Series:</strong> weekend-vibes</p>
+        
+
+        
+        <p><strong>Tags:</strong> weekend, trip-hop, portishead, massive attack, bristol, relaxing, chill, downtempo</p>
+        
+
+        
+        <h3>Tracklist:</h3>
+        <ol>
+        
+          <li>
+            <strong>Massive Attack</strong> - Teardrop
+             (Mezzanine, 1998)
+          </li>
+        
+          <li>
+            <strong>Portishead</strong> - Glory Box
+             (Dummy, 1994)
+          </li>
+        
+          <li>
+            <strong>Hooverphonic</strong> - Inhaler
+             (A New Stereophonic Sound Spectacular, 1996)
+          </li>
+        
+          <li>
+            <strong>Massive Attack</strong> - Angel
+             (Mezzanine, 1998)
+          </li>
+        
+          <li>
+            <strong>Portishead</strong> - Wandering Star
+             (Dummy, 1994)
+          </li>
+        
+          <li>
+            <strong>Thievery Corporation</strong> - 2001 Spliff Odyssey
+             (Sounds From The Thievery Hi-Fi, 1997)
+          </li>
+        
+          <li>
+            <strong>Lamb</strong> - Trans Fatty Acid (K&amp;D Session)
+             (The K&amp;D Sessions, 1998)
+          </li>
+        
+          <li>
+            <strong>Portishead</strong> - Cowboys
+             (Portishead, 1997)
+          </li>
+        
+          <li>
+            <strong>Massive Attack</strong> - Inertia Creeps
+             (Mezzanine, 1998)
+          </li>
+        
+        </ol>
+        
+      ]]></description>
+
+      
+      <enclosure url="https://www.mixcloud.com/wobuzz/bristol-dusk-downtempo/" type="audio/mpeg" length="0"/>
+      
+
+      
+      <itunes:image href="https://wobuzz.io/shows/bristol_dusk_downtempo_20260120_235014/cover.jpg"/>
+      
+
+      
+      
+      <category>weekend</category>
+      
+      <category>trip-hop</category>
+      
+      <category>portishead</category>
+      
+      <category>massive attack</category>
+      
+      <category>bristol</category>
+      
+      <category>relaxing</category>
+      
+      <category>chill</category>
+      
+      <category>downtempo</category>
+      
+      
+
+      <itunes:author>RDIO</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      
+      <itunes:duration>1620</itunes:duration>
+      
+    </item>
     
     <item>
       <title>Desert Sessions Vol. 2: Generator Parties</title>
