@@ -88,7 +88,7 @@
     {
       "name": "jazz-frontiers",
       "slug": "jazz-frontiers",
-      "show_count": 3
+      "show_count": 4
     },
     {
       "name": "symphony-evenings",
@@ -103,6 +103,11 @@
   ],
   "genres": [
     {
+      "name": "Jazz",
+      "slug": "jazz",
+      "show_count": 3
+    },
+    {
       "name": "Classical",
       "slug": "classical",
       "show_count": 3
@@ -115,11 +120,6 @@
     {
       "name": "Afrobeat",
       "slug": "afrobeat",
-      "show_count": 2
-    },
-    {
-      "name": "Jazz",
-      "slug": "jazz",
       "show_count": 2
     },
     {

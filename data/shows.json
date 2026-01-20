@@ -1,6 +1,28 @@
 {
   "shows": [
     {
+      "id": "electric_strings__a_tribute_to_20260120_235009",
+      "title": "Electric Strings: A Tribute to Michal Urbaniak",
+      "cover": "shows/electric_strings__a_tribute_to_20260120_235009/cover.jpg",
+      "cover_rect": "shows/electric_strings__a_tribute_to_20260120_235009/cover_rect.jpg",
+      "mixcloud_url": "https://www.mixcloud.com/wobuzz/electric-strings-a-tribute-to-michal-urbaniak/",
+      "tags": [
+        "jazz",
+        "violin",
+        "tribute",
+        "electric violin",
+        "polish jazz",
+        "experimental",
+        "avant-garde",
+        "memorial",
+        "fusion"
+      ],
+      "series": "jazz-frontiers",
+      "description": "An extended memorial tribute to the Polish electric violin pioneer Michal Urbaniak (1943-2025), exploring his legacy alongside Jean-Luc Ponty, Jerry Goodman, and the fusion violinists who transformed the instrument.",
+      "background_color": "#2C1810",
+      "published_at": "2026-01-20T22:50:09.866392Z"
+    },
+    {
       "id": "slavic_passions_20260120_235007",
       "title": "Slavic Passions",
       "cover": "shows/slavic_passions_20260120_235007/cover.jpg",
@@ -549,5 +571,5 @@
       "duration": 1470
     }
   ],
-  "updated_at": "2026-01-20T22:50:07.791159Z"
+  "updated_at": "2026-01-20T22:50:09.866450Z"
 }
