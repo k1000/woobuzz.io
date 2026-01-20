@@ -1,11 +1,6 @@
 {
   "series": [
     {
-      "name": "African Legends",
-      "slug": "african-legends",
-      "show_count": 1
-    },
-    {
       "name": "Classical Masters",
       "slug": "classical-masters",
       "show_count": 2
@@ -71,6 +66,11 @@
       "show_count": 1
     },
     {
+      "name": "african-legends",
+      "slug": "african-legends",
+      "show_count": 8
+    },
+    {
       "name": "avant-abyss",
       "slug": "avant-abyss",
       "show_count": 1
@@ -102,6 +102,11 @@
     }
   ],
   "genres": [
+    {
+      "name": "Afrobeat",
+      "slug": "afrobeat",
+      "show_count": 8
+    },
     {
       "name": "Jazz",
       "slug": "jazz",
@@ -195,11 +200,6 @@
     {
       "name": "Flamenco",
       "slug": "flamenco",
-      "show_count": 1
-    },
-    {
-      "name": "Afrobeat",
-      "slug": "afrobeat",
       "show_count": 1
     },
     {
