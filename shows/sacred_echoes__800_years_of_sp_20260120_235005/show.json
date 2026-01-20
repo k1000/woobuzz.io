@@ -1,0 +1,49 @@
+{
+  "id": "sacred_echoes__800_years_of_sp_20260120_235005",
+  "title": "Sacred Echoes: 800 Years of Spiritual Music",
+  "description": "A journey from medieval monks to Bach—800 years of sacred music spanning mystics, rebels, and mathematical geniuses.",
+  "tags": [
+    "choral",
+    "carmina burana",
+    "sacred",
+    "classical",
+    "baroque",
+    "symphony",
+    "medieval",
+    "orchestral"
+  ],
+  "mixcloud_url": "https://www.mixcloud.com/wobuzz/sacred-echoes-800-years-of-spiritual-music/",
+  "published_at": "2026-01-20T22:50:05.469535Z",
+  "tracklist": [
+    {
+      "artist": "J.S. Bach",
+      "title": "Die Seel ruht in Jesu Händen",
+      "album": "Cantata BWV 127",
+      "year": null
+    },
+    {
+      "artist": "Carl Orff",
+      "title": "O Fortuna",
+      "album": "Carmina Burana",
+      "year": null
+    },
+    {
+      "artist": "Carl Orff",
+      "title": "In Taberna Quando Sumus",
+      "album": "Carmina Burana",
+      "year": null
+    },
+    {
+      "artist": "J.S. Bach",
+      "title": "Toccata in D minor, BWV 565",
+      "album": "Organ Works",
+      "year": null
+    },
+    {
+      "artist": "J.S. Bach",
+      "title": "Fugue in D minor, BWV 565",
+      "album": "Organ Works",
+      "year": null
+    }
+  ]
+}
