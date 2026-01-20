@@ -31,6 +31,11 @@
       "show_count": 1
     },
     {
+      "name": "Jazz Frontiers",
+      "slug": "jazz-frontiers",
+      "show_count": 2
+    },
+    {
       "name": "Jazz Heritage",
       "slug": "jazz-heritage",
       "show_count": 1
@@ -68,7 +73,7 @@
     {
       "name": "african-legends",
       "slug": "african-legends",
-      "show_count": 8
+      "show_count": 2
     },
     {
       "name": "avant-abyss",
@@ -76,28 +81,8 @@
       "show_count": 1
     },
     {
-      "name": "desert-sessions",
-      "slug": "desert-sessions",
-      "show_count": 1
-    },
-    {
       "name": "fusion-frontiers",
       "slug": "fusion-frontiers",
-      "show_count": 2
-    },
-    {
-      "name": "jazz-frontiers",
-      "slug": "jazz-frontiers",
-      "show_count": 3
-    },
-    {
-      "name": "symphony-evenings",
-      "slug": "symphony-evenings",
-      "show_count": 2
-    },
-    {
-      "name": "weekend-vibes",
-      "slug": "weekend-vibes",
       "show_count": 2
     }
   ],
@@ -105,42 +90,12 @@
     {
       "name": "Afrobeat",
       "slug": "afrobeat",
-      "show_count": 8
-    },
-    {
-      "name": "Jazz",
-      "slug": "jazz",
-      "show_count": 2
-    },
-    {
-      "name": "Classical",
-      "slug": "classical",
       "show_count": 2
     },
     {
       "name": "Indie",
       "slug": "indie",
       "show_count": 2
-    },
-    {
-      "name": "Arthur Lyman",
-      "slug": "arthur-lyman",
-      "show_count": 1
-    },
-    {
-      "name": "Weekend",
-      "slug": "weekend",
-      "show_count": 1
-    },
-    {
-      "name": "Generator Parties",
-      "slug": "generator-parties",
-      "show_count": 1
-    },
-    {
-      "name": "Choral",
-      "slug": "choral",
-      "show_count": 1
     },
     {
       "name": "Jazz-Funk",
@@ -205,6 +160,16 @@
     {
       "name": "Latin",
       "slug": "latin",
+      "show_count": 1
+    },
+    {
+      "name": "Jazz",
+      "slug": "jazz",
+      "show_count": 1
+    },
+    {
+      "name": "Classical",
+      "slug": "classical",
       "show_count": 1
     }
   ]
