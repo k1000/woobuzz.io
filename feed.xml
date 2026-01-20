@@ -9,10 +9,93 @@
     <description>Curated radio shows with themed music and AI-generated presentations</description>
     <language>en-us</language>
     <atom:link href="https://wobuzz.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 20 Jan 2026 22:50:05 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Jan 2026 22:50:07 GMT</lastBuildDate>
     <generator>RDIO Radio Show Generator</generator>
 
     
+    
+    <item>
+      <title>Slavic Passions</title>
+      <link>https://wobuzz.io/shows/slavic_passions_20260120_235007/</link>
+      <guid isPermaLink="true">https://wobuzz.io/shows/slavic_passions_20260120_235007/</guid>
+      <pubDate>Tue, 20 Jan 2026 22:50:07 GMT</pubDate>
+
+      <description><![CDATA[
+        
+        <p>A journey through the emotional intensity of Eastern European masters - from the rivers of Bohemia to wartime Moscow</p>
+        
+
+        
+        <p><strong>Series:</strong> symphony-evenings</p>
+        
+
+        
+        <p><strong>Tags:</strong> classical, russian, symphony, czech, orchestral, romantic</p>
+        
+
+        
+        <h3>Tracklist:</h3>
+        <ol>
+        
+          <li>
+            <strong>Bedrich Smetana</strong> - Vltava (The Moldau)
+             (Ma Vlast)
+          </li>
+        
+          <li>
+            <strong>Antonin Dvorak</strong> - Symphony No. 9 &#39;New World&#39; - II. Largo
+             (Symphony No. 9)
+          </li>
+        
+          <li>
+            <strong>Pyotr Ilyich Tchaikovsky</strong> - Symphony No. 5 - II. Andante cantabile
+             (Symphony No. 5)
+          </li>
+        
+          <li>
+            <strong>Nikolai Rimsky-Korsakov</strong> - Scheherazade - I. The Sea and Sinbad&#39;s Ship
+             (Scheherazade)
+          </li>
+        
+          <li>
+            <strong>Sergei Prokofiev</strong> - Symphony No. 5 - III. Adagio
+             (Symphony No. 5)
+          </li>
+        
+        </ol>
+        
+      ]]></description>
+
+      
+      <enclosure url="https://www.mixcloud.com/wobuzz/slavic-passions/" type="audio/mpeg" length="0"/>
+      
+
+      
+      <itunes:image href="https://wobuzz.io/shows/slavic_passions_20260120_235007/cover.jpg"/>
+      
+
+      
+      
+      <category>classical</category>
+      
+      <category>russian</category>
+      
+      <category>symphony</category>
+      
+      <category>czech</category>
+      
+      <category>orchestral</category>
+      
+      <category>romantic</category>
+      
+      
+
+      <itunes:author>RDIO</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      
+      <itunes:duration>900</itunes:duration>
+      
+    </item>
     
     <item>
       <title>Sacred Echoes: 800 Years of Spiritual Music</title>

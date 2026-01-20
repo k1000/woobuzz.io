@@ -1,6 +1,25 @@
 {
   "shows": [
     {
+      "id": "slavic_passions_20260120_235007",
+      "title": "Slavic Passions",
+      "cover": "shows/slavic_passions_20260120_235007/cover.jpg",
+      "cover_rect": "shows/slavic_passions_20260120_235007/cover_rect.jpg",
+      "mixcloud_url": "https://www.mixcloud.com/wobuzz/slavic-passions/",
+      "tags": [
+        "classical",
+        "russian",
+        "symphony",
+        "czech",
+        "orchestral",
+        "romantic"
+      ],
+      "series": "symphony-evenings",
+      "description": "A journey through the emotional intensity of Eastern European masters - from the rivers of Bohemia to wartime Moscow",
+      "background_color": "#0A0F1A",
+      "published_at": "2026-01-20T22:50:07.791153Z"
+    },
+    {
       "id": "sacred_echoes__800_years_of_sp_20260120_235005",
       "title": "Sacred Echoes: 800 Years of Spiritual Music",
       "cover": "shows/sacred_echoes__800_years_of_sp_20260120_235005/cover.jpg",
@@ -530,5 +549,5 @@
       "duration": 1470
     }
   ],
-  "updated_at": "2026-01-20T22:50:05.470391Z"
+  "updated_at": "2026-01-20T22:50:07.791159Z"
 }

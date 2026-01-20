@@ -112,6 +112,11 @@
   </url>
 
   <url>
+    <loc>https://wobuzz.io/genre/classical/</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
     <loc>https://wobuzz.io/genre/choral/</loc>
     <priority>0.8</priority>
   </url>
@@ -123,11 +128,6 @@
 
   <url>
     <loc>https://wobuzz.io/genre/jazz/</loc>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://wobuzz.io/genre/classical/</loc>
     <priority>0.8</priority>
   </url>
 
@@ -214,6 +214,11 @@
   <url>
     <loc>https://wobuzz.io/genre/latin/</loc>
     <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://wobuzz.io/shows/slavic_passions_20260120_235007/</loc>
+    <priority>0.7</priority>
   </url>
 
   <url>
