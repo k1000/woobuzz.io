@@ -78,7 +78,7 @@
     {
       "name": "desert-sessions",
       "slug": "desert-sessions",
-      "show_count": 1
+      "show_count": 2
     },
     {
       "name": "fusion-frontiers",
@@ -113,6 +113,11 @@
       "show_count": 3
     },
     {
+      "name": "Generator Parties",
+      "slug": "generator-parties",
+      "show_count": 2
+    },
+    {
       "name": "Choral",
       "slug": "choral",
       "show_count": 2
@@ -135,11 +140,6 @@
     {
       "name": "Weekend",
       "slug": "weekend",
-      "show_count": 1
-    },
-    {
-      "name": "Generator Parties",
-      "slug": "generator-parties",
       "show_count": 1
     },
     {
