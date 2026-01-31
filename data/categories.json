@@ -36,11 +36,6 @@
       "show_count": 1
     },
     {
-      "name": "Latin Jazz Corner",
-      "slug": "latin-jazz-corner",
-      "show_count": 1
-    },
-    {
       "name": "Rock Ritual",
       "slug": "rock-ritual",
       "show_count": 1
@@ -91,6 +86,11 @@
       "show_count": 3
     },
     {
+      "name": "latin-jazz-corner",
+      "slug": "latin-jazz-corner",
+      "show_count": 2
+    },
+    {
       "name": "symphony-evenings",
       "slug": "symphony-evenings",
       "show_count": 2
@@ -121,6 +121,11 @@
       "name": "Indie",
       "slug": "indie",
       "show_count": 2
+    },
+    {
+      "name": "Boogaloo",
+      "slug": "boogaloo",
+      "show_count": 1
     },
     {
       "name": "Arthur Lyman",

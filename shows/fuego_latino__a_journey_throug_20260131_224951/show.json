@@ -1,0 +1,78 @@
+{
+  "id": "fuego_latino__a_journey_throug_20260131_224951",
+  "title": "Fuego Latino: A Journey Through Latin Soul, Jazz & Rhythm",
+  "description": "From the Afro-Cuban jazz pioneers of 1940s Harlem to the Buena Vista Social Club's Havana revival, this show traces the pulse of Latin music through three explosive decades. Featuring Machito, Cal Tjader, Eddie Palmieri, Willie Bobo, Pucho, Bobby Paunetto, Joe Bataan, Jorge Ben, Tito Puente, and the Buena Vista Social Club.",
+  "tags": [
+    "boogaloo",
+    "mambo",
+    "brazilian",
+    "afro-cuban",
+    "latin soul",
+    "salsa",
+    "latin jazz"
+  ],
+  "mixcloud_url": "https://www.mixcloud.com/wobuzz/fuego-latino-a-journey-through-latin-soul-jazz-rhythm/",
+  "published_at": "2026-01-31T21:49:51.210207Z",
+  "tracklist": [
+    {
+      "artist": "Machito & His Afro-Cubans",
+      "title": "Tremendo Cumban",
+      "album": "Tremendo Cumban",
+      "year": 1954
+    },
+    {
+      "artist": "Cal Tjader",
+      "title": "Soul Sauce (Guachi Guaro)",
+      "album": "Soul Sauce",
+      "year": 1964
+    },
+    {
+      "artist": "Eddie Palmieri and His Conjunto",
+      "title": "Conmigo",
+      "album": "La Perfecta",
+      "year": 1962
+    },
+    {
+      "artist": "Willie Bobo",
+      "title": "Spanish Grease",
+      "album": "Spanish Grease",
+      "year": 1965
+    },
+    {
+      "artist": "Pucho & The Latin Soul Brothers",
+      "title": "Psychedelic Pucho",
+      "album": "Heat!",
+      "year": 1968
+    },
+    {
+      "artist": "Bobby Paunetto",
+      "title": "Paunetto's Point",
+      "album": "Paunetto's Point",
+      "year": 1974
+    },
+    {
+      "artist": "Joe Bataan",
+      "title": "Latin Strut",
+      "album": "Salsoul",
+      "year": 1973
+    },
+    {
+      "artist": "Jorge Ben",
+      "title": "Ponta de Lanca Africano (Umbabarauma)",
+      "album": "Africa Brasil",
+      "year": 1976
+    },
+    {
+      "artist": "Tito Puente",
+      "title": "Oye Como Va",
+      "album": "Golden Latin Jazz All Stars - Pori 1994",
+      "year": 1994
+    },
+    {
+      "artist": "Buena Vista Social Club",
+      "title": "Chan Chan",
+      "album": "Buena Vista Social Club",
+      "year": 1997
+    }
+  ]
+}

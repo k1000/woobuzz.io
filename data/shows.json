@@ -1,6 +1,26 @@
 {
   "shows": [
     {
+      "id": "fuego_latino__a_journey_throug_20260131_224951",
+      "title": "Fuego Latino: A Journey Through Latin Soul, Jazz & Rhythm",
+      "cover": "shows/fuego_latino__a_journey_throug_20260131_224951/cover.png",
+      "cover_rect": "shows/fuego_latino__a_journey_throug_20260131_224951/cover_rect.png",
+      "mixcloud_url": "https://www.mixcloud.com/wobuzz/fuego-latino-a-journey-through-latin-soul-jazz-rhythm/",
+      "tags": [
+        "boogaloo",
+        "mambo",
+        "brazilian",
+        "afro-cuban",
+        "latin soul",
+        "salsa",
+        "latin jazz"
+      ],
+      "series": "latin-jazz-corner",
+      "description": "From the Afro-Cuban jazz pioneers of 1940s Harlem to the Buena Vista Social Club's Havana revival, this show traces the pulse of Latin music through three explosive decades. Featuring Machito, Cal Tjader, Eddie Palmieri, Willie Bobo, Pucho, Bobby Paunetto, Joe Bataan, Jorge Ben, Tito Puente, and the Buena Vista Social Club.",
+      "background_color": "#1A1A1A",
+      "published_at": "2026-01-31T21:49:51.211095Z"
+    },
+    {
       "id": "quiet_village__the_exotica_dre_20260120_235016",
       "title": "Quiet Village: The Exotica Dream",
       "cover": "shows/quiet_village__the_exotica_dre_20260120_235016/cover.jpg",
@@ -511,5 +531,5 @@
       "duration": 1470
     }
   ],
-  "updated_at": "2026-01-20T22:50:16.922395Z"
+  "updated_at": "2026-01-31T21:49:51.211101Z"
 }
