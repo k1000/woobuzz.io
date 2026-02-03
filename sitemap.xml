@@ -222,6 +222,11 @@
   </url>
 
   <url>
+    <loc>https://wobuzz.io/shows/test_show_20260203_174859/</loc>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
     <loc>https://wobuzz.io/shows/fuego_latino__a_journey_throug_20260131_224951/</loc>
     <priority>0.7</priority>
   </url>
