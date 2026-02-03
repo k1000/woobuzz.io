@@ -97,6 +97,11 @@
   </url>
 
   <url>
+    <loc>https://wobuzz.io/series/jazz-hip-hop/</loc>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
     <loc>https://wobuzz.io/series/latin-jazz-corner/</loc>
     <priority>0.9</priority>
   </url>
@@ -128,6 +133,11 @@
 
   <url>
     <loc>https://wobuzz.io/genre/indie/</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://wobuzz.io/genre/madlib/</loc>
     <priority>0.8</priority>
   </url>
 
@@ -219,6 +229,11 @@
   <url>
     <loc>https://wobuzz.io/genre/latin/</loc>
     <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://wobuzz.io/shows/jazzmatazz___beyond_vol__1_20260203_210103/</loc>
+    <priority>0.7</priority>
   </url>
 
   <url>

@@ -9,10 +9,177 @@
     <description>Curated radio shows with themed music and AI-generated presentations</description>
     <language>en-us</language>
     <atom:link href="https://wobuzz.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 03 Feb 2026 16:52:51 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Feb 2026 20:01:04 GMT</lastBuildDate>
     <generator>RDIO Radio Show Generator</generator>
 
     
+    
+    <item>
+      <title>Jazzmatazz &amp; Beyond Vol. 1</title>
+      <link>https://wobuzz.io/shows/jazzmatazz___beyond_vol__1_20260203_210103/</link>
+      <guid isPermaLink="true">https://wobuzz.io/shows/jazzmatazz___beyond_vol__1_20260203_210103/</guid>
+      <pubDate>Tue, 03 Feb 2026 20:01:04 GMT</pubDate>
+
+      <description><![CDATA[
+        
+        <p>A journey through the jazz-hip hop lineage, from Guru&#39;s revolutionary 1993 sessions with jazz royalty, through Madlib&#39;s Blue Note explorations and Nujabes&#39; Tokyo meditations, to the Brainfeeder generation and London&#39;s new wave. The story of a family reunion that never ended.</p>
+        
+
+        
+        <p><strong>Series:</strong> jazz-hip-hop</p>
+        
+
+        
+        <p><strong>Tags:</strong> madlib, nujabes, flying lotus, jazzmatazz, beats, guru, jazz rap, de la soul, jazz, fusion, hip-hop, jazz fusion, thundercat</p>
+        
+
+        
+        <h3>Tracklist:</h3>
+        <ol>
+        
+          <li>
+            <strong>Guru feat. Donald Byrd</strong> - Loungin&#39;
+             (Jazzmatazz Volume 1, 1993)
+          </li>
+        
+          <li>
+            <strong>Guru feat. Branford Marsalis</strong> - Transit Ride
+             (Jazzmatazz Volume 1, 1993)
+          </li>
+        
+          <li>
+            <strong>De La Soul</strong> - Breakadawn
+             (Buhloone Mindstate, 1993)
+          </li>
+        
+          <li>
+            <strong>De La Soul</strong> - I Am I Be
+             (Buhloone Mindstate, 1993)
+          </li>
+        
+          <li>
+            <strong>Guru feat. Roy Ayers</strong> - Take a Look (At Yourself)
+             (Jazzmatazz Volume 1, 1993)
+          </li>
+        
+          <li>
+            <strong>Madlib</strong> - Slim&#39;s Return
+             (Shades of Blue: Madlib Invades Blue Note, 2003)
+          </li>
+        
+          <li>
+            <strong>Madlib</strong> - Mystic Bounce
+             (Shades of Blue: Madlib Invades Blue Note, 2003)
+          </li>
+        
+          <li>
+            <strong>Nujabes feat. Cise Starr &amp; Akin</strong> - Feather
+             (Modal Soul, 2005)
+          </li>
+        
+          <li>
+            <strong>Nujabes</strong> - Reflection Eternal
+             (Modal Soul, 2005)
+          </li>
+        
+          <li>
+            <strong>Flying Lotus feat. Kendrick Lamar</strong> - Never Catch Me
+             (You&#39;re Dead!, 2014)
+          </li>
+        
+          <li>
+            <strong>Thundercat</strong> - Oh Sheit It&#39;s X
+             (Apocalypse, 2013)
+          </li>
+        
+          <li>
+            <strong>Thundercat</strong> - Them Changes
+             (The Beyond / Where the Giants Roam, 2015)
+          </li>
+        
+          <li>
+            <strong>Flying Lotus</strong> - Coronus, The Terminator
+             (You&#39;re Dead!, 2014)
+          </li>
+        
+          <li>
+            <strong>Tom Misch &amp; Yussef Dayes</strong> - What Kinda Music
+             (What Kinda Music, 2020)
+          </li>
+        
+          <li>
+            <strong>Tom Misch &amp; Yussef Dayes feat. Freddie Gibbs</strong> - Nightrider
+             (What Kinda Music, 2020)
+          </li>
+        
+          <li>
+            <strong>Thundercat</strong> - Dragonball Durag
+             (It Is What It Is, 2020)
+          </li>
+        
+          <li>
+            <strong>De La Soul</strong> - Ring Ring Ring (Ha Ha Hey)
+             (De La Soul Is Dead, 1991)
+          </li>
+        
+          <li>
+            <strong>Madlib</strong> - Stepping Into Tomorrow
+             (Shades of Blue: Madlib Invades Blue Note, 2003)
+          </li>
+        
+          <li>
+            <strong>Nujabes</strong> - Horizon
+             (Modal Soul, 2005)
+          </li>
+        
+        </ol>
+        
+      ]]></description>
+
+      
+      <enclosure url="https://www.mixcloud.com/wobuzz/jazzmatazz-beyond-vol-1/" type="audio/mpeg" length="0"/>
+      
+
+      
+      <itunes:image href="https://wobuzz.io/shows/jazzmatazz___beyond_vol__1_20260203_210103/cover.jpg"/>
+      
+
+      
+      
+      <category>madlib</category>
+      
+      <category>nujabes</category>
+      
+      <category>flying lotus</category>
+      
+      <category>jazzmatazz</category>
+      
+      <category>beats</category>
+      
+      <category>guru</category>
+      
+      <category>jazz rap</category>
+      
+      <category>de la soul</category>
+      
+      <category>jazz</category>
+      
+      <category>fusion</category>
+      
+      <category>hip-hop</category>
+      
+      <category>jazz fusion</category>
+      
+      <category>thundercat</category>
+      
+      
+
+      <itunes:author>RDIO</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      
+      <itunes:duration>3420</itunes:duration>
+      
+    </item>
     
     <item>
       <title>Test Show</title>

@@ -86,6 +86,11 @@
       "show_count": 3
     },
     {
+      "name": "jazz-hip-hop",
+      "slug": "jazz-hip-hop",
+      "show_count": 1
+    },
+    {
       "name": "latin-jazz-corner",
       "slug": "latin-jazz-corner",
       "show_count": 2
@@ -121,6 +126,11 @@
       "name": "Indie",
       "slug": "indie",
       "show_count": 2
+    },
+    {
+      "name": "Madlib",
+      "slug": "madlib",
+      "show_count": 1
     },
     {
       "name": "Boogaloo",

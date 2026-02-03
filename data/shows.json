@@ -1,6 +1,32 @@
 {
   "shows": [
     {
+      "id": "jazzmatazz___beyond_vol__1_20260203_210103",
+      "title": "Jazzmatazz & Beyond Vol. 1",
+      "cover": "shows/jazzmatazz___beyond_vol__1_20260203_210103/cover.jpg",
+      "cover_rect": "shows/jazzmatazz___beyond_vol__1_20260203_210103/cover_rect.jpg",
+      "mixcloud_url": "https://www.mixcloud.com/wobuzz/jazzmatazz-beyond-vol-1/",
+      "tags": [
+        "madlib",
+        "nujabes",
+        "flying lotus",
+        "jazzmatazz",
+        "beats",
+        "guru",
+        "jazz rap",
+        "de la soul",
+        "jazz",
+        "fusion",
+        "hip-hop",
+        "jazz fusion",
+        "thundercat"
+      ],
+      "series": "jazz-hip-hop",
+      "description": "A journey through the jazz-hip hop lineage, from Guru's revolutionary 1993 sessions with jazz royalty, through Madlib's Blue Note explorations and Nujabes' Tokyo meditations, to the Brainfeeder generation and London's new wave. The story of a family reunion that never ended.",
+      "background_color": "#2C1810",
+      "published_at": "2026-02-03T20:01:04.035765Z"
+    },
+    {
       "id": "test_show_20260203_175251",
       "title": "Test Show",
       "cover": "shows/test_show_20260203_175251/cover.jpg",
@@ -651,5 +677,5 @@
       "duration": 1470
     }
   ],
-  "updated_at": "2026-02-03T16:52:51.764503Z"
+  "updated_at": "2026-02-03T20:01:04.035779Z"
 }
