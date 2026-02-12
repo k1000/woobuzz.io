@@ -78,7 +78,7 @@
     {
       "name": "fusion-frontiers",
       "slug": "fusion-frontiers",
-      "show_count": 2
+      "show_count": 3
     },
     {
       "name": "jazz-frontiers",
@@ -107,6 +107,11 @@
     }
   ],
   "genres": [
+    {
+      "name": "Jazz-Rock",
+      "slug": "jazz-rock",
+      "show_count": 2
+    },
     {
       "name": "Jazz",
       "slug": "jazz",
@@ -190,11 +195,6 @@
     {
       "name": "Chopin",
       "slug": "chopin",
-      "show_count": 1
-    },
-    {
-      "name": "Jazz-Rock",
-      "slug": "jazz-rock",
       "show_count": 1
     },
     {

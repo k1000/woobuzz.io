@@ -9,10 +9,112 @@
     <description>Curated radio shows with themed music and AI-generated presentations</description>
     <language>en-us</language>
     <atom:link href="https://wobuzz.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 03 Feb 2026 20:20:56 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Feb 2026 18:48:55 GMT</lastBuildDate>
     <generator>RDIO Radio Show Generator</generator>
 
     
+    
+    <item>
+      <title>The Architecture of the Loft</title>
+      <link>https://wobuzz.io/shows/the_architecture_of_the_loft_20260212_194855/</link>
+      <guid isPermaLink="true">https://wobuzz.io/shows/the_architecture_of_the_loft_20260212_194855/</guid>
+      <pubDate>Thu, 12 Feb 2026 18:48:55 GMT</pubDate>
+
+      <description><![CDATA[
+        
+        <p>A deep dive into the interconnected Chicago underground of the 1990s and beyond, where the lines between jazz, minimalism, and electronic textures dissolved in the heat of warehouse collaboration.</p>
+        
+
+        
+        <p><strong>Series:</strong> fusion-frontiers</p>
+        
+
+        
+        <p><strong>Tags:</strong> jazz-rock, fusion, chicago, improv, thrill-jockey, experimental, minimalism, jazz</p>
+        
+
+        
+        <h3>Tracklist:</h3>
+        <ol>
+        
+          <li>
+            <strong>Tortoise</strong> - TNT
+             (TNT, 1998)
+          </li>
+        
+          <li>
+            <strong>Isotope 217</strong> - Beneath The Undertow
+             (The Unstable Molecule, 1997)
+          </li>
+        
+          <li>
+            <strong>Tortoise</strong> - Glass Museum
+             (Millions Now Living Will Never Die, 1996)
+          </li>
+        
+          <li>
+            <strong>Rob Mazurek Quintet</strong> - As If An Angel Fell From The Sky
+             (Sound Is, 2009)
+          </li>
+        
+          <li>
+            <strong>Jeff Parker</strong> - La Jetée
+             (Forfolks, 2021)
+          </li>
+        
+          <li>
+            <strong>Tortoise</strong> - Swung From the Gutters
+             (TNT, 1998)
+          </li>
+        
+          <li>
+            <strong>Makaya McCraven feat. Jeff Parker</strong> - Turtle Tricks
+             (Universal Beings, 2018)
+          </li>
+        
+          <li>
+            <strong>Tortoise</strong> - Along The Bank Of Rivers
+             (Millions Now Living Will Never Die, 1996)
+          </li>
+        
+        </ol>
+        
+      ]]></description>
+
+      
+      <enclosure url="https://www.mixcloud.com/wobuzz/the-architecture-of-the-loft/" type="audio/mpeg" length="0"/>
+      
+
+      
+      <itunes:image href="https://wobuzz.io/shows/the_architecture_of_the_loft_20260212_194855/cover.png"/>
+      
+
+      
+      
+      <category>jazz-rock</category>
+      
+      <category>fusion</category>
+      
+      <category>chicago</category>
+      
+      <category>improv</category>
+      
+      <category>thrill-jockey</category>
+      
+      <category>experimental</category>
+      
+      <category>minimalism</category>
+      
+      <category>jazz</category>
+      
+      
+
+      <itunes:author>RDIO</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      
+      <itunes:duration>1440</itunes:duration>
+      
+    </item>
     
     <item>
       <title>Jazzmatazz &amp; Beyond Vol. 1</title>

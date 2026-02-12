@@ -1,6 +1,27 @@
 {
   "shows": [
     {
+      "id": "the_architecture_of_the_loft_20260212_194855",
+      "title": "The Architecture of the Loft",
+      "cover": "shows/the_architecture_of_the_loft_20260212_194855/cover.png",
+      "cover_rect": "shows/the_architecture_of_the_loft_20260212_194855/cover_rect.jpg",
+      "mixcloud_url": "https://www.mixcloud.com/wobuzz/the-architecture-of-the-loft/",
+      "tags": [
+        "jazz-rock",
+        "fusion",
+        "chicago",
+        "improv",
+        "thrill-jockey",
+        "experimental",
+        "minimalism",
+        "jazz"
+      ],
+      "series": "fusion-frontiers",
+      "description": "A deep dive into the interconnected Chicago underground of the 1990s and beyond, where the lines between jazz, minimalism, and electronic textures dissolved in the heat of warehouse collaboration.",
+      "background_color": "#2C1810",
+      "published_at": "2026-02-12T18:48:55.862633Z"
+    },
+    {
       "id": "jazzmatazz___beyond_vol__1_20260203_210103",
       "title": "Jazzmatazz & Beyond Vol. 1",
       "cover": "shows/jazzmatazz___beyond_vol__1_20260203_210103/cover.jpg",
@@ -66,7 +87,7 @@
         "tiki"
       ],
       "series": "weekend-vibes",
-      "description": "Three sonic architects craft imaginary islands from Hollywood studios\u2014Les Baxter's orchestral jungles, Martin Denny's bullfrog serenades, Arthur Lyman's vibraphone twilights. Post-war suburban escapism crystallized in stereo.",
+      "description": "Three sonic architects craft imaginary islands from Hollywood studios—Les Baxter's orchestral jungles, Martin Denny's bullfrog serenades, Arthur Lyman's vibraphone twilights. Post-war suburban escapism crystallized in stereo.",
       "background_color": "#1A1A1A",
       "published_at": "2026-01-20T22:50:16.922379Z"
     },
@@ -87,7 +108,7 @@
         "downtempo"
       ],
       "series": "weekend-vibes",
-      "description": "Hazy trip-hop from Bristol's golden era\u2014Massive Attack's dub echoes, Portishead's noir soul, and the downtempo waves that defined the 90s.",
+      "description": "Hazy trip-hop from Bristol's golden era—Massive Attack's dub echoes, Portishead's noir soul, and the downtempo waves that defined the 90s.",
       "background_color": "#1A1A1A",
       "published_at": "2026-01-20T22:50:14.793703Z"
     },
@@ -105,7 +126,7 @@
         "stoner rock"
       ],
       "series": "desert-sessions",
-      "description": "A journey through the sun-baked, fuzz-drenched world of desert rock \u2014 from the illegal generator parties of Palm Desert to the modern psychedelic revival. This episode explores the origins of the genre, the breakthrough of Songs for the Deaf, and Josh Homme's resurrection after his near-death experience.",
+      "description": "A journey through the sun-baked, fuzz-drenched world of desert rock — from the illegal generator parties of Palm Desert to the modern psychedelic revival. This episode explores the origins of the genre, the breakthrough of Songs for the Deaf, and Josh Homme's resurrection after his near-death experience.",
       "background_color": "#1A1A1A",
       "published_at": "2026-01-20T22:50:12.379664Z"
     },
@@ -167,7 +188,7 @@
         "orchestral"
       ],
       "series": "symphony-evenings",
-      "description": "A journey from medieval monks to Bach\u2014800 years of sacred music spanning mystics, rebels, and mathematical geniuses.",
+      "description": "A journey from medieval monks to Bach—800 years of sacred music spanning mystics, rebels, and mathematical geniuses.",
       "background_color": "#0A0F1A",
       "published_at": "2026-01-20T22:50:05.470385Z"
     },
@@ -186,7 +207,7 @@
         "world music"
       ],
       "series": "african-legends",
-      "description": "1970s Ethio-jazz, Ugandan psych-rock, and Ethiopian azmari swing\u2014featuring Mulatu Astatq\u00e9, Akira Ishikawa, and Mahmoud Ahmed.",
+      "description": "1970s Ethio-jazz, Ugandan psych-rock, and Ethiopian azmari swing—featuring Mulatu Astatqé, Akira Ishikawa, and Mahmoud Ahmed.",
       "background_color": "#1A1A1A",
       "published_at": "2026-01-20T22:45:47.000511Z"
     },
@@ -228,9 +249,9 @@
       "published_at": "2026-01-11T19:58:41.799252Z"
     },
     {
-      "id": "brigitte_psych\u00e9d\u00e9lique_20260110_193711",
-      "title": "Brigitte Psych\u00e9d\u00e9lique",
-      "cover": "shows/brigitte_psych\u00e9d\u00e9lique_20260110_193711/cover.jpg",
+      "id": "brigitte_psychédélique_20260110_193711",
+      "title": "Brigitte Psychédélique",
+      "cover": "shows/brigitte_psychédélique_20260110_193711/cover.jpg",
       "mixcloud_url": "https://www.mixcloud.com/wobuzz/brigitte-psych%C3%A9d%C3%A9lique/",
       "tags": [
         "tribute",
@@ -240,11 +261,11 @@
         "brigitte bardot",
         "space rock",
         "serge gainsbourg",
-        "y\u00e9-y\u00e9",
+        "yé-yé",
         "1960s"
       ],
       "series": "acid-kraut-cosmos",
-      "description": "A cosmic tribute to Brigitte Bardot (1934-2025), celebrating her psychedelic pop legacy and the swinging sounds of 1960s French y\u00e9-y\u00e9.",
+      "description": "A cosmic tribute to Brigitte Bardot (1934-2025), celebrating her psychedelic pop legacy and the swinging sounds of 1960s French yé-yé.",
       "background_color": "#2D0A3D",
       "published_at": "2026-01-10T18:37:11.789651Z"
     },
@@ -344,7 +365,7 @@
         "nocturnes"
       ],
       "series": "Classical Masters",
-      "description": "An intimate exploration of Fr\u00e9d\u00e9ric Chopin's nocturnes, those moonlit masterpieces that transformed the piano into a vessel for pure emotion. Performed by Adam Harasiewicz, winner of the 1955 International Chopin Piano Competition.",
+      "description": "An intimate exploration of Frédéric Chopin's nocturnes, those moonlit masterpieces that transformed the piano into a vessel for pure emotion. Performed by Adam Harasiewicz, winner of the 1955 International Chopin Piano Competition.",
       "background_color": "#0A0F1A",
       "published_at": "2026-01-06T11:41:49.250695Z",
       "duration": 1260
@@ -557,5 +578,5 @@
       "duration": 1470
     }
   ],
-  "updated_at": "2026-02-03T20:01:04.035779Z"
+  "updated_at": "2026-02-12T18:48:55.862640Z"
 }
