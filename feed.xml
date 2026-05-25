@@ -9,10 +9,51 @@
     <description>Curated radio shows with themed music and AI-generated presentations</description>
     <language>en-us</language>
     <atom:link href="https://wobuzz.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 25 May 2026 20:17:37 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 20:18:29 GMT</lastBuildDate>
     <generator>RDIO Radio Show Generator</generator>
 
     
+    
+    <item>
+      <title>Test Show</title>
+      <link>https://wobuzz.io/shows/test_show_20260525_221829/</link>
+      <guid isPermaLink="true">https://wobuzz.io/shows/test_show_20260525_221829/</guid>
+      <pubDate>Mon, 25 May 2026 20:18:29 GMT</pubDate>
+
+      <description><![CDATA[
+        
+        <p>A test radio show</p>
+        
+
+        
+
+        
+        <p><strong>Tags:</strong> jazz, test</p>
+        
+
+        
+      ]]></description>
+
+      
+      <enclosure url="https://www.mixcloud.com/user/test/" type="audio/mpeg" length="0"/>
+      
+
+      
+      <itunes:image href="https://wobuzz.io/shows/test_show_20260525_221829/cover.jpg"/>
+      
+
+      
+      
+      <category>jazz</category>
+      
+      <category>test</category>
+      
+      
+
+      <itunes:author>RDIO</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      
+    </item>
     
     <item>
       <title>Test Show</title>
@@ -3831,93 +3872,6 @@
       <itunes:explicit>no</itunes:explicit>
       
       <itunes:duration>1440</itunes:duration>
-      
-    </item>
-    
-    <item>
-      <title>Indie in 2000 (Cartesia Edition)</title>
-      <link>https://wobuzz.io/shows/indie_in_2000__cartesia_editio_20260101_192400/</link>
-      <guid isPermaLink="true">https://wobuzz.io/shows/indie_in_2000__cartesia_editio_20260101_192400/</guid>
-      <pubDate>Thu, 01 Jan 2026 18:24:00 GMT</pubDate>
-
-      <description><![CDATA[
-        
-        <p>Exploring the indie rock explosion at the turn of the millennium with essential tracks from the year 2000.</p>
-        
-
-        
-        <p><strong>Series:</strong> Decade Sessions</p>
-        
-
-        
-        <p><strong>Tags:</strong> indie, alternative, 2000s</p>
-        
-
-        
-        <h3>Tracklist:</h3>
-        <ol>
-        
-          <li>
-            <strong>Radiohead</strong> - Everything in Its Right Place
-             (Kid A, 2000)
-          </li>
-        
-          <li>
-            <strong>Coldplay</strong> - Yellow
-             (Parachutes, 2000)
-          </li>
-        
-          <li>
-            <strong>Sufjan Stevens</strong> - We Are What You Say
-             (A Sun Came!, 2000)
-          </li>
-        
-          <li>
-            <strong>Radiohead</strong> - How to Disappear Completely
-             (Kid A, 2000)
-          </li>
-        
-          <li>
-            <strong>A Perfect Circle</strong> - 3 Libras
-             (Mer de Noms, 2000)
-          </li>
-        
-          <li>
-            <strong>Coldplay</strong> - Shiver
-             (Parachutes, 2000)
-          </li>
-        
-          <li>
-            <strong>Radiohead</strong> - The National Anthem
-             (Kid A, 2000)
-          </li>
-        
-        </ol>
-        
-      ]]></description>
-
-      
-      <enclosure url="https://www.mixcloud.com/kmil/indie-in-2000-cartesia-edition/" type="audio/mpeg" length="0"/>
-      
-
-      
-      <itunes:image href="https://wobuzz.io/shows/indie_in_2000__cartesia_editio_20260101_192400/cover.jpg"/>
-      
-
-      
-      
-      <category>indie</category>
-      
-      <category>alternative</category>
-      
-      <category>2000s</category>
-      
-      
-
-      <itunes:author>RDIO</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-      
-      <itunes:duration>1260</itunes:duration>
       
     </item>
     
