@@ -9,10 +9,51 @@
     <description>Curated radio shows with themed music and AI-generated presentations</description>
     <language>en-us</language>
     <atom:link href="https://wobuzz.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 25 May 2026 20:20:03 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 20:20:05 GMT</lastBuildDate>
     <generator>RDIO Radio Show Generator</generator>
 
     
+    
+    <item>
+      <title>Test Show</title>
+      <link>https://wobuzz.io/shows/test_show_20260525_222005/</link>
+      <guid isPermaLink="true">https://wobuzz.io/shows/test_show_20260525_222005/</guid>
+      <pubDate>Mon, 25 May 2026 20:20:05 GMT</pubDate>
+
+      <description><![CDATA[
+        
+        <p>A test radio show</p>
+        
+
+        
+
+        
+        <p><strong>Tags:</strong> jazz, test</p>
+        
+
+        
+      ]]></description>
+
+      
+      <enclosure url="https://www.mixcloud.com/user/test-show/" type="audio/mpeg" length="0"/>
+      
+
+      
+      <itunes:image href="https://wobuzz.io/shows/test_show_20260525_222005/cover.jpg"/>
+      
+
+      
+      
+      <category>jazz</category>
+      
+      <category>test</category>
+      
+      
+
+      <itunes:author>RDIO</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      
+    </item>
     
     <item>
       <title>Test Show</title>
@@ -3396,127 +3437,6 @@
       <itunes:explicit>no</itunes:explicit>
       
       <itunes:duration>1080</itunes:duration>
-      
-    </item>
-    
-    <item>
-      <title>Duende - The Soul of Flamenco</title>
-      <link>https://wobuzz.io/shows/duende___the_soul_of_flamenco_20260102_004910/</link>
-      <guid isPermaLink="true">https://wobuzz.io/shows/duende___the_soul_of_flamenco_20260102_004910/</guid>
-      <pubDate>Thu, 01 Jan 2026 23:49:10 GMT</pubDate>
-
-      <description><![CDATA[
-        
-        <p>A passionate journey through flamenco music featuring legendary artists Paco de Lucia, Camaron de la Isla, Ketama, and Carlos Heredia. From traditional forms to nuevo flamenco, experience the duende - that inexplicable magic that transforms sound into pure emotion.</p>
-        
-
-        
-        <p><strong>Series:</strong> World Music Journeys</p>
-        
-
-        
-        <p><strong>Tags:</strong> flamenco, spanish, guitar, world music, nuevo flamenco</p>
-        
-
-        
-        <h3>Tracklist:</h3>
-        <ol>
-        
-          <li>
-            <strong>Paco de Lucia</strong> - Entre Dos Aguas
-             (Fuente Y Caudal, 1973)
-          </li>
-        
-          <li>
-            <strong>Camaron de la Isla</strong> - Volando voy
-             (La leyenda del tiempo, 1978)
-          </li>
-        
-          <li>
-            <strong>Paco de Lucia</strong> - Allegrias
-             (En Vivo Desde El Teatro Real, 1975)
-          </li>
-        
-          <li>
-            <strong>Camaron de la Isla &amp; Paco de Lucia</strong> - Como Castillo De Arena
-             (Castillo de arena, 1977)
-          </li>
-        
-          <li>
-            <strong>Carlos Heredia</strong> - No Quiero Verte - Tangos
-             (Gypsy Flamenco, 2004)
-          </li>
-        
-          <li>
-            <strong>Ketama, Toumani Diabate &amp; Danny Thompson</strong> - Jarabi
-             (Songhai, 1988)
-          </li>
-        
-          <li>
-            <strong>Ketama</strong> - Vengo de borrachera
-             (El Arte de lo invisible, 1993)
-          </li>
-        
-          <li>
-            <strong>Paco de Lucia</strong> - Solea
-             (En Vivo Desde El Teatro Real, 1975)
-          </li>
-        
-          <li>
-            <strong>Camaron de la Isla</strong> - Nana del caballo grande
-             (La leyenda del tiempo, 1978)
-          </li>
-        
-          <li>
-            <strong>Carlos Heredia</strong> - Las tres Mil - Bulerias
-             (Gypsy Flamenco, 2004)
-          </li>
-        
-          <li>
-            <strong>Ketama, Toumani Diabate &amp; Jose Soto</strong> - Ndia
-             (Songhai 2, 1994)
-          </li>
-        
-          <li>
-            <strong>Paco de Lucia</strong> - Zapateado
-             (En Vivo Desde El Teatro Real, 1975)
-          </li>
-        
-          <li>
-            <strong>Camaron de la Isla</strong> - Homenaje a Federico
-             (La leyenda del tiempo, 1978)
-          </li>
-        
-        </ol>
-        
-      ]]></description>
-
-      
-      <enclosure url="https://www.mixcloud.com/wobuzz/duende-the-soul-of-flamenco/" type="audio/mpeg" length="0"/>
-      
-
-      
-      <itunes:image href="https://wobuzz.io/shows/duende___the_soul_of_flamenco_20260102_004910/cover.jpg"/>
-      
-
-      
-      
-      <category>flamenco</category>
-      
-      <category>spanish</category>
-      
-      <category>guitar</category>
-      
-      <category>world music</category>
-      
-      <category>nuevo flamenco</category>
-      
-      
-
-      <itunes:author>RDIO</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-      
-      <itunes:duration>2340</itunes:duration>
       
     </item>
     
