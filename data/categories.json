@@ -108,13 +108,13 @@
   ],
   "genres": [
     {
-      "name": "Jazz-Rock",
-      "slug": "jazz-rock",
-      "show_count": 2
-    },
-    {
       "name": "Jazz",
       "slug": "jazz",
+      "show_count": 3
+    },
+    {
+      "name": "Jazz-Rock",
+      "slug": "jazz-rock",
       "show_count": 2
     },
     {

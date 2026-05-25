@@ -1,6 +1,21 @@
 {
   "shows": [
     {
+      "id": "test_show_20260525_215218",
+      "title": "Test Show",
+      "cover": "shows/test_show_20260525_215218/cover.jpg",
+      "cover_rect": null,
+      "mixcloud_url": "https://www.mixcloud.com/user/test/",
+      "tags": [
+        "jazz",
+        "test"
+      ],
+      "series": "",
+      "description": "A test radio show",
+      "background_color": "#2C1810",
+      "published_at": "2026-05-25T19:52:18.712363Z"
+    },
+    {
       "id": "the_architecture_of_the_loft_20260212_194855",
       "title": "The Architecture of the Loft",
       "cover": "shows/the_architecture_of_the_loft_20260212_194855/cover.jpg",
@@ -578,5 +593,5 @@
       "duration": 1470
     }
   ],
-  "updated_at": "2026-02-12T18:48:55.862640Z"
+  "updated_at": "2026-05-25T19:52:18.712377Z"
 }
