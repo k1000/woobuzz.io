@@ -9,10 +9,51 @@
     <description>Curated radio shows with themed music and AI-generated presentations</description>
     <language>en-us</language>
     <atom:link href="https://wobuzz.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 25 May 2026 20:19:37 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 20:19:39 GMT</lastBuildDate>
     <generator>RDIO Radio Show Generator</generator>
 
     
+    
+    <item>
+      <title>Test Show</title>
+      <link>https://wobuzz.io/shows/test_show_20260525_221939/</link>
+      <guid isPermaLink="true">https://wobuzz.io/shows/test_show_20260525_221939/</guid>
+      <pubDate>Mon, 25 May 2026 20:19:39 GMT</pubDate>
+
+      <description><![CDATA[
+        
+        <p>A test radio show</p>
+        
+
+        
+
+        
+        <p><strong>Tags:</strong> jazz, test</p>
+        
+
+        
+      ]]></description>
+
+      
+      <enclosure url="https://www.mixcloud.com/user/test-show/" type="audio/mpeg" length="0"/>
+      
+
+      
+      <itunes:image href="https://wobuzz.io/shows/test_show_20260525_221939/cover.jpg"/>
+      
+
+      
+      
+      <category>jazz</category>
+      
+      <category>test</category>
+      
+      
+
+      <itunes:author>RDIO</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      
+    </item>
     
     <item>
       <title>Test Show</title>
@@ -3545,121 +3586,6 @@
       <itunes:explicit>no</itunes:explicit>
       
       <itunes:duration>1800</itunes:duration>
-      
-    </item>
-    
-    <item>
-      <title>Brazilian Heat</title>
-      <link>https://wobuzz.io/shows/brazilian_heat_20260101_224021/</link>
-      <guid isPermaLink="true">https://wobuzz.io/shows/brazilian_heat_20260101_224021/</guid>
-      <pubDate>Thu, 01 Jan 2026 21:40:21 GMT</pubDate>
-
-      <description><![CDATA[
-        
-
-        
-        <p><strong>Series:</strong> World Music Sessions</p>
-        
-
-        
-
-        
-        <h3>Tracklist:</h3>
-        <ol>
-        
-          <li>
-            <strong>Jorge Ben</strong> - Mas, que nada!
-             (Samba Esquema Novo, 1963)
-          </li>
-        
-          <li>
-            <strong>Sergio Mendes &amp; Brasil &#39;66</strong> - Mais Que Nada
-             (Herb Alpert Presents Sergio Mendes &amp; Brasil &#39;66, 1966)
-          </li>
-        
-          <li>
-            <strong>Walter Wanderley</strong> - Wave
-             (Batucada, 1967)
-          </li>
-        
-          <li>
-            <strong>Marcos Valle</strong> - Os Grilos
-             (Brazilliance! - A Música De Marcos Valle, 1967)
-          </li>
-        
-          <li>
-            <strong>Marcos Valle</strong> - Viola enluarada
-             (Viola enluarada, 1968)
-          </li>
-        
-          <li>
-            <strong>Jorge Ben</strong> - Negro é Lindo
-             (Negro é Lindo, 1971)
-          </li>
-        
-          <li>
-            <strong>Milton Nascimento &amp; Lô Borges</strong> - Tudo que você podia ser
-             (Clube da Esquina, 1995)
-          </li>
-        
-          <li>
-            <strong>Milton Nascimento &amp; Lô Borges</strong> - San Vicente
-             (Clube da Esquina, 1995)
-          </li>
-        
-          <li>
-            <strong>Tim Maia</strong> - Azul Da Cor Do Mar
-             (Tim Maia, 1970)
-          </li>
-        
-          <li>
-            <strong>Hermeto Pascoal</strong> - Bebê
-             (A Música Livre De Hermeto Pascoal, 1973)
-          </li>
-        
-          <li>
-            <strong>Eumir Deodato</strong> - Rhapsody In Blue
-             (Deodato 2 (LP), 1973)
-          </li>
-        
-          <li>
-            <strong>Azymuth</strong> - Jazz Carnival
-             (Outubro, 1980)
-          </li>
-        
-          <li>
-            <strong>Sergio Mendes &amp; Brasil &#39;66</strong> - Berimbau
-             (Herb Alpert Presents Sergio Mendes &amp; Brasil &#39;66, 1966)
-          </li>
-        
-          <li>
-            <strong>Egberto Gismonti</strong> - Salvador
-             (Orfeo Novo, 1970)
-          </li>
-        
-          <li>
-            <strong>Jorge Ben</strong> - Chove, chuva
-             (Samba Esquema Novo, 1963)
-          </li>
-        
-        </ol>
-        
-      ]]></description>
-
-      
-      <enclosure url="https://www.mixcloud.com/wobuzz/brazilian-heat/" type="audio/mpeg" length="0"/>
-      
-
-      
-      <itunes:image href="https://wobuzz.io/shows/brazilian_heat_20260101_224021/cover.jpg"/>
-      
-
-      
-
-      <itunes:author>RDIO</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-      
-      <itunes:duration>2700</itunes:duration>
       
     </item>
     
