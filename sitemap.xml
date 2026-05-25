@@ -232,6 +232,11 @@
   </url>
 
   <url>
+    <loc>https://wobuzz.io/shows/test_show_20260525_223210/</loc>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
     <loc>https://wobuzz.io/shows/test_show_20260525_223118/</loc>
     <priority>0.7</priority>
   </url>
