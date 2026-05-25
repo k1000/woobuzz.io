@@ -9,10 +9,51 @@
     <description>Curated radio shows with themed music and AI-generated presentations</description>
     <language>en-us</language>
     <atom:link href="https://wobuzz.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 25 May 2026 20:23:21 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 20:23:25 GMT</lastBuildDate>
     <generator>RDIO Radio Show Generator</generator>
 
     
+    
+    <item>
+      <title>Test Show</title>
+      <link>https://wobuzz.io/shows/test_show_20260525_222325/</link>
+      <guid isPermaLink="true">https://wobuzz.io/shows/test_show_20260525_222325/</guid>
+      <pubDate>Mon, 25 May 2026 20:23:25 GMT</pubDate>
+
+      <description><![CDATA[
+        
+        <p>A test radio show</p>
+        
+
+        
+
+        
+        <p><strong>Tags:</strong> jazz, test</p>
+        
+
+        
+      ]]></description>
+
+      
+      <enclosure url="https://www.mixcloud.com/user/test/" type="audio/mpeg" length="0"/>
+      
+
+      
+      <itunes:image href="https://wobuzz.io/shows/test_show_20260525_222325/cover.jpg"/>
+      
+
+      
+      
+      <category>jazz</category>
+      
+      <category>test</category>
+      
+      
+
+      <itunes:author>RDIO</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      
+    </item>
     
     <item>
       <title>Test Show</title>
@@ -2650,104 +2691,6 @@
       <itunes:explicit>no</itunes:explicit>
       
       <itunes:duration>900</itunes:duration>
-      
-    </item>
-    
-    <item>
-      <title>African Legends: East African Fusion Flows</title>
-      <link>https://wobuzz.io/shows/african_legends__east_african__20260120_234546/</link>
-      <guid isPermaLink="true">https://wobuzz.io/shows/african_legends__east_african__20260120_234546/</guid>
-      <pubDate>Tue, 20 Jan 2026 22:45:47 GMT</pubDate>
-
-      <description><![CDATA[
-        
-        <p>1970s Ethio-jazz, Ugandan psych-rock, and Ethiopian azmari swing—featuring Mulatu Astatqé, Akira Ishikawa, and Mahmoud Ahmed.</p>
-        
-
-        
-        <p><strong>Series:</strong> african-legends</p>
-        
-
-        
-        <p><strong>Tags:</strong> afrobeat, fusion, ethiojazz, african, world, world music</p>
-        
-
-        
-        <h3>Tracklist:</h3>
-        <ol>
-        
-          <li>
-            <strong>Mulatu Astatqé</strong> - Chifara
-             (Mulatu Of Ethiopia, 1972)
-          </li>
-        
-          <li>
-            <strong>Mulatu Astatqé</strong> - Mulatu
-             (Mulatu Of Ethiopia, 1972)
-          </li>
-        
-          <li>
-            <strong>Mulatu Astatqé</strong> - Yekitir Tezeta
-             (Mulatu Astatke, 2005)
-          </li>
-        
-          <li>
-            <strong>Akira Ishikawa &amp; Count Buffalo</strong> - Na Tu Penda Sana
-             (Uganda (Dawn of African Rock), 1972)
-          </li>
-        
-          <li>
-            <strong>Akira Ishikawa &amp; Count Buffalo</strong> - Pigmy
-             (Uganda (Dawn of African Rock), 1972)
-          </li>
-        
-          <li>
-            <strong>Akira Ishikawa &amp; Count Buffalo</strong> - Vita
-             (Uganda (Dawn of African Rock), 1972)
-          </li>
-        
-          <li>
-            <strong>Mahmoud Ahmed</strong> - Yasdestal
-             (Ethiopiques 6 (Almaz))
-          </li>
-        
-          <li>
-            <strong>Mahmoud Ahmed</strong> - Feqer endegena
-             (Ethiopiques 6 (Almaz))
-          </li>
-        
-        </ol>
-        
-      ]]></description>
-
-      
-      <enclosure url="https://www.mixcloud.com/wobuzz/african-legends-east-african-fusion-flows-4/" type="audio/mpeg" length="0"/>
-      
-
-      
-      <itunes:image href="https://wobuzz.io/shows/african_legends__east_african__20260120_234546/cover.jpg"/>
-      
-
-      
-      
-      <category>afrobeat</category>
-      
-      <category>fusion</category>
-      
-      <category>ethiojazz</category>
-      
-      <category>african</category>
-      
-      <category>world</category>
-      
-      <category>world music</category>
-      
-      
-
-      <itunes:author>RDIO</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-      
-      <itunes:duration>1440</itunes:duration>
       
     </item>
     
