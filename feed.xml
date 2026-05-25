@@ -9,10 +9,51 @@
     <description>Curated radio shows with themed music and AI-generated presentations</description>
     <language>en-us</language>
     <atom:link href="https://wobuzz.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 25 May 2026 20:23:25 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 20:23:27 GMT</lastBuildDate>
     <generator>RDIO Radio Show Generator</generator>
 
     
+    
+    <item>
+      <title>Test Show</title>
+      <link>https://wobuzz.io/shows/test_show_20260525_222326/</link>
+      <guid isPermaLink="true">https://wobuzz.io/shows/test_show_20260525_222326/</guid>
+      <pubDate>Mon, 25 May 2026 20:23:26 GMT</pubDate>
+
+      <description><![CDATA[
+        
+        <p>A test radio show</p>
+        
+
+        
+
+        
+        <p><strong>Tags:</strong> jazz, test</p>
+        
+
+        
+      ]]></description>
+
+      
+      <enclosure url="https://www.mixcloud.com/user/test-show/" type="audio/mpeg" length="0"/>
+      
+
+      
+      <itunes:image href="https://wobuzz.io/shows/test_show_20260525_222326/cover.jpg"/>
+      
+
+      
+      
+      <category>jazz</category>
+      
+      <category>test</category>
+      
+      
+
+      <itunes:author>RDIO</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      
+    </item>
     
     <item>
       <title>Test Show</title>
@@ -2597,93 +2638,6 @@
       <category>orchestral</category>
       
       <category>romantic</category>
-      
-      
-
-      <itunes:author>RDIO</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-      
-      <itunes:duration>900</itunes:duration>
-      
-    </item>
-    
-    <item>
-      <title>Sacred Echoes: 800 Years of Spiritual Music</title>
-      <link>https://wobuzz.io/shows/sacred_echoes__800_years_of_sp_20260120_235005/</link>
-      <guid isPermaLink="true">https://wobuzz.io/shows/sacred_echoes__800_years_of_sp_20260120_235005/</guid>
-      <pubDate>Tue, 20 Jan 2026 22:50:05 GMT</pubDate>
-
-      <description><![CDATA[
-        
-        <p>A journey from medieval monks to Bach—800 years of sacred music spanning mystics, rebels, and mathematical geniuses.</p>
-        
-
-        
-        <p><strong>Series:</strong> symphony-evenings</p>
-        
-
-        
-        <p><strong>Tags:</strong> choral, carmina burana, sacred, classical, baroque, symphony, medieval, orchestral</p>
-        
-
-        
-        <h3>Tracklist:</h3>
-        <ol>
-        
-          <li>
-            <strong>J.S. Bach</strong> - Die Seel ruht in Jesu Händen
-             (Cantata BWV 127)
-          </li>
-        
-          <li>
-            <strong>Carl Orff</strong> - O Fortuna
-             (Carmina Burana)
-          </li>
-        
-          <li>
-            <strong>Carl Orff</strong> - In Taberna Quando Sumus
-             (Carmina Burana)
-          </li>
-        
-          <li>
-            <strong>J.S. Bach</strong> - Toccata in D minor, BWV 565
-             (Organ Works)
-          </li>
-        
-          <li>
-            <strong>J.S. Bach</strong> - Fugue in D minor, BWV 565
-             (Organ Works)
-          </li>
-        
-        </ol>
-        
-      ]]></description>
-
-      
-      <enclosure url="https://www.mixcloud.com/wobuzz/sacred-echoes-800-years-of-spiritual-music/" type="audio/mpeg" length="0"/>
-      
-
-      
-      <itunes:image href="https://wobuzz.io/shows/sacred_echoes__800_years_of_sp_20260120_235005/cover.jpg"/>
-      
-
-      
-      
-      <category>choral</category>
-      
-      <category>carmina burana</category>
-      
-      <category>sacred</category>
-      
-      <category>classical</category>
-      
-      <category>baroque</category>
-      
-      <category>symphony</category>
-      
-      <category>medieval</category>
-      
-      <category>orchestral</category>
       
       
 
