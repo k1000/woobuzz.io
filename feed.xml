@@ -9,10 +9,51 @@
     <description>Curated radio shows with themed music and AI-generated presentations</description>
     <language>en-us</language>
     <atom:link href="https://wobuzz.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 25 May 2026 20:18:29 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 20:18:31 GMT</lastBuildDate>
     <generator>RDIO Radio Show Generator</generator>
 
     
+    
+    <item>
+      <title>Test Show</title>
+      <link>https://wobuzz.io/shows/test_show_20260525_221831/</link>
+      <guid isPermaLink="true">https://wobuzz.io/shows/test_show_20260525_221831/</guid>
+      <pubDate>Mon, 25 May 2026 20:18:31 GMT</pubDate>
+
+      <description><![CDATA[
+        
+        <p>A test radio show</p>
+        
+
+        
+
+        
+        <p><strong>Tags:</strong> jazz, test</p>
+        
+
+        
+      ]]></description>
+
+      
+      <enclosure url="https://www.mixcloud.com/user/test-show/" type="audio/mpeg" length="0"/>
+      
+
+      
+      <itunes:image href="https://wobuzz.io/shows/test_show_20260525_221831/cover.jpg"/>
+      
+
+      
+      
+      <category>jazz</category>
+      
+      <category>test</category>
+      
+      
+
+      <itunes:author>RDIO</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      
+    </item>
     
     <item>
       <title>Test Show</title>
@@ -3780,98 +3821,6 @@
       <itunes:explicit>no</itunes:explicit>
       
       <itunes:duration>1620</itunes:duration>
-      
-    </item>
-    
-    <item>
-      <title>The Genius of Bach</title>
-      <link>https://wobuzz.io/shows/the_genius_of_bach_20260101_210120/</link>
-      <guid isPermaLink="true">https://wobuzz.io/shows/the_genius_of_bach_20260101_210120/</guid>
-      <pubDate>Thu, 01 Jan 2026 20:01:20 GMT</pubDate>
-
-      <description><![CDATA[
-        
-        <p>A journey through Bach&#39;s most profound keyboard works, featuring legendary performances by Glenn Gould and Rosalyn Tureck.</p>
-        
-
-        
-        <p><strong>Series:</strong> Classical Masters</p>
-        
-
-        
-        <p><strong>Tags:</strong> classical, baroque, piano</p>
-        
-
-        
-        <h3>Tracklist:</h3>
-        <ol>
-        
-          <li>
-            <strong>Rosalyn Tureck</strong> - BWV 846 - Prelude-Fugue No.1 in C major - Prelude
-             (The Well-Tempered Clavier, Book 1)
-          </li>
-        
-          <li>
-            <strong>Rosalyn Tureck</strong> - BWV 846 - Prelude-Fugue No.1 in C major - Fugue
-             (The Well-Tempered Clavier, Book 1)
-          </li>
-        
-          <li>
-            <strong>Rosalyn Tureck</strong> - BWV 849 - Prelude-Fugue No.4 in C sharp minor - Prelude
-             (The Well-Tempered Clavier, Book 1)
-          </li>
-        
-          <li>
-            <strong>Rosalyn Tureck</strong> - BWV 849 - Prelude-Fugue No.4 in C sharp minor - Fugue
-             (The Well-Tempered Clavier, Book 1)
-          </li>
-        
-          <li>
-            <strong>Orchestra of the Age of Enlightment</strong> - I
-             (Brandenburgisches Konzert, 1989)
-          </li>
-        
-          <li>
-            <strong>Orchestra of the Age of Enlightment</strong> - I
-             (Brandenburgisches Konzert, 1989)
-          </li>
-        
-          <li>
-            <strong>Orchestra of the Age of Enlightment</strong> - Allegro
-             (Brandenburgisches Konzert, 1989)
-          </li>
-        
-          <li>
-            <strong>Orchestra of the Age of Enlightment</strong> - I. Allegro
-             (Brandenburgisches Konzert, 1989)
-          </li>
-        
-        </ol>
-        
-      ]]></description>
-
-      
-      <enclosure url="https://www.mixcloud.com/wobuzz/the-genius-of-bach/" type="audio/mpeg" length="0"/>
-      
-
-      
-      <itunes:image href="https://wobuzz.io/shows/the_genius_of_bach_20260101_210120/cover.jpg"/>
-      
-
-      
-      
-      <category>classical</category>
-      
-      <category>baroque</category>
-      
-      <category>piano</category>
-      
-      
-
-      <itunes:author>RDIO</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-      
-      <itunes:duration>1440</itunes:duration>
       
     </item>
     
