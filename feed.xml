@@ -9,10 +9,51 @@
     <description>Curated radio shows with themed music and AI-generated presentations</description>
     <language>en-us</language>
     <atom:link href="https://wobuzz.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 25 May 2026 20:18:45 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 20:19:37 GMT</lastBuildDate>
     <generator>RDIO Radio Show Generator</generator>
 
     
+    
+    <item>
+      <title>Test Show</title>
+      <link>https://wobuzz.io/shows/test_show_20260525_221937/</link>
+      <guid isPermaLink="true">https://wobuzz.io/shows/test_show_20260525_221937/</guid>
+      <pubDate>Mon, 25 May 2026 20:19:37 GMT</pubDate>
+
+      <description><![CDATA[
+        
+        <p>A test radio show</p>
+        
+
+        
+
+        
+        <p><strong>Tags:</strong> jazz, test</p>
+        
+
+        
+      ]]></description>
+
+      
+      <enclosure url="https://www.mixcloud.com/user/test/" type="audio/mpeg" length="0"/>
+      
+
+      
+      <itunes:image href="https://wobuzz.io/shows/test_show_20260525_221937/cover.jpg"/>
+      
+
+      
+      
+      <category>jazz</category>
+      
+      <category>test</category>
+      
+      
+
+      <itunes:author>RDIO</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      
+    </item>
     
     <item>
       <title>Test Show</title>
@@ -3619,81 +3660,6 @@
       <itunes:explicit>no</itunes:explicit>
       
       <itunes:duration>2700</itunes:duration>
-      
-    </item>
-    
-    <item>
-      <title>Free Spirit Jazz</title>
-      <link>https://wobuzz.io/shows/free_spirit_jazz_20260101_221023/</link>
-      <guid isPermaLink="true">https://wobuzz.io/shows/free_spirit_jazz_20260101_221023/</guid>
-      <pubDate>Thu, 01 Jan 2026 21:10:23 GMT</pubDate>
-
-      <description><![CDATA[
-        
-
-        
-        <p><strong>Series:</strong> Jazz Frontiers</p>
-        
-
-        
-
-        
-        <h3>Tracklist:</h3>
-        <ol>
-        
-          <li>
-            <strong>Joe McPhee, Survival Unit II, Clifford Thornton</strong> - Nation Time
-             (N.Y.N.Y. (At WBAI&#39;s Free Music Store), 1971)
-          </li>
-        
-          <li>
-            <strong>The Giuseppi Logan Quartet</strong> - Dance Of Satan
-             (The Giuseppi Logan Quartet, 1964)
-          </li>
-        
-          <li>
-            <strong>Burton Greene Trio</strong> - Bloom In The Commune
-             (On Tour, 1966)
-          </li>
-        
-          <li>
-            <strong>Mario Schiano Trio</strong> - Collage
-             (Ecstatic, 1967)
-          </li>
-        
-          <li>
-            <strong>Barry Guy</strong> - Nature Is a Wolf
-             (Occasional Poems, 2015)
-          </li>
-        
-          <li>
-            <strong>John Cage &amp; Sun Ra</strong> - Sun Ra - Untitled Keyboard Solo 3
-             (John Cage Meets Sun Ra: The Complete Concert, June 8th 1986, Coney Island NY, 2016)
-          </li>
-        
-          <li>
-            <strong>Ken Vandermark</strong> - Omega
-             (Fox Fire, 2009)
-          </li>
-        
-        </ol>
-        
-      ]]></description>
-
-      
-      <enclosure url="https://www.mixcloud.com/wobuzz/free-spirit-jazz/" type="audio/mpeg" length="0"/>
-      
-
-      
-      <itunes:image href="https://wobuzz.io/shows/free_spirit_jazz_20260101_221023/cover.jpg"/>
-      
-
-      
-
-      <itunes:author>RDIO</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-      
-      <itunes:duration>1260</itunes:duration>
       
     </item>
     
