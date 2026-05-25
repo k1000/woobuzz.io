@@ -9,10 +9,51 @@
     <description>Curated radio shows with themed music and AI-generated presentations</description>
     <language>en-us</language>
     <atom:link href="https://wobuzz.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 25 May 2026 20:20:05 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 20:20:42 GMT</lastBuildDate>
     <generator>RDIO Radio Show Generator</generator>
 
     
+    
+    <item>
+      <title>Test Show</title>
+      <link>https://wobuzz.io/shows/test_show_20260525_222042/</link>
+      <guid isPermaLink="true">https://wobuzz.io/shows/test_show_20260525_222042/</guid>
+      <pubDate>Mon, 25 May 2026 20:20:42 GMT</pubDate>
+
+      <description><![CDATA[
+        
+        <p>A test radio show</p>
+        
+
+        
+
+        
+        <p><strong>Tags:</strong> jazz, test</p>
+        
+
+        
+      ]]></description>
+
+      
+      <enclosure url="https://www.mixcloud.com/user/test/" type="audio/mpeg" length="0"/>
+      
+
+      
+      <itunes:image href="https://wobuzz.io/shows/test_show_20260525_222042/cover.jpg"/>
+      
+
+      
+      
+      <category>jazz</category>
+      
+      <category>test</category>
+      
+      
+
+      <itunes:author>RDIO</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      
+    </item>
     
     <item>
       <title>Test Show</title>
@@ -3340,96 +3381,6 @@
       <category>exotica</category>
       
       <category>jazz fusion</category>
-      
-      
-
-      <itunes:author>RDIO</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-      
-      <itunes:duration>1080</itunes:duration>
-      
-    </item>
-    
-    <item>
-      <title>Kosmische Musik: A Journey Through Krautrock</title>
-      <link>https://wobuzz.io/shows/kosmische_musik__a_journey_thr_20260103_191339/</link>
-      <guid isPermaLink="true">https://wobuzz.io/shows/kosmische_musik__a_journey_thr_20260103_191339/</guid>
-      <pubDate>Sat, 03 Jan 2026 18:13:39 GMT</pubDate>
-
-      <description><![CDATA[
-        
-        <p>An exploration of Germany&#39;s revolutionary 1970s rock scene, featuring motorik rhythms, cosmic explorations, and avant-garde experimentation from the pioneers who changed music forever.</p>
-        
-
-        
-        <p><strong>Series:</strong> Underground Sounds</p>
-        
-
-        
-        <p><strong>Tags:</strong> krautrock, experimental, psychedelic, ambient, motorik, german rock, 1970s</p>
-        
-
-        
-        <h3>Tracklist:</h3>
-        <ol>
-        
-          <li>
-            <strong>Neu!</strong> - Hallogallo
-             (Neu!, 1972)
-          </li>
-        
-          <li>
-            <strong>CAN</strong> - Vitamin C
-             (Ege Bamyasi, 1972)
-          </li>
-        
-          <li>
-            <strong>Faust</strong> - The Sad Skinhead
-             (Faust IV, 1973)
-          </li>
-        
-          <li>
-            <strong>Ash Ra Tempel</strong> - Look at Your Sun
-             (Schwingungen (Ohr), 1972)
-          </li>
-        
-          <li>
-            <strong>Popol Vuh</strong> - Aguirre I (L&#39;acrime di rei)
-             (Aguirre, 1976)
-          </li>
-        
-          <li>
-            <strong>CLUSTER &amp; ENO</strong> - Ho Renomo
-             (Cluster &amp; Eno, 1977)
-          </li>
-        
-        </ol>
-        
-      ]]></description>
-
-      
-      <enclosure url="https://www.mixcloud.com/wobuzz/kosmische-musik-a-journey-through-krautrock/" type="audio/mpeg" length="0"/>
-      
-
-      
-      <itunes:image href="https://wobuzz.io/shows/kosmische_musik__a_journey_thr_20260103_191339/cover.jpg"/>
-      
-
-      
-      
-      <category>krautrock</category>
-      
-      <category>experimental</category>
-      
-      <category>psychedelic</category>
-      
-      <category>ambient</category>
-      
-      <category>motorik</category>
-      
-      <category>german rock</category>
-      
-      <category>1970s</category>
       
       
 
