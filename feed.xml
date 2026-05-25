@@ -9,10 +9,51 @@
     <description>Curated radio shows with themed music and AI-generated presentations</description>
     <language>en-us</language>
     <atom:link href="https://wobuzz.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 25 May 2026 20:18:43 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 20:18:45 GMT</lastBuildDate>
     <generator>RDIO Radio Show Generator</generator>
 
     
+    
+    <item>
+      <title>Test Show</title>
+      <link>https://wobuzz.io/shows/test_show_20260525_221845/</link>
+      <guid isPermaLink="true">https://wobuzz.io/shows/test_show_20260525_221845/</guid>
+      <pubDate>Mon, 25 May 2026 20:18:45 GMT</pubDate>
+
+      <description><![CDATA[
+        
+        <p>A test radio show</p>
+        
+
+        
+
+        
+        <p><strong>Tags:</strong> jazz, test</p>
+        
+
+        
+      ]]></description>
+
+      
+      <enclosure url="https://www.mixcloud.com/user/test-show/" type="audio/mpeg" length="0"/>
+      
+
+      
+      <itunes:image href="https://wobuzz.io/shows/test_show_20260525_221845/cover.jpg"/>
+      
+
+      
+      
+      <category>jazz</category>
+      
+      <category>test</category>
+      
+      
+
+      <itunes:author>RDIO</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      
+    </item>
     
     <item>
       <title>Test Show</title>
@@ -3653,118 +3694,6 @@
       <itunes:explicit>no</itunes:explicit>
       
       <itunes:duration>1260</itunes:duration>
-      
-    </item>
-    
-    <item>
-      <title>Latin Jazz Corner</title>
-      <link>https://wobuzz.io/shows/latin_jazz_corner_20260101_214943/</link>
-      <guid isPermaLink="true">https://wobuzz.io/shows/latin_jazz_corner_20260101_214943/</guid>
-      <pubDate>Thu, 01 Jan 2026 20:49:43 GMT</pubDate>
-
-      <description><![CDATA[
-        
-        <p>The fiery rhythms of Latin jazz, blending Afro-Cuban percussion with bebop sophistication.</p>
-        
-
-        
-        <p><strong>Series:</strong> Latin Jazz Corner</p>
-        
-
-        
-        <p><strong>Tags:</strong> latin, jazz, afro-cuban</p>
-        
-
-        
-        <h3>Tracklist:</h3>
-        <ol>
-        
-          <li>
-            <strong>Willie Bobo</strong> - Spanish Grease
-             (Let&#39;s Go Bobo - The Very Best Of, 1964)
-          </li>
-        
-          <li>
-            <strong>Tito Puente &amp; Eddie Palmieri</strong> - Picadillo Jam
-             (Masterpiece (Obra Maestra), 2000)
-          </li>
-        
-          <li>
-            <strong>Marcos Valle</strong> - Os Grilos
-             (Brazilliance! - A Música De Marcos Valle, 1967)
-          </li>
-        
-          <li>
-            <strong>Arturo Sandoval, Chick Corea, Poncho Sanchez, Pete Escovedo</strong> - A Night In Tunisia
-             (Jam Miami - A Celebration Of Latin Jazz, 2000)
-          </li>
-        
-          <li>
-            <strong>Moacir Santos</strong> - Coisa n° 5
-             (Coisas, 1965)
-          </li>
-        
-          <li>
-            <strong>Sergio Mendes &amp; Brasil &#39;66</strong> - Berimbau
-             (Herb Alpert Presents Sergio Mendes &amp; Brasil &#39;66, 1966)
-          </li>
-        
-          <li>
-            <strong>Willie Bobo</strong> - Evil Ways
-             (Let&#39;s Go Bobo - The Very Best Of, 1964)
-          </li>
-        
-          <li>
-            <strong>Eddie Palmieri</strong> - Bilongo
-             (Superimposition, 1968)
-          </li>
-        
-          <li>
-            <strong>Egberto Gismonti</strong> - Tango
-             (Árvore, 1973)
-          </li>
-        
-          <li>
-            <strong>Arturo Sandoval, Chick Corea, Poncho Sanchez, Pete Escovedo</strong> - Bésame Mama
-             (Jam Miami - A Celebration Of Latin Jazz, 2000)
-          </li>
-        
-          <li>
-            <strong>Cannonball Adderley &amp; The Bossa Rio Sextet with Sergio Mendes</strong> - Batida Diferente
-             (Cannonball Adderley &amp; The Bossa Rio Sextet with Sergio Mendes, 1962)
-          </li>
-        
-          <li>
-            <strong>Marcos Valle</strong> - Viola enluarada
-             (Viola enluarada, 1968)
-          </li>
-        
-        </ol>
-        
-      ]]></description>
-
-      
-      <enclosure url="https://www.mixcloud.com/wobuzz/latin-jazz-corner/" type="audio/mpeg" length="0"/>
-      
-
-      
-      <itunes:image href="https://wobuzz.io/shows/latin_jazz_corner_20260101_214943/cover.jpg"/>
-      
-
-      
-      
-      <category>latin</category>
-      
-      <category>jazz</category>
-      
-      <category>afro-cuban</category>
-      
-      
-
-      <itunes:author>RDIO</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-      
-      <itunes:duration>2160</itunes:duration>
       
     </item>
     
