@@ -237,6 +237,11 @@
   </url>
 
   <url>
+    <loc>https://wobuzz.io/shows/test_show_20260525_224815/</loc>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
     <loc>https://wobuzz.io/shows/test_show_20260525_224732/</loc>
     <priority>0.7</priority>
   </url>
