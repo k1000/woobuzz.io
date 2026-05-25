@@ -9,10 +9,51 @@
     <description>Curated radio shows with themed music and AI-generated presentations</description>
     <language>en-us</language>
     <atom:link href="https://wobuzz.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 25 May 2026 20:19:39 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 20:20:03 GMT</lastBuildDate>
     <generator>RDIO Radio Show Generator</generator>
 
     
+    
+    <item>
+      <title>Test Show</title>
+      <link>https://wobuzz.io/shows/test_show_20260525_222003/</link>
+      <guid isPermaLink="true">https://wobuzz.io/shows/test_show_20260525_222003/</guid>
+      <pubDate>Mon, 25 May 2026 20:20:03 GMT</pubDate>
+
+      <description><![CDATA[
+        
+        <p>A test radio show</p>
+        
+
+        
+
+        
+        <p><strong>Tags:</strong> jazz, test</p>
+        
+
+        
+      ]]></description>
+
+      
+      <enclosure url="https://www.mixcloud.com/user/test/" type="audio/mpeg" length="0"/>
+      
+
+      
+      <itunes:image href="https://wobuzz.io/shows/test_show_20260525_222003/cover.jpg"/>
+      
+
+      
+      
+      <category>jazz</category>
+      
+      <category>test</category>
+      
+      
+
+      <itunes:author>RDIO</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      
+    </item>
     
     <item>
       <title>Test Show</title>
@@ -3476,116 +3517,6 @@
       <itunes:explicit>no</itunes:explicit>
       
       <itunes:duration>2340</itunes:duration>
-      
-    </item>
-    
-    <item>
-      <title>Black President: The Revolutionary Sound of Fela Kuti</title>
-      <link>https://wobuzz.io/shows/black_president__the_revolutio_20260102_001631/</link>
-      <guid isPermaLink="true">https://wobuzz.io/shows/black_president__the_revolutio_20260102_001631/</guid>
-      <pubDate>Thu, 01 Jan 2026 23:16:31 GMT</pubDate>
-
-      <description><![CDATA[
-        
-        <p>A celebration of Fela Anikulapo Kuti, the Nigerian musician who invented Afrobeat and used his music as a weapon against corruption and military dictatorship. This show explores his incredible journey from London jazz student to Africa&#39;s most challenging and charismatic performer.</p>
-        
-
-        
-        <p><strong>Series:</strong> African Legends</p>
-        
-
-        
-        <p><strong>Tags:</strong> afrobeat, fela kuti, african music, protest music, nigerian, funk, jazz</p>
-        
-
-        
-        <h3>Tracklist:</h3>
-        <ol>
-        
-          <li>
-            <strong>Fela Kuti</strong> - Highlife Time
-             (Koola Lobitos / The &#39;69 L.A. Sessions, 2010)
-          </li>
-        
-          <li>
-            <strong>Fela Kuti</strong> - Water No Get Enemy
-             (Expensive Shit / He Miss Road, 2010)
-          </li>
-        
-          <li>
-            <strong>Fela Ransome-Kuti &amp; Afrika &#39;70</strong> - Zombie
-             (Zombie (2001 Issue), 1977)
-          </li>
-        
-          <li>
-            <strong>Fela Kuti</strong> - Sorrow Tears And Blood
-             (Opposite People / Sorrow Tears And Blood, 2010)
-          </li>
-        
-          <li>
-            <strong>Fela Kuti</strong> - Shuffering And Shmiling
-             (Shuffering And Shmiling / No Agreement, 2010)
-          </li>
-        
-          <li>
-            <strong>Fela Kuti</strong> - Colonial Mentality
-             (Opposite People / Sorrow Tears And Blood, 2010)
-          </li>
-        
-          <li>
-            <strong>Fela Kuti</strong> - I.T.T. (International Thief Thief)
-             (Original Suffer Head / ITT, 2010)
-          </li>
-        
-          <li>
-            <strong>Fela Kuti With Ginger Baker</strong> - Ginger Baker &amp; Tony Allen Drum Solo
-             (Live!, 2010)
-          </li>
-        
-          <li>
-            <strong>Fela Kuti</strong> - Fear Not For Man
-             (Stalemate / Fear Not For Man, 2010)
-          </li>
-        
-          <li>
-            <strong>Fela Kuti</strong> - Upside Down
-             (Upside Down / Music Of Many Colours, 2010)
-          </li>
-        
-        </ol>
-        
-      ]]></description>
-
-      
-      <enclosure url="https://www.mixcloud.com/wobuzz/black-president-the-revolutionary-sound-of-fela-kuti/" type="audio/mpeg" length="0"/>
-      
-
-      
-      <itunes:image href="https://wobuzz.io/shows/black_president__the_revolutio_20260102_001631/cover.jpg"/>
-      
-
-      
-      
-      <category>afrobeat</category>
-      
-      <category>fela kuti</category>
-      
-      <category>african music</category>
-      
-      <category>protest music</category>
-      
-      <category>nigerian</category>
-      
-      <category>funk</category>
-      
-      <category>jazz</category>
-      
-      
-
-      <itunes:author>RDIO</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-      
-      <itunes:duration>1800</itunes:duration>
       
     </item>
     
