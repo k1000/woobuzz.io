@@ -1,6 +1,21 @@
 {
   "shows": [
     {
+      "id": "test_show_20260525_233005",
+      "title": "Test Show",
+      "cover": "shows/test_show_20260525_233005/cover.jpg",
+      "cover_rect": null,
+      "mixcloud_url": "https://www.mixcloud.com/user/test/",
+      "tags": [
+        "jazz",
+        "test"
+      ],
+      "series": "",
+      "description": "A test radio show",
+      "background_color": "#2C1810",
+      "published_at": "2026-05-25T21:30:05.702796Z"
+    },
+    {
       "id": "test_show_20260525_232755",
       "title": "Test Show",
       "cover": "shows/test_show_20260525_232755/cover.jpg",
@@ -3923,5 +3938,5 @@
       "duration": 1470
     }
   ],
-  "updated_at": "2026-05-25T21:27:55.682351Z"
+  "updated_at": "2026-05-25T21:30:05.702801Z"
 }
