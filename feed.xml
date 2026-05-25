@@ -9,10 +9,51 @@
     <description>Curated radio shows with themed music and AI-generated presentations</description>
     <language>en-us</language>
     <atom:link href="https://wobuzz.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 25 May 2026 20:18:31 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 20:18:43 GMT</lastBuildDate>
     <generator>RDIO Radio Show Generator</generator>
 
     
+    
+    <item>
+      <title>Test Show</title>
+      <link>https://wobuzz.io/shows/test_show_20260525_221843/</link>
+      <guid isPermaLink="true">https://wobuzz.io/shows/test_show_20260525_221843/</guid>
+      <pubDate>Mon, 25 May 2026 20:18:43 GMT</pubDate>
+
+      <description><![CDATA[
+        
+        <p>A test radio show</p>
+        
+
+        
+
+        
+        <p><strong>Tags:</strong> jazz, test</p>
+        
+
+        
+      ]]></description>
+
+      
+      <enclosure url="https://www.mixcloud.com/user/test/" type="audio/mpeg" length="0"/>
+      
+
+      
+      <itunes:image href="https://wobuzz.io/shows/test_show_20260525_221843/cover.jpg"/>
+      
+
+      
+      
+      <category>jazz</category>
+      
+      <category>test</category>
+      
+      
+
+      <itunes:author>RDIO</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      
+    </item>
     
     <item>
       <title>Test Show</title>
@@ -3724,103 +3765,6 @@
       <itunes:explicit>no</itunes:explicit>
       
       <itunes:duration>2160</itunes:duration>
-      
-    </item>
-    
-    <item>
-      <title>Modal Masters</title>
-      <link>https://wobuzz.io/shows/modal_masters_20260101_213809/</link>
-      <guid isPermaLink="true">https://wobuzz.io/shows/modal_masters_20260101_213809/</guid>
-      <pubDate>Thu, 01 Jan 2026 20:38:09 GMT</pubDate>
-
-      <description><![CDATA[
-        
-        <p>A celebration of the golden age of jazz innovation, from bebop pioneers to spiritual jazz explorers.</p>
-        
-
-        
-        <p><strong>Series:</strong> Jazz Heritage</p>
-        
-
-        
-        <p><strong>Tags:</strong> jazz, bebop, modal</p>
-        
-
-        
-        <h3>Tracklist:</h3>
-        <ol>
-        
-          <li>
-            <strong>Charlie Parker/Dizzy Gillespie</strong> - Bloomdido
-             (Bird and Diz, 1952)
-          </li>
-        
-          <li>
-            <strong>McCoy Tyner</strong> - Mode To John
-             (Tender Moments, 1967)
-          </li>
-        
-          <li>
-            <strong>Herbie Hancock</strong> - Maiden Voyage
-             (Maiden Voyage, 1965)
-          </li>
-        
-          <li>
-            <strong>Alice Coltrane</strong> - Journey In Satchidananda
-             (Journey In Satchidananda, 1970)
-          </li>
-        
-          <li>
-            <strong>Joe Zawinul</strong> - Mercy, Mercy, Mercy
-             (FM Austrophon Studio Wien, 1967)
-          </li>
-        
-          <li>
-            <strong>Grant Green</strong> - Let The Music Take Your Mind
-             (Alive!, 1970)
-          </li>
-        
-          <li>
-            <strong>Cannonball Adderley</strong> - Money In The Pocket
-             (Money In The Pocket, 1966)
-          </li>
-        
-          <li>
-            <strong>Charlie Parker With Miles Davis</strong> - Scrapple From The Apple
-             (Bird and Miles, 2001)
-          </li>
-        
-          <li>
-            <strong>Alice Coltrane</strong> - Something About John Coltrane
-             (Journey In Satchidananda, 1970)
-          </li>
-        
-        </ol>
-        
-      ]]></description>
-
-      
-      <enclosure url="https://www.mixcloud.com/wobuzz/modal-masters/" type="audio/mpeg" length="0"/>
-      
-
-      
-      <itunes:image href="https://wobuzz.io/shows/modal_masters_20260101_213809/cover.jpg"/>
-      
-
-      
-      
-      <category>jazz</category>
-      
-      <category>bebop</category>
-      
-      <category>modal</category>
-      
-      
-
-      <itunes:author>RDIO</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-      
-      <itunes:duration>1620</itunes:duration>
       
     </item>
     
