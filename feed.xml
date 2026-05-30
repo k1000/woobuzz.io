@@ -1,217 +1,3147 @@
-<?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Wobuzz Radio</title>
-  <link href="https://wobuzz.io/"/>
-  <id>https://wobuzz.io/</id>
-  <updated>2026-05-30T18:34:29Z</updated>
-  <entry>
-    <title>The Architecture of the Loft</title>
-    <link href="https://wobuzz.io/shows/the_architecture_of_the_loft_20260212_194855/"/>
-    <id>https://wobuzz.io/shows/the_architecture_of_the_loft_20260212_194855/</id>
-    <updated>2026-02-12T18:48:55.862633Z</updated>
-    <summary>A deep dive into the interconnected Chicago underground of the 1990s and beyond, where the lines between jazz, minimalism, and electronic textures dissolved in the heat of warehouse collaboration.</summary>
-  </entry>
-  <entry>
-    <title>Jazzmatazz &amp; Beyond Vol. 1</title>
-    <link href="https://wobuzz.io/shows/jazzmatazz___beyond_vol__1_20260203_210103/"/>
-    <id>https://wobuzz.io/shows/jazzmatazz___beyond_vol__1_20260203_210103/</id>
-    <updated>2026-02-03T20:01:04.035765Z</updated>
-    <summary>A journey through the jazz-hip hop lineage, from Guru's revolutionary 1993 sessions with jazz royalty, through Madlib's Blue Note explorations and Nujabes' Tokyo meditations, to the Brainfeeder generation and London's new wave. The story of a family reunion that never ended.</summary>
-  </entry>
-  <entry>
-    <title>Fuego Latino: A Journey Through Latin Soul, Jazz &amp; Rhythm</title>
-    <link href="https://wobuzz.io/shows/fuego_latino__a_journey_throug_20260131_224951/"/>
-    <id>https://wobuzz.io/shows/fuego_latino__a_journey_throug_20260131_224951/</id>
-    <updated>2026-01-31T21:49:51.211095Z</updated>
-    <summary>From the Afro-Cuban jazz pioneers of 1940s Harlem to the Buena Vista Social Club's Havana revival, this show traces the pulse of Latin music through three explosive decades. Featuring Machito, Cal Tjader, Eddie Palmieri, Willie Bobo, Pucho, Bobby Paunetto, Joe Bataan, Jorge Ben, Tito Puente, and the</summary>
-  </entry>
-  <entry>
-    <title>Quiet Village: The Exotica Dream</title>
-    <link href="https://wobuzz.io/shows/quiet_village__the_exotica_dre_20260120_235016/"/>
-    <id>https://wobuzz.io/shows/quiet_village__the_exotica_dre_20260120_235016/</id>
-    <updated>2026-01-20T22:50:16.922379Z</updated>
-    <summary>Three sonic architects craft imaginary islands from Hollywood studios—Les Baxter's orchestral jungles, Martin Denny's bullfrog serenades, Arthur Lyman's vibraphone twilights. Post-war suburban escapism crystallized in stereo.</summary>
-  </entry>
-  <entry>
-    <title>Bristol Dusk Downtempo</title>
-    <link href="https://wobuzz.io/shows/bristol_dusk_downtempo_20260120_235014/"/>
-    <id>https://wobuzz.io/shows/bristol_dusk_downtempo_20260120_235014/</id>
-    <updated>2026-01-20T22:50:14.793703Z</updated>
-    <summary>Hazy trip-hop from Bristol's golden era—Massive Attack's dub echoes, Portishead's noir soul, and the downtempo waves that defined the 90s.</summary>
-  </entry>
-  <entry>
-    <title>Desert Sessions Vol. 2: Generator Parties</title>
-    <link href="https://wobuzz.io/shows/desert_sessions_vol__2__genera_20260120_235012/"/>
-    <id>https://wobuzz.io/shows/desert_sessions_vol__2__genera_20260120_235012/</id>
-    <updated>2026-01-20T22:50:12.379664Z</updated>
-    <summary>A journey through the sun-baked, fuzz-drenched world of desert rock — from the illegal generator parties of Palm Desert to the modern psychedelic revival. This episode explores the origins of the genre, the breakthrough of Songs for the Deaf, and Josh Homme's resurrection after his near-death experi</summary>
-  </entry>
-  <entry>
-    <title>Electric Strings: A Tribute to Michal Urbaniak</title>
-    <link href="https://wobuzz.io/shows/electric_strings__a_tribute_to_20260120_235009/"/>
-    <id>https://wobuzz.io/shows/electric_strings__a_tribute_to_20260120_235009/</id>
-    <updated>2026-01-20T22:50:09.866392Z</updated>
-    <summary>An extended memorial tribute to the Polish electric violin pioneer Michal Urbaniak (1943-2025), exploring his legacy alongside Jean-Luc Ponty, Jerry Goodman, and the fusion violinists who transformed the instrument.</summary>
-  </entry>
-  <entry>
-    <title>Slavic Passions</title>
-    <link href="https://wobuzz.io/shows/slavic_passions_20260120_235007/"/>
-    <id>https://wobuzz.io/shows/slavic_passions_20260120_235007/</id>
-    <updated>2026-01-20T22:50:07.791153Z</updated>
-    <summary>A journey through the emotional intensity of Eastern European masters - from the rivers of Bohemia to wartime Moscow</summary>
-  </entry>
-  <entry>
-    <title>Sacred Echoes: 800 Years of Spiritual Music</title>
-    <link href="https://wobuzz.io/shows/sacred_echoes__800_years_of_sp_20260120_235005/"/>
-    <id>https://wobuzz.io/shows/sacred_echoes__800_years_of_sp_20260120_235005/</id>
-    <updated>2026-01-20T22:50:05.470385Z</updated>
-    <summary>A journey from medieval monks to Bach—800 years of sacred music spanning mystics, rebels, and mathematical geniuses.</summary>
-  </entry>
-  <entry>
-    <title>African Legends: East African Fusion Flows</title>
-    <link href="https://wobuzz.io/shows/african_legends__east_african__20260120_234546/"/>
-    <id>https://wobuzz.io/shows/african_legends__east_african__20260120_234546/</id>
-    <updated>2026-01-20T22:45:47.000511Z</updated>
-    <summary>1970s Ethio-jazz, Ugandan psych-rock, and Ethiopian azmari swing—featuring Mulatu Astatqé, Akira Ishikawa, and Mahmoud Ahmed.</summary>
-  </entry>
-  <entry>
-    <title>The Dreamer's Catalog</title>
-    <link href="https://wobuzz.io/shows/the_dreamer_s_catalog_20260113_235510/"/>
-    <id>https://wobuzz.io/shows/the_dreamer_s_catalog_20260113_235510/</id>
-    <updated>2026-01-13T22:55:10.902317Z</updated>
-    <summary>A journey through artists who made visionary music that the world wasn't ready for - from Shuggie Otis's psychedelic soul to Lonnie Liston Smith's cosmic jazz to Marcos Resende's lost Brazilian masterpiece.</summary>
-  </entry>
-  <entry>
-    <title>Grandmaster Improvisations</title>
-    <link href="https://wobuzz.io/shows/grandmaster_improvisations_20260111_205841/"/>
-    <id>https://wobuzz.io/shows/grandmaster_improvisations_20260111_205841/</id>
-    <updated>2026-01-11T19:58:41.799252Z</updated>
-    <summary>Investigating the profound link between the logic of Chess and the structure of Jazz. Exploring music as a strategic game of pattern recognition, featuring the stories of Anthony Braxton, Sun Ra, and Charlie Parker.</summary>
-  </entry>
-  <entry>
-    <title>Brigitte Psychédélique</title>
-    <link href="https://wobuzz.io/shows/brigitte_psychédélique_20260110_193711/"/>
-    <id>https://wobuzz.io/shows/brigitte_psychédélique_20260110_193711/</id>
-    <updated>2026-01-10T18:37:11.789651Z</updated>
-    <summary>A cosmic tribute to Brigitte Bardot (1934-2025), celebrating her psychedelic pop legacy and the swinging sounds of 1960s French yé-yé.</summary>
-  </entry>
-  <entry>
-    <title>The Zorchman's Psychobilly Special</title>
-    <link href="https://wobuzz.io/shows/the_zorchman_s_psychobilly_spe_20260109_193107/"/>
-    <id>https://wobuzz.io/shows/the_zorchman_s_psychobilly_spe_20260109_193107/</id>
-    <updated>2026-01-09T18:31:07.807349Z</updated>
-    <summary>A late-night journey through psychobilly's unholy origins - from the 1950s primal scream of The Phantom to the Klub Foot chaos of The Meteors. Featuring P. Paul Fenech's cult-leader charisma, the kinetic energy of the wrecking pit, and the strange Lynchian surrealism that defined a genre.</summary>
-  </entry>
-  <entry>
-    <title>The Melancholy Disciples</title>
-    <link href="https://wobuzz.io/shows/the_melancholy_disciples_20260108_190020/"/>
-    <id>https://wobuzz.io/shows/the_melancholy_disciples_20260108_190020/</id>
-    <updated>2026-01-08T18:00:20.980296Z</updated>
-    <summary>A journey through three generations of melancholy indie rock - from Johnny Marr's guitar revolution to The Cure's emotional mastery to The Twilight Sad's Scottish walls of sound</summary>
-  </entry>
-  <entry>
-    <title>Captain Beefheart Legacy: From Trout Mask to Swordfish</title>
-    <link href="https://wobuzz.io/shows/captain_beefheart_legacy__from_20260108_171632/"/>
-    <id>https://wobuzz.io/shows/captain_beefheart_legacy__from_20260108_171632/</id>
-    <updated>2026-01-08T16:16:32.544225Z</updated>
-    <summary>Tracing Don Van Vliet's avant-garde blueprint from Safe As Milk through Trout Mask Replica, and its direct influence on Tom Waits' Swordfishtrombones</summary>
-  </entry>
-  <entry>
-    <title>Circuit Dreams: The Architecture of Sound</title>
-    <link href="https://wobuzz.io/shows/circuit_dreams__the_architectu_20260107_200006/"/>
-    <id>https://wobuzz.io/shows/circuit_dreams__the_architectu_20260107_200006/</id>
-    <updated>2026-01-07T19:00:06.919770Z</updated>
-    <summary>A journey through experimental electronica, from Prefuse 73 to Boards of Canada and Flying Lotus.</summary>
-  </entry>
-  <entry>
-    <title>Nocturnal Dreams: A Chopin Journey</title>
-    <link href="https://wobuzz.io/shows/nocturnal_dreams__a_chopin_jou_20260106_124149/"/>
-    <id>https://wobuzz.io/shows/nocturnal_dreams__a_chopin_jou_20260106_124149/</id>
-    <updated>2026-01-06T11:41:49.250695Z</updated>
-    <summary>An intimate exploration of Frédéric Chopin's nocturnes, those moonlit masterpieces that transformed the piano into a vessel for pure emotion. Performed by Adam Harasiewicz, winner of the 1955 International Chopin Piano Competition.</summary>
-  </entry>
-  <entry>
-    <title>Jazz Rock Revolution of the 70s</title>
-    <link href="https://wobuzz.io/shows/jazz_rock_revolution_of_the_70_20260105_225655/"/>
-    <id>https://wobuzz.io/shows/jazz_rock_revolution_of_the_70_20260105_225655/</id>
-    <updated>2026-01-05T21:56:55.804181Z</updated>
-    <summary>A journey through the explosive 1970s fusion movement where jazz improvisation collided with rock energy, funk rhythms, and electronic experimentation. From Miles Davis' electric breakthrough to the virtuoso fireworks of Mahavishnu Orchestra and Return to Forever.</summary>
-  </entry>
-  <entry>
-    <title>Spatial Minimalism</title>
-    <link href="https://wobuzz.io/shows/spatial_minimalism_20260105_205327/"/>
-    <id>https://wobuzz.io/shows/spatial_minimalism_20260105_205327/</id>
-    <updated>2026-01-05T19:53:28.098745Z</updated>
-    <summary>Italian electronic pioneer Roberto Cacciapaglia alongside Terry Riley, Suzanne Ciani, and other minimalist masters exploring the boundaries of ambient soundscapes</summary>
-  </entry>
-  <entry>
-    <title>Japanese Fusion: East Meets West in Sound</title>
-    <link href="https://wobuzz.io/shows/japanese_fusion__east_meets_we_20260104_154152/"/>
-    <id>https://wobuzz.io/shows/japanese_fusion__east_meets_we_20260104_154152/</id>
-    <updated>2026-01-04T14:41:52.144303Z</updated>
-    <summary>A sonic journey through Japan's groundbreaking fusion movement of the 1970s and early 80s, where traditional Japanese sensibilities merged with American jazz, funk, and electronic experimentation. Featuring Hiroshi Suzuki, Ryo Kawasaki, Jun Fukamachi, Haruomi Hosono, and other pioneers who created a</summary>
-  </entry>
-  <entry>
-    <title>Kosmische Musik: A Journey Through Krautrock</title>
-    <link href="https://wobuzz.io/shows/kosmische_musik__a_journey_thr_20260103_191339/"/>
-    <id>https://wobuzz.io/shows/kosmische_musik__a_journey_thr_20260103_191339/</id>
-    <updated>2026-01-03T18:13:39.485709Z</updated>
-    <summary>An exploration of Germany's revolutionary 1970s rock scene, featuring motorik rhythms, cosmic explorations, and avant-garde experimentation from the pioneers who changed music forever.</summary>
-  </entry>
-  <entry>
-    <title>Duende - The Soul of Flamenco</title>
-    <link href="https://wobuzz.io/shows/duende___the_soul_of_flamenco_20260102_004910/"/>
-    <id>https://wobuzz.io/shows/duende___the_soul_of_flamenco_20260102_004910/</id>
-    <updated>2026-01-01T23:49:10.671463Z</updated>
-    <summary>A passionate journey through flamenco music featuring legendary artists Paco de Lucia, Camaron de la Isla, Ketama, and Carlos Heredia. From traditional forms to nuevo flamenco, experience the duende - that inexplicable magic that transforms sound into pure emotion.</summary>
-  </entry>
-  <entry>
-    <title>Black President: The Revolutionary Sound of Fela Kuti</title>
-    <link href="https://wobuzz.io/shows/black_president__the_revolutio_20260102_001631/"/>
-    <id>https://wobuzz.io/shows/black_president__the_revolutio_20260102_001631/</id>
-    <updated>2026-01-01T23:16:31.977194Z</updated>
-    <summary>A celebration of Fela Anikulapo Kuti, the Nigerian musician who invented Afrobeat and used his music as a weapon against corruption and military dictatorship. This show explores his incredible journey from London jazz student to Africa's most challenging and charismatic performer.</summary>
-  </entry>
-  <entry>
-    <title>Brazilian Heat</title>
-    <link href="https://wobuzz.io/shows/brazilian_heat_20260101_224021/"/>
-    <id>https://wobuzz.io/shows/brazilian_heat_20260101_224021/</id>
-    <updated>2026-01-01T21:40:21.797236Z</updated>
-    <summary></summary>
-  </entry>
-  <entry>
-    <title>Free Spirit Jazz</title>
-    <link href="https://wobuzz.io/shows/free_spirit_jazz_20260101_221023/"/>
-    <id>https://wobuzz.io/shows/free_spirit_jazz_20260101_221023/</id>
-    <updated>2026-01-01T21:10:23.040155Z</updated>
-    <summary></summary>
-  </entry>
-  <entry>
-    <title>Latin Jazz Corner</title>
-    <link href="https://wobuzz.io/shows/latin_jazz_corner_20260101_214943/"/>
-    <id>https://wobuzz.io/shows/latin_jazz_corner_20260101_214943/</id>
-    <updated>2026-01-01T20:49:43.678120Z</updated>
-    <summary>The fiery rhythms of Latin jazz, blending Afro-Cuban percussion with bebop sophistication.</summary>
-  </entry>
-  <entry>
-    <title>Modal Masters</title>
-    <link href="https://wobuzz.io/shows/modal_masters_20260101_213809/"/>
-    <id>https://wobuzz.io/shows/modal_masters_20260101_213809/</id>
-    <updated>2026-01-01T20:38:09.502342Z</updated>
-    <summary>A celebration of the golden age of jazz innovation, from bebop pioneers to spiritual jazz explorers.</summary>
-  </entry>
-  <entry>
-    <title>The Genius of Bach</title>
-    <link href="https://wobuzz.io/shows/the_genius_of_bach_20260101_210120/"/>
-    <id>https://wobuzz.io/shows/the_genius_of_bach_20260101_210120/</id>
-    <updated>2026-01-01T20:01:20.256581Z</updated>
-    <summary>A journey through Bach's most profound keyboard works, featuring legendary performances by Glenn Gould and Rosalyn Tureck.</summary>
-  </entry>
-  <entry>
-    <title>Indie in 2000 (Cartesia Edition)</title>
-    <link href="https://wobuzz.io/shows/indie_in_2000__cartesia_editio_20260101_192400/"/>
-    <id>https://wobuzz.io/shows/indie_in_2000__cartesia_editio_20260101_192400/</id>
-    <updated>2026-01-01T18:24:00.925140Z</updated>
-    <summary>Exploring the indie rock explosion at the turn of the millennium with essential tracks from the year 2000.</summary>
-  </entry>
-</feed>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>RDIO Radio Shows</title>
+    <link>https://wobuzz.io</link>
+    <description>Curated radio shows with themed music and AI-generated presentations</description>
+    <language>en-us</language>
+    <atom:link href="https://wobuzz.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <lastBuildDate>Sat, 30 May 2026 19:14:05 GMT</lastBuildDate>
+    <generator>RDIO Radio Show Generator</generator>
+
+    
+    
+    <item>
+      <title>Test Show</title>
+      <link>https://wobuzz.io/shows/test_show_20260530_211405/</link>
+      <guid isPermaLink="true">https://wobuzz.io/shows/test_show_20260530_211405/</guid>
+      <pubDate>Sat, 30 May 2026 19:14:05 GMT</pubDate>
+
+      <description><![CDATA[
+        
+        <p>A test radio show</p>
+        
+
+        
+
+        
+        <p><strong>Tags:</strong> jazz, test</p>
+        
+
+        
+      ]]></description>
+
+      
+      <enclosure url="https://www.mixcloud.com/user/test/" type="audio/mpeg" length="0"/>
+      
+
+      
+      <itunes:image href="https://wobuzz.io/shows/test_show_20260530_211405/cover.jpg"/>
+      
+
+      
+      
+      <category>jazz</category>
+      
+      <category>test</category>
+      
+      
+
+      <itunes:author>RDIO</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      
+    </item>
+    
+    <item>
+      <title>The Architecture of the Loft</title>
+      <link>https://wobuzz.io/shows/the_architecture_of_the_loft_20260212_194855/</link>
+      <guid isPermaLink="true">https://wobuzz.io/shows/the_architecture_of_the_loft_20260212_194855/</guid>
+      <pubDate>Thu, 12 Feb 2026 18:48:55 GMT</pubDate>
+
+      <description><![CDATA[
+        
+        <p>A deep dive into the interconnected Chicago underground of the 1990s and beyond, where the lines between jazz, minimalism, and electronic textures dissolved in the heat of warehouse collaboration.</p>
+        
+
+        
+        <p><strong>Series:</strong> fusion-frontiers</p>
+        
+
+        
+        <p><strong>Tags:</strong> jazz-rock, fusion, chicago, improv, thrill-jockey, experimental, minimalism, jazz</p>
+        
+
+        
+        <h3>Tracklist:</h3>
+        <ol>
+        
+          <li>
+            <strong>Tortoise</strong> - TNT
+             (TNT, 1998)
+          </li>
+        
+          <li>
+            <strong>Isotope 217</strong> - Beneath The Undertow
+             (The Unstable Molecule, 1997)
+          </li>
+        
+          <li>
+            <strong>Tortoise</strong> - Glass Museum
+             (Millions Now Living Will Never Die, 1996)
+          </li>
+        
+          <li>
+            <strong>Rob Mazurek Quintet</strong> - As If An Angel Fell From The Sky
+             (Sound Is, 2009)
+          </li>
+        
+          <li>
+            <strong>Jeff Parker</strong> - La Jetée
+             (Forfolks, 2021)
+          </li>
+        
+          <li>
+            <strong>Tortoise</strong> - Swung From the Gutters
+             (TNT, 1998)
+          </li>
+        
+          <li>
+            <strong>Makaya McCraven feat. Jeff Parker</strong> - Turtle Tricks
+             (Universal Beings, 2018)
+          </li>
+        
+          <li>
+            <strong>Tortoise</strong> - Along The Bank Of Rivers
+             (Millions Now Living Will Never Die, 1996)
+          </li>
+        
+        </ol>
+        
+      ]]></description>
+
+      
+      <enclosure url="https://www.mixcloud.com/wobuzz/the-architecture-of-the-loft/" type="audio/mpeg" length="0"/>
+      
+
+      
+      <itunes:image href="https://wobuzz.io/shows/the_architecture_of_the_loft_20260212_194855/cover.jpg"/>
+      
+
+      
+      
+      <category>jazz-rock</category>
+      
+      <category>fusion</category>
+      
+      <category>chicago</category>
+      
+      <category>improv</category>
+      
+      <category>thrill-jockey</category>
+      
+      <category>experimental</category>
+      
+      <category>minimalism</category>
+      
+      <category>jazz</category>
+      
+      
+
+      <itunes:author>RDIO</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      
+      <itunes:duration>1440</itunes:duration>
+      
+    </item>
+    
+    <item>
+      <title>Jazzmatazz &amp; Beyond Vol. 1</title>
+      <link>https://wobuzz.io/shows/jazzmatazz___beyond_vol__1_20260203_210103/</link>
+      <guid isPermaLink="true">https://wobuzz.io/shows/jazzmatazz___beyond_vol__1_20260203_210103/</guid>
+      <pubDate>Tue, 03 Feb 2026 20:01:04 GMT</pubDate>
+
+      <description><![CDATA[
+        
+        <p>A journey through the jazz-hip hop lineage, from Guru&#39;s revolutionary 1993 sessions with jazz royalty, through Madlib&#39;s Blue Note explorations and Nujabes&#39; Tokyo meditations, to the Brainfeeder generation and London&#39;s new wave. The story of a family reunion that never ended.</p>
+        
+
+        
+        <p><strong>Series:</strong> jazz-hip-hop</p>
+        
+
+        
+        <p><strong>Tags:</strong> madlib, nujabes, flying lotus, jazzmatazz, beats, guru, jazz rap, de la soul, jazz, fusion, hip-hop, jazz fusion, thundercat</p>
+        
+
+        
+        <h3>Tracklist:</h3>
+        <ol>
+        
+          <li>
+            <strong>Guru feat. Donald Byrd</strong> - Loungin&#39;
+             (Jazzmatazz Volume 1, 1993)
+          </li>
+        
+          <li>
+            <strong>Guru feat. Branford Marsalis</strong> - Transit Ride
+             (Jazzmatazz Volume 1, 1993)
+          </li>
+        
+          <li>
+            <strong>De La Soul</strong> - Breakadawn
+             (Buhloone Mindstate, 1993)
+          </li>
+        
+          <li>
+            <strong>De La Soul</strong> - I Am I Be
+             (Buhloone Mindstate, 1993)
+          </li>
+        
+          <li>
+            <strong>Guru feat. Roy Ayers</strong> - Take a Look (At Yourself)
+             (Jazzmatazz Volume 1, 1993)
+          </li>
+        
+          <li>
+            <strong>Madlib</strong> - Slim&#39;s Return
+             (Shades of Blue: Madlib Invades Blue Note, 2003)
+          </li>
+        
+          <li>
+            <strong>Madlib</strong> - Mystic Bounce
+             (Shades of Blue: Madlib Invades Blue Note, 2003)
+          </li>
+        
+          <li>
+            <strong>Nujabes feat. Cise Starr &amp; Akin</strong> - Feather
+             (Modal Soul, 2005)
+          </li>
+        
+          <li>
+            <strong>Nujabes</strong> - Reflection Eternal
+             (Modal Soul, 2005)
+          </li>
+        
+          <li>
+            <strong>Flying Lotus feat. Kendrick Lamar</strong> - Never Catch Me
+             (You&#39;re Dead!, 2014)
+          </li>
+        
+          <li>
+            <strong>Thundercat</strong> - Oh Sheit It&#39;s X
+             (Apocalypse, 2013)
+          </li>
+        
+          <li>
+            <strong>Thundercat</strong> - Them Changes
+             (The Beyond / Where the Giants Roam, 2015)
+          </li>
+        
+          <li>
+            <strong>Flying Lotus</strong> - Coronus, The Terminator
+             (You&#39;re Dead!, 2014)
+          </li>
+        
+          <li>
+            <strong>Tom Misch &amp; Yussef Dayes</strong> - What Kinda Music
+             (What Kinda Music, 2020)
+          </li>
+        
+          <li>
+            <strong>Tom Misch &amp; Yussef Dayes feat. Freddie Gibbs</strong> - Nightrider
+             (What Kinda Music, 2020)
+          </li>
+        
+          <li>
+            <strong>Thundercat</strong> - Dragonball Durag
+             (It Is What It Is, 2020)
+          </li>
+        
+          <li>
+            <strong>De La Soul</strong> - Ring Ring Ring (Ha Ha Hey)
+             (De La Soul Is Dead, 1991)
+          </li>
+        
+          <li>
+            <strong>Madlib</strong> - Stepping Into Tomorrow
+             (Shades of Blue: Madlib Invades Blue Note, 2003)
+          </li>
+        
+          <li>
+            <strong>Nujabes</strong> - Horizon
+             (Modal Soul, 2005)
+          </li>
+        
+        </ol>
+        
+      ]]></description>
+
+      
+      <enclosure url="https://www.mixcloud.com/wobuzz/jazzmatazz-beyond-vol-1/" type="audio/mpeg" length="0"/>
+      
+
+      
+      <itunes:image href="https://wobuzz.io/shows/jazzmatazz___beyond_vol__1_20260203_210103/cover.jpg"/>
+      
+
+      
+      
+      <category>madlib</category>
+      
+      <category>nujabes</category>
+      
+      <category>flying lotus</category>
+      
+      <category>jazzmatazz</category>
+      
+      <category>beats</category>
+      
+      <category>guru</category>
+      
+      <category>jazz rap</category>
+      
+      <category>de la soul</category>
+      
+      <category>jazz</category>
+      
+      <category>fusion</category>
+      
+      <category>hip-hop</category>
+      
+      <category>jazz fusion</category>
+      
+      <category>thundercat</category>
+      
+      
+
+      <itunes:author>RDIO</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      
+      <itunes:duration>3420</itunes:duration>
+      
+    </item>
+    
+    <item>
+      <title>Fuego Latino: A Journey Through Latin Soul, Jazz &amp; Rhythm</title>
+      <link>https://wobuzz.io/shows/fuego_latino__a_journey_throug_20260131_224951/</link>
+      <guid isPermaLink="true">https://wobuzz.io/shows/fuego_latino__a_journey_throug_20260131_224951/</guid>
+      <pubDate>Sat, 31 Jan 2026 21:49:51 GMT</pubDate>
+
+      <description><![CDATA[
+        
+        <p>From the Afro-Cuban jazz pioneers of 1940s Harlem to the Buena Vista Social Club&#39;s Havana revival, this show traces the pulse of Latin music through three explosive decades. Featuring Machito, Cal Tjader, Eddie Palmieri, Willie Bobo, Pucho, Bobby Paunetto, Joe Bataan, Jorge Ben, Tito Puente, and the Buena Vista Social Club.</p>
+        
+
+        
+        <p><strong>Series:</strong> latin-jazz-corner</p>
+        
+
+        
+        <p><strong>Tags:</strong> boogaloo, mambo, brazilian, afro-cuban, latin soul, salsa, latin jazz</p>
+        
+
+        
+        <h3>Tracklist:</h3>
+        <ol>
+        
+          <li>
+            <strong>Machito &amp; His Afro-Cubans</strong> - Tremendo Cumban
+             (Tremendo Cumban, 1954)
+          </li>
+        
+          <li>
+            <strong>Cal Tjader</strong> - Soul Sauce (Guachi Guaro)
+             (Soul Sauce, 1964)
+          </li>
+        
+          <li>
+            <strong>Eddie Palmieri and His Conjunto</strong> - Conmigo
+             (La Perfecta, 1962)
+          </li>
+        
+          <li>
+            <strong>Willie Bobo</strong> - Spanish Grease
+             (Spanish Grease, 1965)
+          </li>
+        
+          <li>
+            <strong>Pucho &amp; The Latin Soul Brothers</strong> - Psychedelic Pucho
+             (Heat!, 1968)
+          </li>
+        
+          <li>
+            <strong>Bobby Paunetto</strong> - Paunetto&#39;s Point
+             (Paunetto&#39;s Point, 1974)
+          </li>
+        
+          <li>
+            <strong>Joe Bataan</strong> - Latin Strut
+             (Salsoul, 1973)
+          </li>
+        
+          <li>
+            <strong>Jorge Ben</strong> - Ponta de Lanca Africano (Umbabarauma)
+             (Africa Brasil, 1976)
+          </li>
+        
+          <li>
+            <strong>Tito Puente</strong> - Oye Como Va
+             (Golden Latin Jazz All Stars - Pori 1994, 1994)
+          </li>
+        
+          <li>
+            <strong>Buena Vista Social Club</strong> - Chan Chan
+             (Buena Vista Social Club, 1997)
+          </li>
+        
+        </ol>
+        
+      ]]></description>
+
+      
+      <enclosure url="https://www.mixcloud.com/wobuzz/fuego-latino-a-journey-through-latin-soul-jazz-rhythm/" type="audio/mpeg" length="0"/>
+      
+
+      
+      <itunes:image href="https://wobuzz.io/shows/fuego_latino__a_journey_throug_20260131_224951/cover.png"/>
+      
+
+      
+      
+      <category>boogaloo</category>
+      
+      <category>mambo</category>
+      
+      <category>brazilian</category>
+      
+      <category>afro-cuban</category>
+      
+      <category>latin soul</category>
+      
+      <category>salsa</category>
+      
+      <category>latin jazz</category>
+      
+      
+
+      <itunes:author>RDIO</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      
+      <itunes:duration>1800</itunes:duration>
+      
+    </item>
+    
+    <item>
+      <title>Quiet Village: The Exotica Dream</title>
+      <link>https://wobuzz.io/shows/quiet_village__the_exotica_dre_20260120_235016/</link>
+      <guid isPermaLink="true">https://wobuzz.io/shows/quiet_village__the_exotica_dre_20260120_235016/</guid>
+      <pubDate>Tue, 20 Jan 2026 22:50:16 GMT</pubDate>
+
+      <description><![CDATA[
+        
+        <p>Three sonic architects craft imaginary islands from Hollywood studios—Les Baxter&#39;s orchestral jungles, Martin Denny&#39;s bullfrog serenades, Arthur Lyman&#39;s vibraphone twilights. Post-war suburban escapism crystallized in stereo.</p>
+        
+
+        
+        <p><strong>Series:</strong> weekend-vibes</p>
+        
+
+        
+        <p><strong>Tags:</strong> arthur lyman, lounge, les baxter, vintage, exotica, chill, 1950s, martin denny, weekend, relaxing, tiki</p>
+        
+
+        
+        <h3>Tracklist:</h3>
+        <ol>
+        
+          <li>
+            <strong>Les Baxter</strong> - Quiet Village
+             (The Exotic Moods Of Les Baxter, 1996)
+          </li>
+        
+          <li>
+            <strong>Les Baxter</strong> - Congo Train
+             (African Jazz / Jungle Jazz, 2010)
+          </li>
+        
+          <li>
+            <strong>Les Baxter</strong> - Mombassa After Midnight
+             (South Pacific / African Jazz, 1958)
+          </li>
+        
+          <li>
+            <strong>Martin Denny</strong> - Quiet Village
+             (Exotica, 1957)
+          </li>
+        
+          <li>
+            <strong>Martin Denny</strong> - Busy Port
+             (Exotica, 1957)
+          </li>
+        
+          <li>
+            <strong>Martin Denny</strong> - Hong Kong Blues
+             (Exotica, 1957)
+          </li>
+        
+          <li>
+            <strong>Arthur Lyman</strong> - Quiet Village
+             (Eight Classic Albums CD3, 2012)
+          </li>
+        
+          <li>
+            <strong>Arthur Lyman</strong> - Bamboo
+             (Eight Classic Albums CD3, 2012)
+          </li>
+        
+          <li>
+            <strong>Arthur Lyman</strong> - Cubana Chant
+             (Eight Classic Albums CD3, 2012)
+          </li>
+        
+        </ol>
+        
+      ]]></description>
+
+      
+      <enclosure url="https://www.mixcloud.com/wobuzz/quiet-village-the-exotica-dream/" type="audio/mpeg" length="0"/>
+      
+
+      
+      <itunes:image href="https://wobuzz.io/shows/quiet_village__the_exotica_dre_20260120_235016/cover.jpg"/>
+      
+
+      
+      
+      <category>arthur lyman</category>
+      
+      <category>lounge</category>
+      
+      <category>les baxter</category>
+      
+      <category>vintage</category>
+      
+      <category>exotica</category>
+      
+      <category>chill</category>
+      
+      <category>1950s</category>
+      
+      <category>martin denny</category>
+      
+      <category>weekend</category>
+      
+      <category>relaxing</category>
+      
+      <category>tiki</category>
+      
+      
+
+      <itunes:author>RDIO</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      
+      <itunes:duration>1620</itunes:duration>
+      
+    </item>
+    
+    <item>
+      <title>Bristol Dusk Downtempo</title>
+      <link>https://wobuzz.io/shows/bristol_dusk_downtempo_20260120_235014/</link>
+      <guid isPermaLink="true">https://wobuzz.io/shows/bristol_dusk_downtempo_20260120_235014/</guid>
+      <pubDate>Tue, 20 Jan 2026 22:50:14 GMT</pubDate>
+
+      <description><![CDATA[
+        
+        <p>Hazy trip-hop from Bristol&#39;s golden era—Massive Attack&#39;s dub echoes, Portishead&#39;s noir soul, and the downtempo waves that defined the 90s.</p>
+        
+
+        
+        <p><strong>Series:</strong> weekend-vibes</p>
+        
+
+        
+        <p><strong>Tags:</strong> weekend, trip-hop, portishead, massive attack, bristol, relaxing, chill, downtempo</p>
+        
+
+        
+        <h3>Tracklist:</h3>
+        <ol>
+        
+          <li>
+            <strong>Massive Attack</strong> - Teardrop
+             (Mezzanine, 1998)
+          </li>
+        
+          <li>
+            <strong>Portishead</strong> - Glory Box
+             (Dummy, 1994)
+          </li>
+        
+          <li>
+            <strong>Hooverphonic</strong> - Inhaler
+             (A New Stereophonic Sound Spectacular, 1996)
+          </li>
+        
+          <li>
+            <strong>Massive Attack</strong> - Angel
+             (Mezzanine, 1998)
+          </li>
+        
+          <li>
+            <strong>Portishead</strong> - Wandering Star
+             (Dummy, 1994)
+          </li>
+        
+          <li>
+            <strong>Thievery Corporation</strong> - 2001 Spliff Odyssey
+             (Sounds From The Thievery Hi-Fi, 1997)
+          </li>
+        
+          <li>
+            <strong>Lamb</strong> - Trans Fatty Acid (K&amp;D Session)
+             (The K&amp;D Sessions, 1998)
+          </li>
+        
+          <li>
+            <strong>Portishead</strong> - Cowboys
+             (Portishead, 1997)
+          </li>
+        
+          <li>
+            <strong>Massive Attack</strong> - Inertia Creeps
+             (Mezzanine, 1998)
+          </li>
+        
+        </ol>
+        
+      ]]></description>
+
+      
+      <enclosure url="https://www.mixcloud.com/wobuzz/bristol-dusk-downtempo/" type="audio/mpeg" length="0"/>
+      
+
+      
+      <itunes:image href="https://wobuzz.io/shows/bristol_dusk_downtempo_20260120_235014/cover.jpg"/>
+      
+
+      
+      
+      <category>weekend</category>
+      
+      <category>trip-hop</category>
+      
+      <category>portishead</category>
+      
+      <category>massive attack</category>
+      
+      <category>bristol</category>
+      
+      <category>relaxing</category>
+      
+      <category>chill</category>
+      
+      <category>downtempo</category>
+      
+      
+
+      <itunes:author>RDIO</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      
+      <itunes:duration>1620</itunes:duration>
+      
+    </item>
+    
+    <item>
+      <title>Desert Sessions Vol. 2: Generator Parties</title>
+      <link>https://wobuzz.io/shows/desert_sessions_vol__2__genera_20260120_235012/</link>
+      <guid isPermaLink="true">https://wobuzz.io/shows/desert_sessions_vol__2__genera_20260120_235012/</guid>
+      <pubDate>Tue, 20 Jan 2026 22:50:12 GMT</pubDate>
+
+      <description><![CDATA[
+        
+        <p>A journey through the sun-baked, fuzz-drenched world of desert rock — from the illegal generator parties of Palm Desert to the modern psychedelic revival. This episode explores the origins of the genre, the breakthrough of Songs for the Deaf, and Josh Homme&#39;s resurrection after his near-death experience.</p>
+        
+
+        
+        <p><strong>Series:</strong> desert-sessions</p>
+        
+
+        
+        <p><strong>Tags:</strong> generator parties, heavy psych, desert rock, palm desert, stoner rock</p>
+        
+
+        
+        <h3>Tracklist:</h3>
+        <ol>
+        
+          <li>
+            <strong>Queens of the Stone Age</strong> - Feel Good Hit of the Summer
+             (Rated R, 2000)
+          </li>
+        
+          <li>
+            <strong>Fu Manchu</strong> - Godzilla
+             ((Godzilla&#39;s) Eatin&#39; Dust, 2004)
+          </li>
+        
+          <li>
+            <strong>All Them Witches</strong> - El Centro
+             (Dying Surfer Meets His Maker, 2015)
+          </li>
+        
+          <li>
+            <strong>Kadavar</strong> - Black Sun
+             (Kadavar, 2012)
+          </li>
+        
+          <li>
+            <strong>Queens of the Stone Age</strong> - Go With The Flow
+             (Songs For The Deaf, 2002)
+          </li>
+        
+          <li>
+            <strong>Mastodon</strong> - The Wolf Is Loose
+             (Blood Mountain, 2006)
+          </li>
+        
+          <li>
+            <strong>Fu Manchu</strong> - Land of Giants
+             (We Must Obey, 2007)
+          </li>
+        
+          <li>
+            <strong>Monster Magnet</strong> - Hallucination Bomb
+             (Mastermind, 2010)
+          </li>
+        
+          <li>
+            <strong>All Them Witches</strong> - Bulls
+             (Sleeping Through the War, 2017)
+          </li>
+        
+          <li>
+            <strong>Kadavar</strong> - Doomsday Machine
+             (Abra Kadavar, 2013)
+          </li>
+        
+          <li>
+            <strong>Mastodon</strong> - Divinations
+             (Crack The Skye, 2009)
+          </li>
+        
+          <li>
+            <strong>Fu Manchu</strong> - Clone of the Universe
+             (Clone of the Universe, 2018)
+          </li>
+        
+          <li>
+            <strong>Queens of the Stone Age</strong> - My God Is the Sun
+             (…Like Clockwork, 2013)
+          </li>
+        
+          <li>
+            <strong>Monster Magnet</strong> - Bored with Sorcery
+             (Mastermind, 2010)
+          </li>
+        
+          <li>
+            <strong>All Them Witches</strong> - Saturnine &amp; Iron Jaw
+             (Nothing as the Ideal, 2020)
+          </li>
+        
+          <li>
+            <strong>Kadavar</strong> - Into the Wormhole
+             (Rough Times, 2017)
+          </li>
+        
+          <li>
+            <strong>Mastodon</strong> - Capillarian Crest
+             (Blood Mountain, 2006)
+          </li>
+        
+        </ol>
+        
+      ]]></description>
+
+      
+      <enclosure url="https://www.mixcloud.com/wobuzz/desert-sessions-vol-2-generator-parties/" type="audio/mpeg" length="0"/>
+      
+
+      
+      <itunes:image href="https://wobuzz.io/shows/desert_sessions_vol__2__genera_20260120_235012/cover.jpg"/>
+      
+
+      
+      
+      <category>generator parties</category>
+      
+      <category>heavy psych</category>
+      
+      <category>desert rock</category>
+      
+      <category>palm desert</category>
+      
+      <category>stoner rock</category>
+      
+      
+
+      <itunes:author>RDIO</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      
+      <itunes:duration>3060</itunes:duration>
+      
+    </item>
+    
+    <item>
+      <title>Electric Strings: A Tribute to Michal Urbaniak</title>
+      <link>https://wobuzz.io/shows/electric_strings__a_tribute_to_20260120_235009/</link>
+      <guid isPermaLink="true">https://wobuzz.io/shows/electric_strings__a_tribute_to_20260120_235009/</guid>
+      <pubDate>Tue, 20 Jan 2026 22:50:09 GMT</pubDate>
+
+      <description><![CDATA[
+        
+        <p>An extended memorial tribute to the Polish electric violin pioneer Michal Urbaniak (1943-2025), exploring his legacy alongside Jean-Luc Ponty, Jerry Goodman, and the fusion violinists who transformed the instrument.</p>
+        
+
+        
+        <p><strong>Series:</strong> jazz-frontiers</p>
+        
+
+        
+        <p><strong>Tags:</strong> jazz, violin, tribute, electric violin, polish jazz, experimental, avant-garde, memorial, fusion</p>
+        
+
+        
+        <h3>Tracklist:</h3>
+        <ol>
+        
+          <li>
+            <strong>Jean-Luc Ponty &amp; Michal Urbaniak</strong> - Astrorama
+             (New Violin Summit, 1971)
+          </li>
+        
+          <li>
+            <strong>Michal Urbaniak&#39;s Fusion</strong> - New York Batsa
+             (Atma, 1974)
+          </li>
+        
+          <li>
+            <strong>Mahavishnu Orchestra</strong> - Birds Of Fire
+             (Birds Of Fire, 1973)
+          </li>
+        
+          <li>
+            <strong>Michal Urbaniak&#39;s Fusion</strong> - Smiles Ahead
+             (Smiles Ahead, 1977)
+          </li>
+        
+          <li>
+            <strong>Michal Urbaniak</strong> - Watermelon Man
+             (Urbanator, 1994)
+          </li>
+        
+        </ol>
+        
+      ]]></description>
+
+      
+      <enclosure url="https://www.mixcloud.com/wobuzz/electric-strings-a-tribute-to-michal-urbaniak/" type="audio/mpeg" length="0"/>
+      
+
+      
+      <itunes:image href="https://wobuzz.io/shows/electric_strings__a_tribute_to_20260120_235009/cover.jpg"/>
+      
+
+      
+      
+      <category>jazz</category>
+      
+      <category>violin</category>
+      
+      <category>tribute</category>
+      
+      <category>electric violin</category>
+      
+      <category>polish jazz</category>
+      
+      <category>experimental</category>
+      
+      <category>avant-garde</category>
+      
+      <category>memorial</category>
+      
+      <category>fusion</category>
+      
+      
+
+      <itunes:author>RDIO</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      
+      <itunes:duration>900</itunes:duration>
+      
+    </item>
+    
+    <item>
+      <title>Slavic Passions</title>
+      <link>https://wobuzz.io/shows/slavic_passions_20260120_235007/</link>
+      <guid isPermaLink="true">https://wobuzz.io/shows/slavic_passions_20260120_235007/</guid>
+      <pubDate>Tue, 20 Jan 2026 22:50:07 GMT</pubDate>
+
+      <description><![CDATA[
+        
+        <p>A journey through the emotional intensity of Eastern European masters - from the rivers of Bohemia to wartime Moscow</p>
+        
+
+        
+        <p><strong>Series:</strong> symphony-evenings</p>
+        
+
+        
+        <p><strong>Tags:</strong> classical, russian, symphony, czech, orchestral, romantic</p>
+        
+
+        
+        <h3>Tracklist:</h3>
+        <ol>
+        
+          <li>
+            <strong>Bedrich Smetana</strong> - Vltava (The Moldau)
+             (Ma Vlast)
+          </li>
+        
+          <li>
+            <strong>Antonin Dvorak</strong> - Symphony No. 9 &#39;New World&#39; - II. Largo
+             (Symphony No. 9)
+          </li>
+        
+          <li>
+            <strong>Pyotr Ilyich Tchaikovsky</strong> - Symphony No. 5 - II. Andante cantabile
+             (Symphony No. 5)
+          </li>
+        
+          <li>
+            <strong>Nikolai Rimsky-Korsakov</strong> - Scheherazade - I. The Sea and Sinbad&#39;s Ship
+             (Scheherazade)
+          </li>
+        
+          <li>
+            <strong>Sergei Prokofiev</strong> - Symphony No. 5 - III. Adagio
+             (Symphony No. 5)
+          </li>
+        
+        </ol>
+        
+      ]]></description>
+
+      
+      <enclosure url="https://www.mixcloud.com/wobuzz/slavic-passions/" type="audio/mpeg" length="0"/>
+      
+
+      
+      <itunes:image href="https://wobuzz.io/shows/slavic_passions_20260120_235007/cover.jpg"/>
+      
+
+      
+      
+      <category>classical</category>
+      
+      <category>russian</category>
+      
+      <category>symphony</category>
+      
+      <category>czech</category>
+      
+      <category>orchestral</category>
+      
+      <category>romantic</category>
+      
+      
+
+      <itunes:author>RDIO</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      
+      <itunes:duration>900</itunes:duration>
+      
+    </item>
+    
+    <item>
+      <title>Sacred Echoes: 800 Years of Spiritual Music</title>
+      <link>https://wobuzz.io/shows/sacred_echoes__800_years_of_sp_20260120_235005/</link>
+      <guid isPermaLink="true">https://wobuzz.io/shows/sacred_echoes__800_years_of_sp_20260120_235005/</guid>
+      <pubDate>Tue, 20 Jan 2026 22:50:05 GMT</pubDate>
+
+      <description><![CDATA[
+        
+        <p>A journey from medieval monks to Bach—800 years of sacred music spanning mystics, rebels, and mathematical geniuses.</p>
+        
+
+        
+        <p><strong>Series:</strong> symphony-evenings</p>
+        
+
+        
+        <p><strong>Tags:</strong> choral, carmina burana, sacred, classical, baroque, symphony, medieval, orchestral</p>
+        
+
+        
+        <h3>Tracklist:</h3>
+        <ol>
+        
+          <li>
+            <strong>J.S. Bach</strong> - Die Seel ruht in Jesu Händen
+             (Cantata BWV 127)
+          </li>
+        
+          <li>
+            <strong>Carl Orff</strong> - O Fortuna
+             (Carmina Burana)
+          </li>
+        
+          <li>
+            <strong>Carl Orff</strong> - In Taberna Quando Sumus
+             (Carmina Burana)
+          </li>
+        
+          <li>
+            <strong>J.S. Bach</strong> - Toccata in D minor, BWV 565
+             (Organ Works)
+          </li>
+        
+          <li>
+            <strong>J.S. Bach</strong> - Fugue in D minor, BWV 565
+             (Organ Works)
+          </li>
+        
+        </ol>
+        
+      ]]></description>
+
+      
+      <enclosure url="https://www.mixcloud.com/wobuzz/sacred-echoes-800-years-of-spiritual-music/" type="audio/mpeg" length="0"/>
+      
+
+      
+      <itunes:image href="https://wobuzz.io/shows/sacred_echoes__800_years_of_sp_20260120_235005/cover.jpg"/>
+      
+
+      
+      
+      <category>choral</category>
+      
+      <category>carmina burana</category>
+      
+      <category>sacred</category>
+      
+      <category>classical</category>
+      
+      <category>baroque</category>
+      
+      <category>symphony</category>
+      
+      <category>medieval</category>
+      
+      <category>orchestral</category>
+      
+      
+
+      <itunes:author>RDIO</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      
+      <itunes:duration>900</itunes:duration>
+      
+    </item>
+    
+    <item>
+      <title>African Legends: East African Fusion Flows</title>
+      <link>https://wobuzz.io/shows/african_legends__east_african__20260120_234546/</link>
+      <guid isPermaLink="true">https://wobuzz.io/shows/african_legends__east_african__20260120_234546/</guid>
+      <pubDate>Tue, 20 Jan 2026 22:45:47 GMT</pubDate>
+
+      <description><![CDATA[
+        
+        <p>1970s Ethio-jazz, Ugandan psych-rock, and Ethiopian azmari swing—featuring Mulatu Astatqé, Akira Ishikawa, and Mahmoud Ahmed.</p>
+        
+
+        
+        <p><strong>Series:</strong> african-legends</p>
+        
+
+        
+        <p><strong>Tags:</strong> afrobeat, fusion, ethiojazz, african, world, world music</p>
+        
+
+        
+        <h3>Tracklist:</h3>
+        <ol>
+        
+          <li>
+            <strong>Mulatu Astatqé</strong> - Chifara
+             (Mulatu Of Ethiopia, 1972)
+          </li>
+        
+          <li>
+            <strong>Mulatu Astatqé</strong> - Mulatu
+             (Mulatu Of Ethiopia, 1972)
+          </li>
+        
+          <li>
+            <strong>Mulatu Astatqé</strong> - Yekitir Tezeta
+             (Mulatu Astatke, 2005)
+          </li>
+        
+          <li>
+            <strong>Akira Ishikawa &amp; Count Buffalo</strong> - Na Tu Penda Sana
+             (Uganda (Dawn of African Rock), 1972)
+          </li>
+        
+          <li>
+            <strong>Akira Ishikawa &amp; Count Buffalo</strong> - Pigmy
+             (Uganda (Dawn of African Rock), 1972)
+          </li>
+        
+          <li>
+            <strong>Akira Ishikawa &amp; Count Buffalo</strong> - Vita
+             (Uganda (Dawn of African Rock), 1972)
+          </li>
+        
+          <li>
+            <strong>Mahmoud Ahmed</strong> - Yasdestal
+             (Ethiopiques 6 (Almaz))
+          </li>
+        
+          <li>
+            <strong>Mahmoud Ahmed</strong> - Feqer endegena
+             (Ethiopiques 6 (Almaz))
+          </li>
+        
+        </ol>
+        
+      ]]></description>
+
+      
+      <enclosure url="https://www.mixcloud.com/wobuzz/african-legends-east-african-fusion-flows-4/" type="audio/mpeg" length="0"/>
+      
+
+      
+      <itunes:image href="https://wobuzz.io/shows/african_legends__east_african__20260120_234546/cover.jpg"/>
+      
+
+      
+      
+      <category>afrobeat</category>
+      
+      <category>fusion</category>
+      
+      <category>ethiojazz</category>
+      
+      <category>african</category>
+      
+      <category>world</category>
+      
+      <category>world music</category>
+      
+      
+
+      <itunes:author>RDIO</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      
+      <itunes:duration>1440</itunes:duration>
+      
+    </item>
+    
+    <item>
+      <title>The Dreamer&#39;s Catalog</title>
+      <link>https://wobuzz.io/shows/the_dreamer_s_catalog_20260113_235510/</link>
+      <guid isPermaLink="true">https://wobuzz.io/shows/the_dreamer_s_catalog_20260113_235510/</guid>
+      <pubDate>Tue, 13 Jan 2026 22:55:10 GMT</pubDate>
+
+      <description><![CDATA[
+        
+        <p>A journey through artists who made visionary music that the world wasn&#39;t ready for - from Shuggie Otis&#39;s psychedelic soul to Lonnie Liston Smith&#39;s cosmic jazz to Marcos Resende&#39;s lost Brazilian masterpiece.</p>
+        
+
+        
+        <p><strong>Series:</strong> Hidden Frequencies</p>
+        
+
+        
+        <p><strong>Tags:</strong> jazz-funk, Brazilian jazz, lost album, reissue, psychedelic soul, soul, rare groove</p>
+        
+
+        
+        <h3>Tracklist:</h3>
+        <ol>
+        
+          <li>
+            <strong>Shuggie Otis</strong> - Strawberry Letter 23
+             (Inspiration Information, 1974)
+          </li>
+        
+          <li>
+            <strong>Shuggie Otis</strong> - Inspiration Information
+             (Inspiration Information, 1974)
+          </li>
+        
+          <li>
+            <strong>Lonnie Liston Smith &amp; The Cosmic Echoes</strong> - Expansions
+             (Expansions, 1975)
+          </li>
+        
+          <li>
+            <strong>Marcos Resende &amp; Index</strong> - Behind The Moon
+             (Marcos Resende &amp; Index, 1976)
+          </li>
+        
+          <li>
+            <strong>Lonnie Liston Smith</strong> - A Chance For Peace
+             (Visions Of A New World, 1975)
+          </li>
+        
+          <li>
+            <strong>Marcos Resende &amp; Index</strong> - Nergal
+             (Marcos Resende &amp; Index, 1976)
+          </li>
+        
+          <li>
+            <strong>Lonnie Liston Smith</strong> - Sunset
+             (Visions Of A New World, 1975)
+          </li>
+        
+          <li>
+            <strong>Marcos Resende &amp; Index</strong> - Praça da Alegria
+             (Marcos Resende &amp; Index, 1976)
+          </li>
+        
+          <li>
+            <strong>Shuggie Otis</strong> - Freedom Flight
+             (Freedom Flight, 1971)
+          </li>
+        
+        </ol>
+        
+      ]]></description>
+
+      
+      <enclosure url="https://www.mixcloud.com/wobuzz/the-dreamers-catalog/" type="audio/mpeg" length="0"/>
+      
+
+      
+      <itunes:image href="https://wobuzz.io/shows/the_dreamer_s_catalog_20260113_235510/cover.jpg"/>
+      
+
+      
+      
+      <category>jazz-funk</category>
+      
+      <category>Brazilian jazz</category>
+      
+      <category>lost album</category>
+      
+      <category>reissue</category>
+      
+      <category>psychedelic soul</category>
+      
+      <category>soul</category>
+      
+      <category>rare groove</category>
+      
+      
+
+      <itunes:author>RDIO</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      
+      <itunes:duration>1620</itunes:duration>
+      
+    </item>
+    
+    <item>
+      <title>Grandmaster Improvisations</title>
+      <link>https://wobuzz.io/shows/grandmaster_improvisations_20260111_205841/</link>
+      <guid isPermaLink="true">https://wobuzz.io/shows/grandmaster_improvisations_20260111_205841/</guid>
+      <pubDate>Sun, 11 Jan 2026 19:58:41 GMT</pubDate>
+
+      <description><![CDATA[
+        
+        <p>Investigating the profound link between the logic of Chess and the structure of Jazz. Exploring music as a strategic game of pattern recognition, featuring the stories of Anthony Braxton, Sun Ra, and Charlie Parker.</p>
+        
+
+        
+        <p><strong>Series:</strong> Jazz Frontiers</p>
+        
+
+        
+        <p><strong>Tags:</strong> improvisation, chess, logic, experimental, jazz, avant-garde</p>
+        
+
+        
+        <h3>Tracklist:</h3>
+        <ol>
+        
+          <li>
+            <strong>Anthony Braxton &amp; Joe Fonda</strong> - Composition 168+147
+             (Duets, 1995)
+          </li>
+        
+          <li>
+            <strong>Steve Coleman and Five Elements</strong> - The X Format
+             (Black Science, 1991)
+          </li>
+        
+          <li>
+            <strong>Charlie Parker &amp; Dizzy Gillespie</strong> - Bloomdido
+             (Bird and Diz, 1952)
+          </li>
+        
+          <li>
+            <strong>Max Roach</strong> - Three-Four vs. Six-Eight Four-Four Ways
+             (The Max Roach Trio feat. The Legendary Hasaan, 1965)
+          </li>
+        
+          <li>
+            <strong>Sun Ra</strong> - Tapestry From an Asteroid
+             (Transitions 3 - Chicago to NY, 2016)
+          </li>
+        
+        </ol>
+        
+      ]]></description>
+
+      
+      <enclosure url="https://www.mixcloud.com/wobuzz/grandmaster-improvisations/" type="audio/mpeg" length="0"/>
+      
+
+      
+      <itunes:image href="https://wobuzz.io/shows/grandmaster_improvisations_20260111_205841/cover.jpg"/>
+      
+
+      
+      
+      <category>improvisation</category>
+      
+      <category>chess</category>
+      
+      <category>logic</category>
+      
+      <category>experimental</category>
+      
+      <category>jazz</category>
+      
+      <category>avant-garde</category>
+      
+      
+
+      <itunes:author>RDIO</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      
+      <itunes:duration>900</itunes:duration>
+      
+    </item>
+    
+    <item>
+      <title>Brigitte Psychédélique</title>
+      <link>https://wobuzz.io/shows/brigitte_psychédélique_20260110_193711/</link>
+      <guid isPermaLink="true">https://wobuzz.io/shows/brigitte_psychédélique_20260110_193711/</guid>
+      <pubDate>Sat, 10 Jan 2026 18:37:11 GMT</pubDate>
+
+      <description><![CDATA[
+        
+        <p>A cosmic tribute to Brigitte Bardot (1934-2025), celebrating her psychedelic pop legacy and the swinging sounds of 1960s French yé-yé.</p>
+        
+
+        
+        <p><strong>Series:</strong> acid-kraut-cosmos</p>
+        
+
+        
+        <p><strong>Tags:</strong> tribute, krautrock, french pop, psychedelic, brigitte bardot, space rock, serge gainsbourg, yé-yé, 1960s</p>
+        
+
+        
+        <h3>Tracklist:</h3>
+        <ol>
+        
+          <li>
+            <strong>Brigitte Bardot</strong> - Contact
+             (Pop Psychédélique, 1967)
+          </li>
+        
+          <li>
+            <strong>France Gall</strong> - Poupée De Cire, Poupée De Son
+             (Pop Psychédélique, 1965)
+          </li>
+        
+          <li>
+            <strong>Anna Karina</strong> - Roller Girl
+             (Pop Psychédélique, 1967)
+          </li>
+        
+          <li>
+            <strong>Jacqueline Taïeb</strong> - 7 Heures Du Matin
+             (Pop Psychédélique, 1967)
+          </li>
+        
+          <li>
+            <strong>Brigitte Bardot</strong> - Bubble Gum
+             (Bonnie and Clyde, 1968)
+          </li>
+        
+          <li>
+            <strong>France Gall</strong> - Laisse Tomber Les Filles
+             (Pop Psychédélique, 1964)
+          </li>
+        
+          <li>
+            <strong>Gillian Hills</strong> - Tut Tut Tut Tut
+             (Pop Psychédélique, 1966)
+          </li>
+        
+          <li>
+            <strong>Serge Gainsbourg</strong> - Requiem Pour Un Con
+             (Pop Psychédélique, 1968)
+          </li>
+        
+          <li>
+            <strong>Brigitte Bardot</strong> - La Madrague
+             (Bonnie and Clyde, 1963)
+          </li>
+        
+          <li>
+            <strong>Zouzou</strong> - Tu Fais Partie Du Passé
+             (Pop Psychédélique, 1967)
+          </li>
+        
+          <li>
+            <strong>Brigitte Bardot &amp; Serge Gainsbourg</strong> - Bonnie and Clyde
+             (Bonnie and Clyde, 1968)
+          </li>
+        
+        </ol>
+        
+      ]]></description>
+
+      
+      <enclosure url="https://www.mixcloud.com/wobuzz/brigitte-psych%C3%A9d%C3%A9lique/" type="audio/mpeg" length="0"/>
+      
+
+      
+      <itunes:image href="https://wobuzz.io/shows/brigitte_psychédélique_20260110_193711/cover.jpg"/>
+      
+
+      
+      
+      <category>tribute</category>
+      
+      <category>krautrock</category>
+      
+      <category>french pop</category>
+      
+      <category>psychedelic</category>
+      
+      <category>brigitte bardot</category>
+      
+      <category>space rock</category>
+      
+      <category>serge gainsbourg</category>
+      
+      <category>yé-yé</category>
+      
+      <category>1960s</category>
+      
+      
+
+      <itunes:author>RDIO</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      
+      <itunes:duration>1980</itunes:duration>
+      
+    </item>
+    
+    <item>
+      <title>The Zorchman&#39;s Psychobilly Special</title>
+      <link>https://wobuzz.io/shows/the_zorchman_s_psychobilly_spe_20260109_193107/</link>
+      <guid isPermaLink="true">https://wobuzz.io/shows/the_zorchman_s_psychobilly_spe_20260109_193107/</guid>
+      <pubDate>Fri, 09 Jan 2026 18:31:07 GMT</pubDate>
+
+      <description><![CDATA[
+        
+        <p>A late-night journey through psychobilly&#39;s unholy origins - from the 1950s primal scream of The Phantom to the Klub Foot chaos of The Meteors. Featuring P. Paul Fenech&#39;s cult-leader charisma, the kinetic energy of the wrecking pit, and the strange Lynchian surrealism that defined a genre.</p>
+        
+
+        
+        <p><strong>Series:</strong> Rock Ritual</p>
+        
+
+        
+        <p><strong>Tags:</strong> rock, psychobilly, Klub Foot, hard rock, classic rock, punk, 1980s, rockabilly, The Meteors</p>
+        
+
+        
+        <h3>Tracklist:</h3>
+        <ol>
+        
+          <li>
+            <strong>The Phantom</strong> - Love Me
+             (The Roots Of Psychobilly, 1958)
+          </li>
+        
+          <li>
+            <strong>The Meteors</strong> - Rockabilly Psychosis
+             (In Heaven, 1981)
+          </li>
+        
+          <li>
+            <strong>The Meteors</strong> - Mutant Rock
+             (Psychobilly Revolution, 1999)
+          </li>
+        
+          <li>
+            <strong>Alan Vega</strong> - Jukebox Babe
+             (Alan Vega, 1980)
+          </li>
+        
+          <li>
+            <strong>Diablito</strong> - The Jungle
+             (Jungle Exotica, 1960)
+          </li>
+        
+          <li>
+            <strong>The Meteors</strong> - Wreckin&#39; Crew
+             (Only The Meteors Are Pure Psychobilly, 1988)
+          </li>
+        
+        </ol>
+        
+      ]]></description>
+
+      
+      <enclosure url="https://www.mixcloud.com/wobuzz/the-zorchmans-psychobilly-special/" type="audio/mpeg" length="0"/>
+      
+
+      
+      <itunes:image href="https://wobuzz.io/shows/the_zorchman_s_psychobilly_spe_20260109_193107/cover.jpg"/>
+      
+
+      
+      
+      <category>rock</category>
+      
+      <category>psychobilly</category>
+      
+      <category>Klub Foot</category>
+      
+      <category>hard rock</category>
+      
+      <category>classic rock</category>
+      
+      <category>punk</category>
+      
+      <category>1980s</category>
+      
+      <category>rockabilly</category>
+      
+      <category>The Meteors</category>
+      
+      
+
+      <itunes:author>RDIO</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      
+      <itunes:duration>1080</itunes:duration>
+      
+    </item>
+    
+    <item>
+      <title>The Melancholy Disciples</title>
+      <link>https://wobuzz.io/shows/the_melancholy_disciples_20260108_190020/</link>
+      <guid isPermaLink="true">https://wobuzz.io/shows/the_melancholy_disciples_20260108_190020/</guid>
+      <pubDate>Thu, 08 Jan 2026 18:00:20 GMT</pubDate>
+
+      <description><![CDATA[
+        
+        <p>A journey through three generations of melancholy indie rock - from Johnny Marr&#39;s guitar revolution to The Cure&#39;s emotional mastery to The Twilight Sad&#39;s Scottish walls of sound</p>
+        
+
+        
+        <p><strong>Series:</strong> Indie Pulse</p>
+        
+
+        
+        <p><strong>Tags:</strong> indie, Scottish, The Smiths, The Cure, indie rock, alternative, post-punk, British, underground</p>
+        
+
+        
+        <h3>Tracklist:</h3>
+        <ol>
+        
+          <li>
+            <strong>Johnny Marr</strong> - Rise
+             (Call the Comet, 2018)
+          </li>
+        
+          <li>
+            <strong>Johnny Marr</strong> - Hi Hello
+             (Call the Comet, 2018)
+          </li>
+        
+          <li>
+            <strong>The Cure</strong> - A Letter To Elise
+             (Wish, 1992)
+          </li>
+        
+          <li>
+            <strong>The Twilight Sad</strong> - [10 Good Reasons for Modern Drugs]
+             (It Won&#39;t Be Like This All the Time, 2019)
+          </li>
+        
+          <li>
+            <strong>The Twilight Sad</strong> - VTr
+             (It Won&#39;t Be Like This All the Time, 2019)
+          </li>
+        
+          <li>
+            <strong>Johnny Marr</strong> - Walk Into the Sea
+             (Call the Comet, 2018)
+          </li>
+        
+          <li>
+            <strong>The Cure</strong> - From The Edge Of The Deep Green Sea
+             (Wish, 1992)
+          </li>
+        
+          <li>
+            <strong>The Twilight Sad</strong> - I&#39;m Not Here [Missing Face]
+             (It Won&#39;t Be Like This All the Time, 2019)
+          </li>
+        
+          <li>
+            <strong>Johnny Marr</strong> - My Eternal
+             (Call the Comet, 2018)
+          </li>
+        
+          <li>
+            <strong>The Twilight Sad</strong> - Let&#39;s Get Lost
+             (It Won&#39;t Be Like This All the Time, 2019)
+          </li>
+        
+        </ol>
+        
+      ]]></description>
+
+      
+      <enclosure url="https://www.mixcloud.com/wobuzz/the-melancholy-disciples/" type="audio/mpeg" length="0"/>
+      
+
+      
+      <itunes:image href="https://wobuzz.io/shows/the_melancholy_disciples_20260108_190020/cover.jpg"/>
+      
+
+      
+      
+      <category>indie</category>
+      
+      <category>Scottish</category>
+      
+      <category>The Smiths</category>
+      
+      <category>The Cure</category>
+      
+      <category>indie rock</category>
+      
+      <category>alternative</category>
+      
+      <category>post-punk</category>
+      
+      <category>British</category>
+      
+      <category>underground</category>
+      
+      
+
+      <itunes:author>RDIO</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      
+      <itunes:duration>1800</itunes:duration>
+      
+    </item>
+    
+    <item>
+      <title>Captain Beefheart Legacy: From Trout Mask to Swordfish</title>
+      <link>https://wobuzz.io/shows/captain_beefheart_legacy__from_20260108_171632/</link>
+      <guid isPermaLink="true">https://wobuzz.io/shows/captain_beefheart_legacy__from_20260108_171632/</guid>
+      <pubDate>Thu, 08 Jan 2026 16:16:32 GMT</pubDate>
+
+      <description><![CDATA[
+        
+        <p>Tracing Don Van Vliet&#39;s avant-garde blueprint from Safe As Milk through Trout Mask Replica, and its direct influence on Tom Waits&#39; Swordfishtrombones</p>
+        
+
+        
+        <p><strong>Series:</strong> avant-abyss</p>
+        
+
+        
+        <p><strong>Tags:</strong> experimental, avant-garde, blues rock, noise, tom waits, captain beefheart, 1980s, 1960s</p>
+        
+
+        
+        <h3>Tracklist:</h3>
+        <ol>
+        
+          <li>
+            <strong>Captain Beefheart &amp; His Magic Band</strong> - Sure &#39;Nuff &#39;n Yes I Do
+             (Safe As Milk, 1967)
+          </li>
+        
+          <li>
+            <strong>Captain Beefheart &amp; His Magic Band</strong> - Electricity
+             (Safe As Milk, 1967)
+          </li>
+        
+          <li>
+            <strong>Tom Waits</strong> - Underground
+             (Swordfishtrombones, 1983)
+          </li>
+        
+          <li>
+            <strong>Captain Beefheart And His Magic Band</strong> - Frownland
+             (Trout Mask Replica, 1969)
+          </li>
+        
+          <li>
+            <strong>Captain Beefheart And His Magic Band</strong> - Moonlight On Vermont
+             (Trout Mask Replica, 1969)
+          </li>
+        
+          <li>
+            <strong>Tom Waits</strong> - 16 Shells From A 30.6
+             (Swordfishtrombones, 1983)
+          </li>
+        
+          <li>
+            <strong>Captain Beefheart And His Magic Band</strong> - Pachuco Cadaver
+             (Trout Mask Replica, 1969)
+          </li>
+        
+          <li>
+            <strong>Captain Beefheart And His Magic Band</strong> - My Human Gets Me Blues
+             (Trout Mask Replica, 1969)
+          </li>
+        
+          <li>
+            <strong>Tom Waits</strong> - Frank&#39;s Wild Years
+             (Swordfishtrombones, 1983)
+          </li>
+        
+        </ol>
+        
+      ]]></description>
+
+      
+      <enclosure url="https://www.mixcloud.com/wobuzz/captain-beefheart-legacy-from-trout-mask-to-swordfish/" type="audio/mpeg" length="0"/>
+      
+
+      
+      <itunes:image href="https://wobuzz.io/shows/captain_beefheart_legacy__from_20260108_171632/cover.jpg"/>
+      
+
+      
+      
+      <category>experimental</category>
+      
+      <category>avant-garde</category>
+      
+      <category>blues rock</category>
+      
+      <category>noise</category>
+      
+      <category>tom waits</category>
+      
+      <category>captain beefheart</category>
+      
+      <category>1980s</category>
+      
+      <category>1960s</category>
+      
+      
+
+      <itunes:author>RDIO</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      
+      <itunes:duration>1620</itunes:duration>
+      
+    </item>
+    
+    <item>
+      <title>Circuit Dreams: The Architecture of Sound</title>
+      <link>https://wobuzz.io/shows/circuit_dreams__the_architectu_20260107_200006/</link>
+      <guid isPermaLink="true">https://wobuzz.io/shows/circuit_dreams__the_architectu_20260107_200006/</guid>
+      <pubDate>Wed, 07 Jan 2026 19:00:06 GMT</pubDate>
+
+      <description><![CDATA[
+        
+        <p>A journey through experimental electronica, from Prefuse 73 to Boards of Canada and Flying Lotus.</p>
+        
+
+        
+        <p><strong>Series:</strong> Glitch Galaxy</p>
+        
+
+        
+        <p><strong>Tags:</strong> glitch, IDM, electronic, experimental, techno</p>
+        
+
+        
+        <h3>Tracklist:</h3>
+        <ol>
+        
+          <li>
+            <strong>Boards of Canada</strong> - An Eagle In Your Mind
+             (Music Has The Right To Children, 1998)
+          </li>
+        
+          <li>
+            <strong>Prefuse 73</strong> - Radio Attack
+             (Vocal Studies + Uprock Narratives, 2001)
+          </li>
+        
+          <li>
+            <strong>Prefuse 73</strong> - One Word Extinguisher
+             (One Word Extinguisher, 2003)
+          </li>
+        
+          <li>
+            <strong>Squarepusher</strong> - Plotinus
+             (Hello Everything, 2006)
+          </li>
+        
+          <li>
+            <strong>Flying Lotus</strong> - All In
+             (Until the Quiet Comes, 2012)
+          </li>
+        
+          <li>
+            <strong>Plaid</strong> - Ralome
+             (Rest Proof Clockwork, 1999)
+          </li>
+        
+          <li>
+            <strong>Amon Tobin</strong> - Displaced
+             (Chaos Theory, 2005)
+          </li>
+        
+          <li>
+            <strong>Boards of Canada</strong> - New Seeds
+             (Tomorrow&#39;s Harvest, 2013)
+          </li>
+        
+        </ol>
+        
+      ]]></description>
+
+      
+      <enclosure url="https://www.mixcloud.com/wobuzz/circuit-dreams-the-architecture-of-sound/" type="audio/mpeg" length="0"/>
+      
+
+      
+      <itunes:image href="https://wobuzz.io/shows/circuit_dreams__the_architectu_20260107_200006/cover.jpg"/>
+      
+
+      
+      
+      <category>glitch</category>
+      
+      <category>IDM</category>
+      
+      <category>electronic</category>
+      
+      <category>experimental</category>
+      
+      <category>techno</category>
+      
+      
+
+      <itunes:author>RDIO</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      
+      <itunes:duration>1440</itunes:duration>
+      
+    </item>
+    
+    <item>
+      <title>Nocturnal Dreams: A Chopin Journey</title>
+      <link>https://wobuzz.io/shows/nocturnal_dreams__a_chopin_jou_20260106_124149/</link>
+      <guid isPermaLink="true">https://wobuzz.io/shows/nocturnal_dreams__a_chopin_jou_20260106_124149/</guid>
+      <pubDate>Tue, 06 Jan 2026 11:41:49 GMT</pubDate>
+
+      <description><![CDATA[
+        
+        <p>An intimate exploration of Frédéric Chopin&#39;s nocturnes, those moonlit masterpieces that transformed the piano into a vessel for pure emotion. Performed by Adam Harasiewicz, winner of the 1955 International Chopin Piano Competition.</p>
+        
+
+        
+        <p><strong>Series:</strong> Classical Masters</p>
+        
+
+        
+        <p><strong>Tags:</strong> chopin, orchestral, piano, composers, classical, romantic, nocturnes</p>
+        
+
+        
+        <h3>Tracklist:</h3>
+        <ol>
+        
+          <li>
+            <strong>Frédéric Chopin</strong> - Nocturne No. 1 in B flat minor, Op. 9 No. 1
+             (Nocturnes, 1832)
+          </li>
+        
+          <li>
+            <strong>Frédéric Chopin</strong> - Nocturne No. 2 in E flat major, Op. 9 No. 2
+             (Nocturnes, 1832)
+          </li>
+        
+          <li>
+            <strong>Frédéric Chopin</strong> - Nocturne No. 7 in C sharp minor, Op. 27 No. 1
+             (Nocturnes, 1836)
+          </li>
+        
+          <li>
+            <strong>Frédéric Chopin</strong> - Nocturne No. 8 in D flat major, Op. 27 No. 2
+             (Nocturnes, 1836)
+          </li>
+        
+          <li>
+            <strong>Frédéric Chopin</strong> - Nocturne No. 13 in C minor, Op. 48 No. 1
+             (Nocturnes, 1841)
+          </li>
+        
+          <li>
+            <strong>Frédéric Chopin</strong> - Nocturne No. 20 in C sharp minor, Op. posth.
+             (Nocturnes, 1830)
+          </li>
+        
+        </ol>
+        
+      ]]></description>
+
+      
+      <enclosure url="https://www.mixcloud.com/wobuzz/nocturnal-dreams-a-chopin-journey/" type="audio/mpeg" length="0"/>
+      
+
+      
+      <itunes:image href="https://wobuzz.io/shows/nocturnal_dreams__a_chopin_jou_20260106_124149/cover.jpg"/>
+      
+
+      
+      
+      <category>chopin</category>
+      
+      <category>orchestral</category>
+      
+      <category>piano</category>
+      
+      <category>composers</category>
+      
+      <category>classical</category>
+      
+      <category>romantic</category>
+      
+      <category>nocturnes</category>
+      
+      
+
+      <itunes:author>RDIO</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      
+      <itunes:duration>1080</itunes:duration>
+      
+    </item>
+    
+    <item>
+      <title>Jazz Rock Revolution of the 70s</title>
+      <link>https://wobuzz.io/shows/jazz_rock_revolution_of_the_70_20260105_225655/</link>
+      <guid isPermaLink="true">https://wobuzz.io/shows/jazz_rock_revolution_of_the_70_20260105_225655/</guid>
+      <pubDate>Mon, 05 Jan 2026 21:56:55 GMT</pubDate>
+
+      <description><![CDATA[
+        
+        <p>A journey through the explosive 1970s fusion movement where jazz improvisation collided with rock energy, funk rhythms, and electronic experimentation. From Miles Davis&#39; electric breakthrough to the virtuoso fireworks of Mahavishnu Orchestra and Return to Forever.</p>
+        
+
+        
+        <p><strong>Series:</strong> fusion-frontiers</p>
+        
+
+        
+        <p><strong>Tags:</strong> jazz-rock, experimental, progressive jazz, electric jazz, fusion, jazz rock, 70s</p>
+        
+
+        
+        <h3>Tracklist:</h3>
+        <ol>
+        
+          <li>
+            <strong>Miles Davis</strong> - Bitches Brew
+             (Bitches Brew, 1970)
+          </li>
+        
+          <li>
+            <strong>Herbie Hancock</strong> - Actual Proof
+             (Thrust, 1974)
+          </li>
+        
+          <li>
+            <strong>Weather Report</strong> - Birdland
+             (Heavy Weather, 1977)
+          </li>
+        
+          <li>
+            <strong>Mahavishnu Orchestra</strong> - Birds Of Fire
+             (Birds Of Fire, 1973)
+          </li>
+        
+          <li>
+            <strong>Return to Forever</strong> - Romantic Warrior
+             (Romantic Warrior, 1975)
+          </li>
+        
+          <li>
+            <strong>Soft Machine</strong> - Chloe and the Pirates
+             (Six, 1973)
+          </li>
+        
+          <li>
+            <strong>Billy Cobham</strong> - Searching for the Right Door
+             (Spectrum, 1973)
+          </li>
+        
+          <li>
+            <strong>Passport</strong> - Ju-Ju-Man
+             (Infinity Machine, 1976)
+          </li>
+        
+        </ol>
+        
+      ]]></description>
+
+      
+      <enclosure url="https://www.mixcloud.com/wobuzz/jazz-rock-revolution-of-the-70s/" type="audio/mpeg" length="0"/>
+      
+
+      
+      <itunes:image href="https://wobuzz.io/shows/jazz_rock_revolution_of_the_70_20260105_225655/cover.jpg"/>
+      
+
+      
+      
+      <category>jazz-rock</category>
+      
+      <category>experimental</category>
+      
+      <category>progressive jazz</category>
+      
+      <category>electric jazz</category>
+      
+      <category>fusion</category>
+      
+      <category>jazz rock</category>
+      
+      <category>70s</category>
+      
+      
+
+      <itunes:author>RDIO</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      
+      <itunes:duration>1440</itunes:duration>
+      
+    </item>
+    
+    <item>
+      <title>Spatial Minimalism</title>
+      <link>https://wobuzz.io/shows/spatial_minimalism_20260105_205327/</link>
+      <guid isPermaLink="true">https://wobuzz.io/shows/spatial_minimalism_20260105_205327/</guid>
+      <pubDate>Mon, 05 Jan 2026 19:53:28 GMT</pubDate>
+
+      <description><![CDATA[
+        
+        <p>Italian electronic pioneer Roberto Cacciapaglia alongside Terry Riley, Suzanne Ciani, and other minimalist masters exploring the boundaries of ambient soundscapes</p>
+        
+
+        
+        <p><strong>Series:</strong> Driftspace</p>
+        
+
+        
+        <p><strong>Tags:</strong> electronic, ambient, minimalism, meditation, atmospheric, contemporary classical</p>
+        
+
+        
+        <h3>Tracklist:</h3>
+        <ol>
+        
+          <li>
+            <strong>Roberto Cacciapaglia</strong> - 1st movement
+             (Sonanze, 1975)
+          </li>
+        
+          <li>
+            <strong>Terry Riley</strong> - Jaipur local
+             (No Man&#39;s Land, 1984)
+          </li>
+        
+          <li>
+            <strong>Hiroshi Yoshimura</strong> - Water Copy
+             (Music for Nine Post Cards, 1982)
+          </li>
+        
+          <li>
+            <strong>Roberto Cacciapaglia</strong> - 5th movement
+             (Sonanze, 1975)
+          </li>
+        
+          <li>
+            <strong>Suzanne Ciani</strong> - Sirens
+             (Seven Waves, 1994)
+          </li>
+        
+          <li>
+            <strong>Brian Eno</strong> - Markgraph
+             (The Shutov Assembly, 1990)
+          </li>
+        
+          <li>
+            <strong>Roberto Cacciapaglia</strong> - Canone Degli Spazi
+             (canone degli spazi, 2009)
+          </li>
+        
+        </ol>
+        
+      ]]></description>
+
+      
+      <enclosure url="https://www.mixcloud.com/wobuzz/spatial-minimalism/" type="audio/mpeg" length="0"/>
+      
+
+      
+      <itunes:image href="https://wobuzz.io/shows/spatial_minimalism_20260105_205327/cover.jpg"/>
+      
+
+      
+      
+      <category>electronic</category>
+      
+      <category>ambient</category>
+      
+      <category>minimalism</category>
+      
+      <category>meditation</category>
+      
+      <category>atmospheric</category>
+      
+      <category>contemporary classical</category>
+      
+      
+
+      <itunes:author>RDIO</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      
+      <itunes:duration>1260</itunes:duration>
+      
+    </item>
+    
+    <item>
+      <title>Japanese Fusion: East Meets West in Sound</title>
+      <link>https://wobuzz.io/shows/japanese_fusion__east_meets_we_20260104_154152/</link>
+      <guid isPermaLink="true">https://wobuzz.io/shows/japanese_fusion__east_meets_we_20260104_154152/</guid>
+      <pubDate>Sun, 04 Jan 2026 14:41:52 GMT</pubDate>
+
+      <description><![CDATA[
+        
+        <p>A sonic journey through Japan&#39;s groundbreaking fusion movement of the 1970s and early 80s, where traditional Japanese sensibilities merged with American jazz, funk, and electronic experimentation. Featuring Hiroshi Suzuki, Ryo Kawasaki, Jun Fukamachi, Haruomi Hosono, and other pioneers who created a uniquely Japanese sound that captivated the world.</p>
+        
+
+        
+        <p><strong>Series:</strong> fusion-frontiers</p>
+        
+
+        
+        <p><strong>Tags:</strong> fusion, jazz-rock, progressive fusion, experimental, japanese fusion, exotica, jazz fusion</p>
+        
+
+        
+        <h3>Tracklist:</h3>
+        <ol>
+        
+          <li>
+            <strong>Hiroshi Suzuki</strong> - Cat
+             (Cat, 1976)
+          </li>
+        
+          <li>
+            <strong>Haruomi Hosono</strong> - Japanese Rhumba
+             (Paraiso, 1978)
+          </li>
+        
+          <li>
+            <strong>Ryo Kawasaki</strong> - Bamboo Child
+             (Juice, 1976)
+          </li>
+        
+          <li>
+            <strong>Jun Fukamachi</strong> - Spiral Steps
+             (Spiral Steps, 1976)
+          </li>
+        
+          <li>
+            <strong>Hiromasa Suzuki</strong> - Scramble
+             (High-Flying, 1976)
+          </li>
+        
+          <li>
+            <strong>清水靖晃</strong> - 案山子
+             (案山子, 1982)
+          </li>
+        
+        </ol>
+        
+      ]]></description>
+
+      
+      <enclosure url="https://www.mixcloud.com/wobuzz/japanese-fusion-east-meets-west-in-sound/" type="audio/mpeg" length="0"/>
+      
+
+      
+      <itunes:image href="https://wobuzz.io/shows/japanese_fusion__east_meets_we_20260104_154152/cover.jpg"/>
+      
+
+      
+      
+      <category>fusion</category>
+      
+      <category>jazz-rock</category>
+      
+      <category>progressive fusion</category>
+      
+      <category>experimental</category>
+      
+      <category>japanese fusion</category>
+      
+      <category>exotica</category>
+      
+      <category>jazz fusion</category>
+      
+      
+
+      <itunes:author>RDIO</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      
+      <itunes:duration>1080</itunes:duration>
+      
+    </item>
+    
+    <item>
+      <title>Kosmische Musik: A Journey Through Krautrock</title>
+      <link>https://wobuzz.io/shows/kosmische_musik__a_journey_thr_20260103_191339/</link>
+      <guid isPermaLink="true">https://wobuzz.io/shows/kosmische_musik__a_journey_thr_20260103_191339/</guid>
+      <pubDate>Sat, 03 Jan 2026 18:13:39 GMT</pubDate>
+
+      <description><![CDATA[
+        
+        <p>An exploration of Germany&#39;s revolutionary 1970s rock scene, featuring motorik rhythms, cosmic explorations, and avant-garde experimentation from the pioneers who changed music forever.</p>
+        
+
+        
+        <p><strong>Series:</strong> Underground Sounds</p>
+        
+
+        
+        <p><strong>Tags:</strong> krautrock, experimental, psychedelic, ambient, motorik, german rock, 1970s</p>
+        
+
+        
+        <h3>Tracklist:</h3>
+        <ol>
+        
+          <li>
+            <strong>Neu!</strong> - Hallogallo
+             (Neu!, 1972)
+          </li>
+        
+          <li>
+            <strong>CAN</strong> - Vitamin C
+             (Ege Bamyasi, 1972)
+          </li>
+        
+          <li>
+            <strong>Faust</strong> - The Sad Skinhead
+             (Faust IV, 1973)
+          </li>
+        
+          <li>
+            <strong>Ash Ra Tempel</strong> - Look at Your Sun
+             (Schwingungen (Ohr), 1972)
+          </li>
+        
+          <li>
+            <strong>Popol Vuh</strong> - Aguirre I (L&#39;acrime di rei)
+             (Aguirre, 1976)
+          </li>
+        
+          <li>
+            <strong>CLUSTER &amp; ENO</strong> - Ho Renomo
+             (Cluster &amp; Eno, 1977)
+          </li>
+        
+        </ol>
+        
+      ]]></description>
+
+      
+      <enclosure url="https://www.mixcloud.com/wobuzz/kosmische-musik-a-journey-through-krautrock/" type="audio/mpeg" length="0"/>
+      
+
+      
+      <itunes:image href="https://wobuzz.io/shows/kosmische_musik__a_journey_thr_20260103_191339/cover.jpg"/>
+      
+
+      
+      
+      <category>krautrock</category>
+      
+      <category>experimental</category>
+      
+      <category>psychedelic</category>
+      
+      <category>ambient</category>
+      
+      <category>motorik</category>
+      
+      <category>german rock</category>
+      
+      <category>1970s</category>
+      
+      
+
+      <itunes:author>RDIO</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      
+      <itunes:duration>1080</itunes:duration>
+      
+    </item>
+    
+    <item>
+      <title>Duende - The Soul of Flamenco</title>
+      <link>https://wobuzz.io/shows/duende___the_soul_of_flamenco_20260102_004910/</link>
+      <guid isPermaLink="true">https://wobuzz.io/shows/duende___the_soul_of_flamenco_20260102_004910/</guid>
+      <pubDate>Thu, 01 Jan 2026 23:49:10 GMT</pubDate>
+
+      <description><![CDATA[
+        
+        <p>A passionate journey through flamenco music featuring legendary artists Paco de Lucia, Camaron de la Isla, Ketama, and Carlos Heredia. From traditional forms to nuevo flamenco, experience the duende - that inexplicable magic that transforms sound into pure emotion.</p>
+        
+
+        
+        <p><strong>Series:</strong> World Music Journeys</p>
+        
+
+        
+        <p><strong>Tags:</strong> flamenco, spanish, guitar, world music, nuevo flamenco</p>
+        
+
+        
+        <h3>Tracklist:</h3>
+        <ol>
+        
+          <li>
+            <strong>Paco de Lucia</strong> - Entre Dos Aguas
+             (Fuente Y Caudal, 1973)
+          </li>
+        
+          <li>
+            <strong>Camaron de la Isla</strong> - Volando voy
+             (La leyenda del tiempo, 1978)
+          </li>
+        
+          <li>
+            <strong>Paco de Lucia</strong> - Allegrias
+             (En Vivo Desde El Teatro Real, 1975)
+          </li>
+        
+          <li>
+            <strong>Camaron de la Isla &amp; Paco de Lucia</strong> - Como Castillo De Arena
+             (Castillo de arena, 1977)
+          </li>
+        
+          <li>
+            <strong>Carlos Heredia</strong> - No Quiero Verte - Tangos
+             (Gypsy Flamenco, 2004)
+          </li>
+        
+          <li>
+            <strong>Ketama, Toumani Diabate &amp; Danny Thompson</strong> - Jarabi
+             (Songhai, 1988)
+          </li>
+        
+          <li>
+            <strong>Ketama</strong> - Vengo de borrachera
+             (El Arte de lo invisible, 1993)
+          </li>
+        
+          <li>
+            <strong>Paco de Lucia</strong> - Solea
+             (En Vivo Desde El Teatro Real, 1975)
+          </li>
+        
+          <li>
+            <strong>Camaron de la Isla</strong> - Nana del caballo grande
+             (La leyenda del tiempo, 1978)
+          </li>
+        
+          <li>
+            <strong>Carlos Heredia</strong> - Las tres Mil - Bulerias
+             (Gypsy Flamenco, 2004)
+          </li>
+        
+          <li>
+            <strong>Ketama, Toumani Diabate &amp; Jose Soto</strong> - Ndia
+             (Songhai 2, 1994)
+          </li>
+        
+          <li>
+            <strong>Paco de Lucia</strong> - Zapateado
+             (En Vivo Desde El Teatro Real, 1975)
+          </li>
+        
+          <li>
+            <strong>Camaron de la Isla</strong> - Homenaje a Federico
+             (La leyenda del tiempo, 1978)
+          </li>
+        
+        </ol>
+        
+      ]]></description>
+
+      
+      <enclosure url="https://www.mixcloud.com/wobuzz/duende-the-soul-of-flamenco/" type="audio/mpeg" length="0"/>
+      
+
+      
+      <itunes:image href="https://wobuzz.io/shows/duende___the_soul_of_flamenco_20260102_004910/cover.jpg"/>
+      
+
+      
+      
+      <category>flamenco</category>
+      
+      <category>spanish</category>
+      
+      <category>guitar</category>
+      
+      <category>world music</category>
+      
+      <category>nuevo flamenco</category>
+      
+      
+
+      <itunes:author>RDIO</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      
+      <itunes:duration>2340</itunes:duration>
+      
+    </item>
+    
+    <item>
+      <title>Black President: The Revolutionary Sound of Fela Kuti</title>
+      <link>https://wobuzz.io/shows/black_president__the_revolutio_20260102_001631/</link>
+      <guid isPermaLink="true">https://wobuzz.io/shows/black_president__the_revolutio_20260102_001631/</guid>
+      <pubDate>Thu, 01 Jan 2026 23:16:31 GMT</pubDate>
+
+      <description><![CDATA[
+        
+        <p>A celebration of Fela Anikulapo Kuti, the Nigerian musician who invented Afrobeat and used his music as a weapon against corruption and military dictatorship. This show explores his incredible journey from London jazz student to Africa&#39;s most challenging and charismatic performer.</p>
+        
+
+        
+        <p><strong>Series:</strong> African Legends</p>
+        
+
+        
+        <p><strong>Tags:</strong> afrobeat, fela kuti, african music, protest music, nigerian, funk, jazz</p>
+        
+
+        
+        <h3>Tracklist:</h3>
+        <ol>
+        
+          <li>
+            <strong>Fela Kuti</strong> - Highlife Time
+             (Koola Lobitos / The &#39;69 L.A. Sessions, 2010)
+          </li>
+        
+          <li>
+            <strong>Fela Kuti</strong> - Water No Get Enemy
+             (Expensive Shit / He Miss Road, 2010)
+          </li>
+        
+          <li>
+            <strong>Fela Ransome-Kuti &amp; Afrika &#39;70</strong> - Zombie
+             (Zombie (2001 Issue), 1977)
+          </li>
+        
+          <li>
+            <strong>Fela Kuti</strong> - Sorrow Tears And Blood
+             (Opposite People / Sorrow Tears And Blood, 2010)
+          </li>
+        
+          <li>
+            <strong>Fela Kuti</strong> - Shuffering And Shmiling
+             (Shuffering And Shmiling / No Agreement, 2010)
+          </li>
+        
+          <li>
+            <strong>Fela Kuti</strong> - Colonial Mentality
+             (Opposite People / Sorrow Tears And Blood, 2010)
+          </li>
+        
+          <li>
+            <strong>Fela Kuti</strong> - I.T.T. (International Thief Thief)
+             (Original Suffer Head / ITT, 2010)
+          </li>
+        
+          <li>
+            <strong>Fela Kuti With Ginger Baker</strong> - Ginger Baker &amp; Tony Allen Drum Solo
+             (Live!, 2010)
+          </li>
+        
+          <li>
+            <strong>Fela Kuti</strong> - Fear Not For Man
+             (Stalemate / Fear Not For Man, 2010)
+          </li>
+        
+          <li>
+            <strong>Fela Kuti</strong> - Upside Down
+             (Upside Down / Music Of Many Colours, 2010)
+          </li>
+        
+        </ol>
+        
+      ]]></description>
+
+      
+      <enclosure url="https://www.mixcloud.com/wobuzz/black-president-the-revolutionary-sound-of-fela-kuti/" type="audio/mpeg" length="0"/>
+      
+
+      
+      <itunes:image href="https://wobuzz.io/shows/black_president__the_revolutio_20260102_001631/cover.jpg"/>
+      
+
+      
+      
+      <category>afrobeat</category>
+      
+      <category>fela kuti</category>
+      
+      <category>african music</category>
+      
+      <category>protest music</category>
+      
+      <category>nigerian</category>
+      
+      <category>funk</category>
+      
+      <category>jazz</category>
+      
+      
+
+      <itunes:author>RDIO</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      
+      <itunes:duration>1800</itunes:duration>
+      
+    </item>
+    
+    <item>
+      <title>Brazilian Heat</title>
+      <link>https://wobuzz.io/shows/brazilian_heat_20260101_224021/</link>
+      <guid isPermaLink="true">https://wobuzz.io/shows/brazilian_heat_20260101_224021/</guid>
+      <pubDate>Thu, 01 Jan 2026 21:40:21 GMT</pubDate>
+
+      <description><![CDATA[
+        
+
+        
+        <p><strong>Series:</strong> World Music Sessions</p>
+        
+
+        
+
+        
+        <h3>Tracklist:</h3>
+        <ol>
+        
+          <li>
+            <strong>Jorge Ben</strong> - Mas, que nada!
+             (Samba Esquema Novo, 1963)
+          </li>
+        
+          <li>
+            <strong>Sergio Mendes &amp; Brasil &#39;66</strong> - Mais Que Nada
+             (Herb Alpert Presents Sergio Mendes &amp; Brasil &#39;66, 1966)
+          </li>
+        
+          <li>
+            <strong>Walter Wanderley</strong> - Wave
+             (Batucada, 1967)
+          </li>
+        
+          <li>
+            <strong>Marcos Valle</strong> - Os Grilos
+             (Brazilliance! - A Música De Marcos Valle, 1967)
+          </li>
+        
+          <li>
+            <strong>Marcos Valle</strong> - Viola enluarada
+             (Viola enluarada, 1968)
+          </li>
+        
+          <li>
+            <strong>Jorge Ben</strong> - Negro é Lindo
+             (Negro é Lindo, 1971)
+          </li>
+        
+          <li>
+            <strong>Milton Nascimento &amp; Lô Borges</strong> - Tudo que você podia ser
+             (Clube da Esquina, 1995)
+          </li>
+        
+          <li>
+            <strong>Milton Nascimento &amp; Lô Borges</strong> - San Vicente
+             (Clube da Esquina, 1995)
+          </li>
+        
+          <li>
+            <strong>Tim Maia</strong> - Azul Da Cor Do Mar
+             (Tim Maia, 1970)
+          </li>
+        
+          <li>
+            <strong>Hermeto Pascoal</strong> - Bebê
+             (A Música Livre De Hermeto Pascoal, 1973)
+          </li>
+        
+          <li>
+            <strong>Eumir Deodato</strong> - Rhapsody In Blue
+             (Deodato 2 (LP), 1973)
+          </li>
+        
+          <li>
+            <strong>Azymuth</strong> - Jazz Carnival
+             (Outubro, 1980)
+          </li>
+        
+          <li>
+            <strong>Sergio Mendes &amp; Brasil &#39;66</strong> - Berimbau
+             (Herb Alpert Presents Sergio Mendes &amp; Brasil &#39;66, 1966)
+          </li>
+        
+          <li>
+            <strong>Egberto Gismonti</strong> - Salvador
+             (Orfeo Novo, 1970)
+          </li>
+        
+          <li>
+            <strong>Jorge Ben</strong> - Chove, chuva
+             (Samba Esquema Novo, 1963)
+          </li>
+        
+        </ol>
+        
+      ]]></description>
+
+      
+      <enclosure url="https://www.mixcloud.com/wobuzz/brazilian-heat/" type="audio/mpeg" length="0"/>
+      
+
+      
+      <itunes:image href="https://wobuzz.io/shows/brazilian_heat_20260101_224021/cover.jpg"/>
+      
+
+      
+
+      <itunes:author>RDIO</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      
+      <itunes:duration>2700</itunes:duration>
+      
+    </item>
+    
+    <item>
+      <title>Free Spirit Jazz</title>
+      <link>https://wobuzz.io/shows/free_spirit_jazz_20260101_221023/</link>
+      <guid isPermaLink="true">https://wobuzz.io/shows/free_spirit_jazz_20260101_221023/</guid>
+      <pubDate>Thu, 01 Jan 2026 21:10:23 GMT</pubDate>
+
+      <description><![CDATA[
+        
+
+        
+        <p><strong>Series:</strong> Jazz Frontiers</p>
+        
+
+        
+
+        
+        <h3>Tracklist:</h3>
+        <ol>
+        
+          <li>
+            <strong>Joe McPhee, Survival Unit II, Clifford Thornton</strong> - Nation Time
+             (N.Y.N.Y. (At WBAI&#39;s Free Music Store), 1971)
+          </li>
+        
+          <li>
+            <strong>The Giuseppi Logan Quartet</strong> - Dance Of Satan
+             (The Giuseppi Logan Quartet, 1964)
+          </li>
+        
+          <li>
+            <strong>Burton Greene Trio</strong> - Bloom In The Commune
+             (On Tour, 1966)
+          </li>
+        
+          <li>
+            <strong>Mario Schiano Trio</strong> - Collage
+             (Ecstatic, 1967)
+          </li>
+        
+          <li>
+            <strong>Barry Guy</strong> - Nature Is a Wolf
+             (Occasional Poems, 2015)
+          </li>
+        
+          <li>
+            <strong>John Cage &amp; Sun Ra</strong> - Sun Ra - Untitled Keyboard Solo 3
+             (John Cage Meets Sun Ra: The Complete Concert, June 8th 1986, Coney Island NY, 2016)
+          </li>
+        
+          <li>
+            <strong>Ken Vandermark</strong> - Omega
+             (Fox Fire, 2009)
+          </li>
+        
+        </ol>
+        
+      ]]></description>
+
+      
+      <enclosure url="https://www.mixcloud.com/wobuzz/free-spirit-jazz/" type="audio/mpeg" length="0"/>
+      
+
+      
+      <itunes:image href="https://wobuzz.io/shows/free_spirit_jazz_20260101_221023/cover.jpg"/>
+      
+
+      
+
+      <itunes:author>RDIO</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      
+      <itunes:duration>1260</itunes:duration>
+      
+    </item>
+    
+    <item>
+      <title>Latin Jazz Corner</title>
+      <link>https://wobuzz.io/shows/latin_jazz_corner_20260101_214943/</link>
+      <guid isPermaLink="true">https://wobuzz.io/shows/latin_jazz_corner_20260101_214943/</guid>
+      <pubDate>Thu, 01 Jan 2026 20:49:43 GMT</pubDate>
+
+      <description><![CDATA[
+        
+        <p>The fiery rhythms of Latin jazz, blending Afro-Cuban percussion with bebop sophistication.</p>
+        
+
+        
+        <p><strong>Series:</strong> Latin Jazz Corner</p>
+        
+
+        
+        <p><strong>Tags:</strong> latin, jazz, afro-cuban</p>
+        
+
+        
+        <h3>Tracklist:</h3>
+        <ol>
+        
+          <li>
+            <strong>Willie Bobo</strong> - Spanish Grease
+             (Let&#39;s Go Bobo - The Very Best Of, 1964)
+          </li>
+        
+          <li>
+            <strong>Tito Puente &amp; Eddie Palmieri</strong> - Picadillo Jam
+             (Masterpiece (Obra Maestra), 2000)
+          </li>
+        
+          <li>
+            <strong>Marcos Valle</strong> - Os Grilos
+             (Brazilliance! - A Música De Marcos Valle, 1967)
+          </li>
+        
+          <li>
+            <strong>Arturo Sandoval, Chick Corea, Poncho Sanchez, Pete Escovedo</strong> - A Night In Tunisia
+             (Jam Miami - A Celebration Of Latin Jazz, 2000)
+          </li>
+        
+          <li>
+            <strong>Moacir Santos</strong> - Coisa n° 5
+             (Coisas, 1965)
+          </li>
+        
+          <li>
+            <strong>Sergio Mendes &amp; Brasil &#39;66</strong> - Berimbau
+             (Herb Alpert Presents Sergio Mendes &amp; Brasil &#39;66, 1966)
+          </li>
+        
+          <li>
+            <strong>Willie Bobo</strong> - Evil Ways
+             (Let&#39;s Go Bobo - The Very Best Of, 1964)
+          </li>
+        
+          <li>
+            <strong>Eddie Palmieri</strong> - Bilongo
+             (Superimposition, 1968)
+          </li>
+        
+          <li>
+            <strong>Egberto Gismonti</strong> - Tango
+             (Árvore, 1973)
+          </li>
+        
+          <li>
+            <strong>Arturo Sandoval, Chick Corea, Poncho Sanchez, Pete Escovedo</strong> - Bésame Mama
+             (Jam Miami - A Celebration Of Latin Jazz, 2000)
+          </li>
+        
+          <li>
+            <strong>Cannonball Adderley &amp; The Bossa Rio Sextet with Sergio Mendes</strong> - Batida Diferente
+             (Cannonball Adderley &amp; The Bossa Rio Sextet with Sergio Mendes, 1962)
+          </li>
+        
+          <li>
+            <strong>Marcos Valle</strong> - Viola enluarada
+             (Viola enluarada, 1968)
+          </li>
+        
+        </ol>
+        
+      ]]></description>
+
+      
+      <enclosure url="https://www.mixcloud.com/wobuzz/latin-jazz-corner/" type="audio/mpeg" length="0"/>
+      
+
+      
+      <itunes:image href="https://wobuzz.io/shows/latin_jazz_corner_20260101_214943/cover.jpg"/>
+      
+
+      
+      
+      <category>latin</category>
+      
+      <category>jazz</category>
+      
+      <category>afro-cuban</category>
+      
+      
+
+      <itunes:author>RDIO</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      
+      <itunes:duration>2160</itunes:duration>
+      
+    </item>
+    
+    <item>
+      <title>Modal Masters</title>
+      <link>https://wobuzz.io/shows/modal_masters_20260101_213809/</link>
+      <guid isPermaLink="true">https://wobuzz.io/shows/modal_masters_20260101_213809/</guid>
+      <pubDate>Thu, 01 Jan 2026 20:38:09 GMT</pubDate>
+
+      <description><![CDATA[
+        
+        <p>A celebration of the golden age of jazz innovation, from bebop pioneers to spiritual jazz explorers.</p>
+        
+
+        
+        <p><strong>Series:</strong> Jazz Heritage</p>
+        
+
+        
+        <p><strong>Tags:</strong> jazz, bebop, modal</p>
+        
+
+        
+        <h3>Tracklist:</h3>
+        <ol>
+        
+          <li>
+            <strong>Charlie Parker/Dizzy Gillespie</strong> - Bloomdido
+             (Bird and Diz, 1952)
+          </li>
+        
+          <li>
+            <strong>McCoy Tyner</strong> - Mode To John
+             (Tender Moments, 1967)
+          </li>
+        
+          <li>
+            <strong>Herbie Hancock</strong> - Maiden Voyage
+             (Maiden Voyage, 1965)
+          </li>
+        
+          <li>
+            <strong>Alice Coltrane</strong> - Journey In Satchidananda
+             (Journey In Satchidananda, 1970)
+          </li>
+        
+          <li>
+            <strong>Joe Zawinul</strong> - Mercy, Mercy, Mercy
+             (FM Austrophon Studio Wien, 1967)
+          </li>
+        
+          <li>
+            <strong>Grant Green</strong> - Let The Music Take Your Mind
+             (Alive!, 1970)
+          </li>
+        
+          <li>
+            <strong>Cannonball Adderley</strong> - Money In The Pocket
+             (Money In The Pocket, 1966)
+          </li>
+        
+          <li>
+            <strong>Charlie Parker With Miles Davis</strong> - Scrapple From The Apple
+             (Bird and Miles, 2001)
+          </li>
+        
+          <li>
+            <strong>Alice Coltrane</strong> - Something About John Coltrane
+             (Journey In Satchidananda, 1970)
+          </li>
+        
+        </ol>
+        
+      ]]></description>
+
+      
+      <enclosure url="https://www.mixcloud.com/wobuzz/modal-masters/" type="audio/mpeg" length="0"/>
+      
+
+      
+      <itunes:image href="https://wobuzz.io/shows/modal_masters_20260101_213809/cover.jpg"/>
+      
+
+      
+      
+      <category>jazz</category>
+      
+      <category>bebop</category>
+      
+      <category>modal</category>
+      
+      
+
+      <itunes:author>RDIO</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      
+      <itunes:duration>1620</itunes:duration>
+      
+    </item>
+    
+    <item>
+      <title>The Genius of Bach</title>
+      <link>https://wobuzz.io/shows/the_genius_of_bach_20260101_210120/</link>
+      <guid isPermaLink="true">https://wobuzz.io/shows/the_genius_of_bach_20260101_210120/</guid>
+      <pubDate>Thu, 01 Jan 2026 20:01:20 GMT</pubDate>
+
+      <description><![CDATA[
+        
+        <p>A journey through Bach&#39;s most profound keyboard works, featuring legendary performances by Glenn Gould and Rosalyn Tureck.</p>
+        
+
+        
+        <p><strong>Series:</strong> Classical Masters</p>
+        
+
+        
+        <p><strong>Tags:</strong> classical, baroque, piano</p>
+        
+
+        
+        <h3>Tracklist:</h3>
+        <ol>
+        
+          <li>
+            <strong>Rosalyn Tureck</strong> - BWV 846 - Prelude-Fugue No.1 in C major - Prelude
+             (The Well-Tempered Clavier, Book 1)
+          </li>
+        
+          <li>
+            <strong>Rosalyn Tureck</strong> - BWV 846 - Prelude-Fugue No.1 in C major - Fugue
+             (The Well-Tempered Clavier, Book 1)
+          </li>
+        
+          <li>
+            <strong>Rosalyn Tureck</strong> - BWV 849 - Prelude-Fugue No.4 in C sharp minor - Prelude
+             (The Well-Tempered Clavier, Book 1)
+          </li>
+        
+          <li>
+            <strong>Rosalyn Tureck</strong> - BWV 849 - Prelude-Fugue No.4 in C sharp minor - Fugue
+             (The Well-Tempered Clavier, Book 1)
+          </li>
+        
+          <li>
+            <strong>Orchestra of the Age of Enlightment</strong> - I
+             (Brandenburgisches Konzert, 1989)
+          </li>
+        
+          <li>
+            <strong>Orchestra of the Age of Enlightment</strong> - I
+             (Brandenburgisches Konzert, 1989)
+          </li>
+        
+          <li>
+            <strong>Orchestra of the Age of Enlightment</strong> - Allegro
+             (Brandenburgisches Konzert, 1989)
+          </li>
+        
+          <li>
+            <strong>Orchestra of the Age of Enlightment</strong> - I. Allegro
+             (Brandenburgisches Konzert, 1989)
+          </li>
+        
+        </ol>
+        
+      ]]></description>
+
+      
+      <enclosure url="https://www.mixcloud.com/wobuzz/the-genius-of-bach/" type="audio/mpeg" length="0"/>
+      
+
+      
+      <itunes:image href="https://wobuzz.io/shows/the_genius_of_bach_20260101_210120/cover.jpg"/>
+      
+
+      
+      
+      <category>classical</category>
+      
+      <category>baroque</category>
+      
+      <category>piano</category>
+      
+      
+
+      <itunes:author>RDIO</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      
+      <itunes:duration>1440</itunes:duration>
+      
+    </item>
+    
+    <item>
+      <title>Indie in 2000 (Cartesia Edition)</title>
+      <link>https://wobuzz.io/shows/indie_in_2000__cartesia_editio_20260101_192400/</link>
+      <guid isPermaLink="true">https://wobuzz.io/shows/indie_in_2000__cartesia_editio_20260101_192400/</guid>
+      <pubDate>Thu, 01 Jan 2026 18:24:00 GMT</pubDate>
+
+      <description><![CDATA[
+        
+        <p>Exploring the indie rock explosion at the turn of the millennium with essential tracks from the year 2000.</p>
+        
+
+        
+        <p><strong>Series:</strong> Decade Sessions</p>
+        
+
+        
+        <p><strong>Tags:</strong> indie, alternative, 2000s</p>
+        
+
+        
+        <h3>Tracklist:</h3>
+        <ol>
+        
+          <li>
+            <strong>Radiohead</strong> - Everything in Its Right Place
+             (Kid A, 2000)
+          </li>
+        
+          <li>
+            <strong>Coldplay</strong> - Yellow
+             (Parachutes, 2000)
+          </li>
+        
+          <li>
+            <strong>Sufjan Stevens</strong> - We Are What You Say
+             (A Sun Came!, 2000)
+          </li>
+        
+          <li>
+            <strong>Radiohead</strong> - How to Disappear Completely
+             (Kid A, 2000)
+          </li>
+        
+          <li>
+            <strong>A Perfect Circle</strong> - 3 Libras
+             (Mer de Noms, 2000)
+          </li>
+        
+          <li>
+            <strong>Coldplay</strong> - Shiver
+             (Parachutes, 2000)
+          </li>
+        
+          <li>
+            <strong>Radiohead</strong> - The National Anthem
+             (Kid A, 2000)
+          </li>
+        
+        </ol>
+        
+      ]]></description>
+
+      
+      <enclosure url="https://www.mixcloud.com/kmil/indie-in-2000-cartesia-edition/" type="audio/mpeg" length="0"/>
+      
+
+      
+      <itunes:image href="https://wobuzz.io/shows/indie_in_2000__cartesia_editio_20260101_192400/cover.jpg"/>
+      
+
+      
+      
+      <category>indie</category>
+      
+      <category>alternative</category>
+      
+      <category>2000s</category>
+      
+      
+
+      <itunes:author>RDIO</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      
+      <itunes:duration>1260</itunes:duration>
+      
+    </item>
+    
+    
+  </channel>
+</rss>
