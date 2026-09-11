@@ -9,10 +9,51 @@
     <description>Curated radio shows with themed music and AI-generated presentations</description>
     <language>en-us</language>
     <atom:link href="https://wobuzz.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 11 Sep 2026 21:42:25 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 21:42:37 GMT</lastBuildDate>
     <generator>RDIO Radio Show Generator</generator>
 
     
+    
+    <item>
+      <title>Test Show</title>
+      <link>https://wobuzz.io/shows/test_show_20260911_234237/</link>
+      <guid isPermaLink="true">https://wobuzz.io/shows/test_show_20260911_234237/</guid>
+      <pubDate>Fri, 11 Sep 2026 21:42:37 GMT</pubDate>
+
+      <description><![CDATA[
+        
+        <p>A test radio show</p>
+        
+
+        
+
+        
+        <p><strong>Tags:</strong> jazz, test</p>
+        
+
+        
+      ]]></description>
+
+      
+      <enclosure url="https://www.mixcloud.com/user/test/" type="audio/mpeg" length="0"/>
+      
+
+      
+      <itunes:image href="https://wobuzz.io/shows/test_show_20260911_234237/cover.jpg"/>
+      
+
+      
+      
+      <category>jazz</category>
+      
+      <category>test</category>
+      
+      
+
+      <itunes:author>RDIO</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      
+    </item>
     
     <item>
       <title>Test Show</title>
@@ -2008,47 +2049,6 @@
 
       
       <itunes:image href="https://wobuzz.io/shows/test_show_20260911_224126/cover.jpg"/>
-      
-
-      
-      
-      <category>jazz</category>
-      
-      <category>test</category>
-      
-      
-
-      <itunes:author>RDIO</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-      
-    </item>
-    
-    <item>
-      <title>Test Show</title>
-      <link>https://wobuzz.io/shows/test_show_20260911_224124/</link>
-      <guid isPermaLink="true">https://wobuzz.io/shows/test_show_20260911_224124/</guid>
-      <pubDate>Fri, 11 Sep 2026 20:41:24 GMT</pubDate>
-
-      <description><![CDATA[
-        
-        <p>A test radio show</p>
-        
-
-        
-
-        
-        <p><strong>Tags:</strong> jazz, test</p>
-        
-
-        
-      ]]></description>
-
-      
-      <enclosure url="https://www.mixcloud.com/user/test/" type="audio/mpeg" length="0"/>
-      
-
-      
-      <itunes:image href="https://wobuzz.io/shows/test_show_20260911_224124/cover.jpg"/>
       
 
       
