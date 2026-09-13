@@ -1,4 +1,20 @@
+stages:
+  - validate
+  - deploy
+
 validate-site:
+  stage: validate
   image: python:3.12-alpine
   script:
     - python scripts/validate_site.py
+
+deploy-pages:
+  stage: deploy
+  image: alpine:3.20
+  script:
+    - mkdir public
+    - find . -mindepth 1 -maxdepth 1 ! -name .git ! -name public -exec cp -a {} public/ \;
+  pages:
+    publish: public
+  rules:
+    - if: $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH
