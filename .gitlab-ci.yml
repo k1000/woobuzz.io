@@ -1,0 +1,4 @@
+validate-site:
+  image: python:3.12-alpine
+  script:
+    - python scripts/validate_site.py
